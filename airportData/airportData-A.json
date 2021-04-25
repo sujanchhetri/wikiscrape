@@ -442,5 +442,323 @@
     "icao": "LTBJ",
     "airport_name": "adnan_menderes_airport",
     "location_served": "i̇zmir__turkey"
+  },
+  {
+    "iata": "ADC",
+    "icao": "AYAN",
+    "airport_name": "andakombe_airport",
+    "location_served": "andakombe__papua_new_guinea"
+  },
+  {
+    "iata": "ADD",
+    "icao": "HAAB",
+    "airport_name": "bole_international_airport",
+    "location_served": "addis_ababa__ethiopia"
+  },
+  {
+    "iata": "ADE",
+    "icao": "OYAA",
+    "airport_name": "aden_international_airport",
+    "location_served": "aden__yemen"
+  },
+  {
+    "iata": "ADF",
+    "icao": "LTCP",
+    "airport_name": "adıyaman_airport",
+    "location_served": "adıyaman__turkey"
+  },
+  {
+    "iata": "ADG",
+    "icao": "KADG",
+    "airport_name": "lenawee_county_airport",
+    "location_served": "adrian__michigan__united_states"
+  },
+  {
+    "iata": "ADH",
+    "icao": "UEEA",
+    "airport_name": "aldan_airport",
+    "location_served": "aldan__yakutia__russia"
+  },
+  {
+    "iata": "ADI",
+    "icao": "FYAR",
+    "airport_name": "arandis_airport",
+    "location_served": "arandis__namibia"
+  },
+  {
+    "iata": "ADJ",
+    "icao": "OJAM",
+    "airport_name": "amman_civil_airport_(marka_international_airport)",
+    "location_served": "amman__jordan"
+  },
+  {
+    "iata": "ADK",
+    "icao": "PADK",
+    "airport_name": "adak_airport",
+    "location_served": "adak_island__alaska__united_states"
+  },
+  {
+    "iata": "ADL",
+    "icao": "YPAD",
+    "airport_name": "adelaide_airport",
+    "location_served": "adelaide__south_australia__australia"
+  },
+  {
+    "iata": "ADM",
+    "icao": "KADM",
+    "airport_name": "ardmore_municipal_airport",
+    "location_served": "ardmore__oklahoma__united_states"
+  },
+  {
+    "iata": "ADN",
+    "icao": "SKAN",
+    "airport_name": "andes_airport",
+    "location_served": "andes__colombia"
+  },
+  {
+    "iata": "ADO",
+    "icao": "YAMK",
+    "airport_name": "andamooka_airport",
+    "location_served": "andamooka__south_australia__australia"
+  },
+  {
+    "iata": "ADP",
+    "icao": "VCCG",
+    "airport_name": "ampara_airport",
+    "location_served": "ampara__sri_lanka"
+  },
+  {
+    "iata": "ADQ",
+    "icao": "PADQ",
+    "airport_name": "kodiak_airport",
+    "location_served": "kodiak__alaska__united_states"
+  },
+  {
+    "iata": "ADR",
+    "icao": "KPHH",
+    "airport_name": "robert_f._swinnie_airport_(faa:_phh)",
+    "location_served": "andrews__south_carolina__united_states"
+  },
+  {
+    "iata": "ADS",
+    "icao": "KADS",
+    "airport_name": "addison_airport",
+    "location_served": "dallas__texas__united_states"
+  },
+  {
+    "iata": "ADT",
+    "icao": "KADH",
+    "airport_name": "ada_municipal_airport_(faa:_adh)",
+    "location_served": "ada__oklahoma__united_states"
+  },
+  {
+    "iata": "ADU",
+    "icao": "OITL",
+    "airport_name": "ardabil_airport",
+    "location_served": "ardabil__iran"
+  },
+  {
+    "iata": "ADV",
+    "icao": "",
+    "airport_name": "ed_daein_airport",
+    "location_served": "ed_daein__sudan"
+  },
+  {
+    "iata": "ADW",
+    "icao": "KADW",
+    "airport_name": "andrews_field_(andrews_air_force_base)",
+    "location_served": "camp_springs__maryland__united_states"
+  },
+  {
+    "iata": "ADX",
+    "icao": "EGQL",
+    "airport_name": "raf_leuchars",
+    "location_served": "st_andrews__scotland__united_kingdom"
+  },
+  {
+    "iata": "ADY",
+    "icao": "FAAL",
+    "airport_name": "alldays_airport",
+    "location_served": "alldays__south_africa"
+  },
+  {
+    "iata": "ADZ",
+    "icao": "SKSP",
+    "airport_name": "gustavo_rojas_pinilla_international_airport",
+    "location_served": "san_andres_island__colombia"
+  },
+  {
+    "iata": "AEA",
+    "icao": "NGTB",
+    "airport_name": "abemama_atoll_airport",
+    "location_served": "abemama_atoll__kiribati"
+  },
+  {
+    "iata": "AEB",
+    "icao": "ZGBS",
+    "airport_name": "baise_bama_airport",
+    "location_served": "baise__guangxi__china"
+  },
+  {
+    "iata": "AEE",
+    "icao": "",
+    "airport_name": "adareil_airport[dapi]",
+    "location_served": "adareil__south_sudan"
+  },
+  {
+    "iata": "AEG",
+    "icao": "WIME",
+    "airport_name": "aek_godang_airport",
+    "location_served": "padang_sidempuan__indonesia"
+  },
+  {
+    "iata": "AEH",
+    "icao": "FTTC",
+    "airport_name": "abéché_airport",
+    "location_served": "abéché__chad"
+  },
+  {
+    "iata": "AEK",
+    "icao": "AYAX",
+    "airport_name": "aseki_airport",
+    "location_served": "aseki__papua_new_guinea"
+  },
+  {
+    "iata": "AEL",
+    "icao": "KAEL",
+    "airport_name": "albert_lea_municipal_airport",
+    "location_served": "albert_lea__minnesota__united_states"
+  },
+  {
+    "iata": "AEM",
+    "icao": "UHTG",
+    "airport_name": "amgu_airport",
+    "location_served": "amgu__primorsky_krai__russia"
+  },
+  {
+    "iata": "AEO",
+    "icao": "GQNA",
+    "airport_name": "aioun_el_atrouss_airport",
+    "location_served": "aioun_el_atrouss__mauritania"
+  },
+  {
+    "iata": "AEP",
+    "icao": "SABE",
+    "airport_name": "jorge_newbery_airpark",
+    "location_served": "buenos_aires__argentina"
+  },
+  {
+    "iata": "AEQ",
+    "icao": "",
+    "airport_name": "ar_horqin_airport",
+    "location_served": "ar_horqin_banner__china"
+  },
+  {
+    "iata": "AER",
+    "icao": "URSS",
+    "airport_name": "sochi_international_airport",
+    "location_served": "sochi__krasnodar_krai__russia"
+  },
+  {
+    "iata": "AES",
+    "icao": "ENAL",
+    "airport_name": "ålesund_airport__vigra",
+    "location_served": "ålesund__norway"
+  },
+  {
+    "iata": "AET",
+    "icao": "PFAL",
+    "airport_name": "allakaket_airport_(faa:_dapiadapi)",
+    "location_served": "allakaket__alaska__united_states"
+  },
+  {
+    "iata": "AEU",
+    "icao": "OIBA",
+    "airport_name": "abu_musa_airport[dapi]",
+    "location_served": "abu_musa_island__iran"
+  },
+  {
+    "iata": "AEX",
+    "icao": "KAEX",
+    "airport_name": "alexandria_international_airport",
+    "location_served": "alexandria__louisiana__united_states"
+  },
+  {
+    "iata": "AEY",
+    "icao": "BIAR",
+    "airport_name": "akureyri_airport",
+    "location_served": "akureyri__iceland"
+  },
+  {
+    "iata": "AFA",
+    "icao": "SAMR",
+    "airport_name": "san_rafael_airport",
+    "location_served": "san_rafael__mendoza__argentina"
+  },
+  {
+    "iata": "AFD",
+    "icao": "FAPA",
+    "airport_name": "port_alfred_airport",
+    "location_served": "port_alfred__south_africa"
+  },
+  {
+    "iata": "AFF",
+    "icao": "KAFF",
+    "airport_name": "united_states_air_force_academy_airfield",
+    "location_served": "colorado_springs__colorado__united_states"
+  },
+  {
+    "iata": "AFI",
+    "icao": "SKAM",
+    "airport_name": "amalfi_airport",
+    "location_served": "amalfi__colombia"
+  },
+  {
+    "iata": "AFK",
+    "icao": "",
+    "airport_name": "kondavattavan_tank_seaplane_base[dapi]",
+    "location_served": "ampara__sri_lanka"
+  },
+  {
+    "iata": "AFL",
+    "icao": "SBAT",
+    "airport_name": "alta_floresta_airport",
+    "location_served": "alta_floresta__mato_grosso__brazil"
+  },
+  {
+    "iata": "AFN",
+    "icao": "KAFN",
+    "airport_name": "jaffrey_airport–silver_ranch",
+    "location_served": "jaffrey__new_hampshire__united_states"
+  },
+  {
+    "iata": "AFO",
+    "icao": "KAFO",
+    "airport_name": "afton_municipal_airport",
+    "location_served": "afton__wyoming__united_states"
+  },
+  {
+    "iata": "AFR",
+    "icao": "AYAF",
+    "airport_name": "afore_airport",
+    "location_served": "afore__papua_new_guinea"
+  },
+  {
+    "iata": "AFS",
+    "icao": "UTSN",
+    "airport_name": "zarafshan_airport",
+    "location_served": "zarafshan__uzbekistan"
+  },
+  {
+    "iata": "AFT",
+    "icao": "AGAF",
+    "airport_name": "afutara_airport",
+    "location_served": "afutara__malaita__solomon_islands"
+  },
+  {
+    "iata": "AFW",
+    "icao": "KAFW",
+    "airport_name": "fort_worth_alliance_airport",
+    "location_served": "fort_worth__texas"
   }
 ]

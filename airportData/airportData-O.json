@@ -1,0 +1,410 @@
+[
+  {
+    "iata": "OAA",
+    "icao": "OASH",
+    "airport_name": "forward_operating_base_shank",
+    "location_served": "gardez__afghanistan"
+  },
+  {
+    "iata": "OAG",
+    "icao": "YORG",
+    "airport_name": "orange_airport[dapi]",
+    "location_served": "orange__new_south_wales__australia"
+  },
+  {
+    "iata": "OAH",
+    "icao": "OASD",
+    "airport_name": "shindand_air_base",
+    "location_served": "shindand__afghanistan"
+  },
+  {
+    "iata": "OAI",
+    "icao": "OAIX",
+    "airport_name": "bagram_airfield",
+    "location_served": "bagram__afghanistan"
+  },
+  {
+    "iata": "OAJ",
+    "icao": "KOAJ",
+    "airport_name": "albert_j._ellis_airport",
+    "location_served": "jacksonville__north_carolina__united_states"
+  },
+  {
+    "iata": "OAK",
+    "icao": "KOAK",
+    "airport_name": "oakland_international_airport",
+    "location_served": "oakland__california__united_states"
+  },
+  {
+    "iata": "OAL",
+    "icao": "SSKW",
+    "airport_name": "capital_do_café_airport[dapi]",
+    "location_served": "cacoal__rondônia__brazil"
+  },
+  {
+    "iata": "OAM",
+    "icao": "NZOU",
+    "airport_name": "oamaru_airport",
+    "location_served": "oamaru__new_zealand"
+  },
+  {
+    "iata": "OAN",
+    "icao": "MHEA",
+    "airport_name": "el_arrayán_airport[dapi]",
+    "location_served": "olanchito__honduras"
+  },
+  {
+    "iata": "OAR",
+    "icao": "KOAR",
+    "airport_name": "marina_municipal_airport",
+    "location_served": "monterey_/_marina__california__united_states"
+  },
+  {
+    "iata": "OAS",
+    "icao": "OASA",
+    "airport_name": "sharana_airstrip_/_forward_operating_base_sharana",
+    "location_served": "sharana__afghanistan"
+  },
+  {
+    "iata": "OAX",
+    "icao": "MMOX",
+    "airport_name": "xoxocotlán_international_airport",
+    "location_served": "oaxaca_de_juárez__oaxaca__mexico"
+  },
+  {
+    "iata": "OAZ",
+    "icao": "OAZI",
+    "airport_name": "camp_bastion_air_base",
+    "location_served": "girishk_(gereshk)__afghanistan"
+  },
+  {
+    "iata": "OBA",
+    "icao": "",
+    "airport_name": "oban_airport[dapi]",
+    "location_served": "oban__queensland__australia"
+  },
+  {
+    "iata": "OBC",
+    "icao": "HDOB",
+    "airport_name": "obock_airport",
+    "location_served": "obock__djibouti"
+  },
+  {
+    "iata": "OBD",
+    "icao": "",
+    "airport_name": "obano_airport",
+    "location_served": "obano__indonesia"
+  },
+  {
+    "iata": "OBE",
+    "icao": "KOBE",
+    "airport_name": "okeechobee_county_airport",
+    "location_served": "okeechobee__florida__united_states"
+  },
+  {
+    "iata": "OBF",
+    "icao": "EDMO",
+    "airport_name": "oberpfaffenhofen_airport",
+    "location_served": "oberpfaffenhofen__bavaria__germany"
+  },
+  {
+    "iata": "OBI",
+    "icao": "SBTI",
+    "airport_name": "óbidos_airport[dapi]",
+    "location_served": "óbidos__pará__brazil"
+  },
+  {
+    "iata": "OBL",
+    "icao": "EBZR",
+    "airport_name": "oostmalle_airfield",
+    "location_served": "zoersel__belgium"
+  },
+  {
+    "iata": "OBM",
+    "icao": "",
+    "airport_name": "morobe_airport[dapi]",
+    "location_served": "morobe__papua_new_guinea"
+  },
+  {
+    "iata": "OBN",
+    "icao": "EGEO",
+    "airport_name": "oban_airport[dapi]_(north_connel_airport)",
+    "location_served": "oban__scotland__united_kingdom"
+  },
+  {
+    "iata": "OBO",
+    "icao": "RJCB",
+    "airport_name": "tokachi–obihiro_airport",
+    "location_served": "obihiro__hokkaido__japan"
+  },
+  {
+    "iata": "OBS",
+    "icao": "LFHO",
+    "airport_name": "aubenas_aerodrome[dapi]_(ardèche_méridionale_aerodrome)",
+    "location_served": "aubenas__rhône-alpes__france"
+  },
+  {
+    "iata": "OBU",
+    "icao": "PAOB",
+    "airport_name": "kobuk_airport",
+    "location_served": "kobuk__alaska__united_states"
+  },
+  {
+    "iata": "OBX",
+    "icao": "AYOB",
+    "airport_name": "obo_airport",
+    "location_served": "obo__papua_new_guinea"
+  },
+  {
+    "iata": "OCA",
+    "icao": "",
+    "airport_name": "ocean_reef_club_airport_(faa:_dapidapifa)",
+    "location_served": "key_largo__florida__united_states"
+  },
+  {
+    "iata": "OCC",
+    "icao": "SECO",
+    "airport_name": "francisco_de_orellana_airport",
+    "location_served": "puerto_francisco_de_orellana_(coca)__ecuador"
+  },
+  {
+    "iata": "OCE",
+    "icao": "KOXB",
+    "airport_name": "ocean_city_municipal_airport",
+    "location_served": "ocean_city__maryland__united_states"
+  },
+  {
+    "iata": "OCF",
+    "icao": "KOCF",
+    "airport_name": "ocala_international_airport_(jim_taylor_field)",
+    "location_served": "ocala__florida__united_states"
+  },
+  {
+    "iata": "OCH",
+    "icao": "KOCH",
+    "airport_name": "a.l._mangham_jr._regional_airport",
+    "location_served": "nacogdoches__texas__united_states"
+  },
+  {
+    "iata": "OCJ",
+    "icao": "MKBS",
+    "airport_name": "ian_fleming_international_airport",
+    "location_served": "ocho_rios__jamaica"
+  },
+  {
+    "iata": "OCM",
+    "icao": "YBGD",
+    "airport_name": "boolgeeda_airport[dapi]",
+    "location_served": "boolgeeda__western_australia__australia"
+  },
+  {
+    "iata": "OCN",
+    "icao": "KOKB",
+    "airport_name": "oceanside_municipal_airport_(faa:_okb)",
+    "location_served": "oceanside__california__united_states"
+  },
+  {
+    "iata": "OCS",
+    "icao": "",
+    "airport_name": "corisco_international_airport[dapi]",
+    "location_served": "corisco_island__equatorial_guinea"
+  },
+  {
+    "iata": "OCV",
+    "icao": "SKOC",
+    "airport_name": "aguas_claras_airport[dapi]",
+    "location_served": "ocaña__colombia"
+  },
+  {
+    "iata": "OCW",
+    "icao": "KOCW",
+    "airport_name": "washington–warren_airport_(warren_field)",
+    "location_served": "washington__north_carolina__united_states"
+  },
+  {
+    "iata": "ODA",
+    "icao": "FEFW",
+    "airport_name": "ouadda_airport[dapi]",
+    "location_served": "ouadda__central_african_republic"
+  },
+  {
+    "iata": "ODB",
+    "icao": "LEBA",
+    "airport_name": "córdoba_airport",
+    "location_served": "córdoba__andalusia__spain"
+  },
+  {
+    "iata": "ODC",
+    "icao": "",
+    "airport_name": "oakdale_airport[dapi]_(faa:_odapidapi)",
+    "location_served": "oakdale__california__united_states"
+  },
+  {
+    "iata": "ODD",
+    "icao": "YOOD",
+    "airport_name": "oodnadatta_airport[dapi]",
+    "location_served": "oodnadatta__south_australia__australia"
+  },
+  {
+    "iata": "ODE",
+    "icao": "EKOD",
+    "airport_name": "hans_christian_andersen_airport",
+    "location_served": "odense__denmark"
+  },
+  {
+    "iata": "ODH",
+    "icao": "EGVO",
+    "airport_name": "raf_odiham",
+    "location_served": "odiham__england__united_kingdom"
+  },
+  {
+    "iata": "ODJ",
+    "icao": "FEGO",
+    "airport_name": "ouanda_djallé_airport[dapi]",
+    "location_served": "ouanda_djallé__central_african_republic"
+  },
+  {
+    "iata": "ODL",
+    "icao": "",
+    "airport_name": "cordillo_downs_airport[dapi]",
+    "location_served": "cordillo_downs__south_australia__australia"
+  },
+  {
+    "iata": "ODM",
+    "icao": "",
+    "airport_name": "garrett_county_airport[dapi]_(faa:_dapigdapi)",
+    "location_served": "oakland__maryland__united_states"
+  },
+  {
+    "iata": "ODN",
+    "icao": "WBGI",
+    "airport_name": "long_seridan_airport[dapi]",
+    "location_served": "long_seridan__sarawak__malaysia"
+  },
+  {
+    "iata": "ODO",
+    "icao": "UIKB",
+    "airport_name": "bodaybo_airport[dapi]",
+    "location_served": "bodaybo__irkutsk_oblast__russia"
+  },
+  {
+    "iata": "ODR",
+    "icao": "YORV",
+    "airport_name": "ord_river_airport[dapi]",
+    "location_served": "ord_river__western_australia__australia"
+  },
+  {
+    "iata": "ODS",
+    "icao": "UKOO",
+    "airport_name": "odesa_international_airport",
+    "location_served": "odesa__ukraine"
+  },
+  {
+    "iata": "ODW",
+    "icao": "KOKH",
+    "airport_name": "a.j._eisenberg_airport_(faa:_okh)",
+    "location_served": "oak_harbor__washington__united_states"
+  },
+  {
+    "iata": "ODY",
+    "icao": "VLOS",
+    "airport_name": "oudomsay_airport",
+    "location_served": "muang_xay_(oudomxai)__laos"
+  },
+  {
+    "iata": "OEC",
+    "icao": "WPOC",
+    "airport_name": "oecusse_airport",
+    "location_served": "oecussi__east_timor"
+  },
+  {
+    "iata": "OEL",
+    "icao": "UUOR",
+    "airport_name": "oryol_yuzhny_airport",
+    "location_served": "oryol_(orel)__oryol_oblast__russia"
+  },
+  {
+    "iata": "OEM",
+    "icao": "SMPA",
+    "airport_name": "vincent_fayks_airport",
+    "location_served": "paloemeu__suriname"
+  },
+  {
+    "iata": "OEO",
+    "icao": "KOEO",
+    "airport_name": "l.o._simenstad_municipal_airport",
+    "location_served": "osceola__wisconsin__united_states"
+  },
+  {
+    "iata": "OER",
+    "icao": "ESNO",
+    "airport_name": "örnsköldsvik_airport",
+    "location_served": "örnsköldsvik__sweden"
+  },
+  {
+    "iata": "OES",
+    "icao": "SAVN",
+    "airport_name": "antoine_de_saint_exupéry_airport",
+    "location_served": "san_antonio_oeste__río_negro__argentina"
+  },
+  {
+    "iata": "OFF",
+    "icao": "KOFF",
+    "airport_name": "offutt_air_force_base",
+    "location_served": "omaha__nebraska__united_states"
+  },
+  {
+    "iata": "OFI",
+    "icao": "DIOF",
+    "airport_name": "ouango_fitini_airport[dapi]",
+    "location_served": "ouango_fitini__ivory_coast"
+  },
+  {
+    "iata": "OFJ",
+    "icao": "BIOF",
+    "airport_name": "ólafsfjörður_airport[dapi]",
+    "location_served": "ólafsfjörður__iceland"
+  },
+  {
+    "iata": "OFK",
+    "icao": "KOFK",
+    "airport_name": "norfolk_regional_airport_(karl_stefan_memorial_field)",
+    "location_served": "norfolk__nebraska__united_states"
+  },
+  {
+    "iata": "OFU",
+    "icao": "NSAS",
+    "airport_name": "ofu_airport_(faa:_zdapidapi)",
+    "location_served": "ofu_island__american_samoa"
+  },
+  {
+    "iata": "OGA",
+    "icao": "KOGA",
+    "airport_name": "searle_field",
+    "location_served": "ogallala__nebraska__united_states"
+  },
+  {
+    "iata": "OGB",
+    "icao": "KOGB",
+    "airport_name": "orangeburg_municipal_airport",
+    "location_served": "orangeburg__south_carolina__united_states"
+  },
+  {
+    "iata": "OGD",
+    "icao": "KOGD",
+    "airport_name": "ogden-hinckley_airport",
+    "location_served": "ogden__utah__united_states"
+  },
+  {
+    "iata": "OGE",
+    "icao": "",
+    "airport_name": "ogeramnang_airport[dapi]",
+    "location_served": "ogeramnang__papua_new_guinea"
+  },
+  {
+    "iata": "OGG",
+    "icao": "PHOG",
+    "airport_name": "kahului_airport",
+    "location_served": "kahului__hawaii__united_states"
+  }
+]

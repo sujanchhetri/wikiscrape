@@ -1,0 +1,416 @@
+[
+  {
+    "iata": "XAI",
+    "icao": "",
+    "airport_name": "xinyang_minggang_airport",
+    "location_served": "xinyang__henan__china"
+  },
+  {
+    "iata": "XAL",
+    "icao": "",
+    "airport_name": "álamos_airport",
+    "location_served": "álamos__sonora__mexico"
+  },
+  {
+    "iata": "XAP",
+    "icao": "SBCH",
+    "airport_name": "serafin_enoss_bertaso_airport",
+    "location_served": "chapecó__santa_catarina__brazil"
+  },
+  {
+    "iata": "XAR",
+    "icao": "DFOY",
+    "airport_name": "aribinda_airport",
+    "location_served": "aribinda__burkina_faso"
+  },
+  {
+    "iata": "XAU",
+    "icao": "SOOS",
+    "airport_name": "saül_airport",
+    "location_served": "saül__french_guiana"
+  },
+  {
+    "iata": "XBB",
+    "icao": "",
+    "airport_name": "blubber_bay_seaplane_base",
+    "location_served": "blubber_bay__british_columbia__canada"
+  },
+  {
+    "iata": "XBE",
+    "icao": "",
+    "airport_name": "bearskin_lake_airport_(tc:_cnedapi)",
+    "location_served": "bearskin_lake__ontario__canada"
+  },
+  {
+    "iata": "XBG",
+    "icao": "DFEB",
+    "airport_name": "bogande_airport",
+    "location_served": "bogandé__burkina_faso"
+  },
+  {
+    "iata": "XBJ",
+    "icao": "OIMB",
+    "airport_name": "birjand_international_airport",
+    "location_served": "birjand__iran"
+  },
+  {
+    "iata": "XBL",
+    "icao": "HABB",
+    "airport_name": "bedele_airport_(buno_bedele_airport)",
+    "location_served": "bedele__ethiopia"
+  },
+  {
+    "iata": "XBN",
+    "icao": "",
+    "airport_name": "biniguni_airport",
+    "location_served": "biniguni__papua_new_guinea"
+  },
+  {
+    "iata": "XBO",
+    "icao": "DFEA",
+    "airport_name": "boulsa_airport",
+    "location_served": "boulsa__burkina_faso"
+  },
+  {
+    "iata": "XBR",
+    "icao": "",
+    "airport_name": "brockville_regional_tackaberry_airport_(tc:_cnldapi)",
+    "location_served": "brockville__ontario__canada"
+  },
+  {
+    "iata": "XCH",
+    "icao": "YPXM",
+    "airport_name": "christmas_island_airport",
+    "location_served": "christmas_island__australia"
+  },
+  {
+    "iata": "XCL",
+    "icao": "",
+    "airport_name": "cluff_lake_airport_(tc:_cjsdapi)",
+    "location_served": "cluff_lake__saskatchewan__canada"
+  },
+  {
+    "iata": "XCM",
+    "icao": "CYCK",
+    "airport_name": "chatham-kent_airport",
+    "location_served": "chatham-kent__ontario__canada"
+  },
+  {
+    "iata": "XCN",
+    "icao": "",
+    "airport_name": "coron_airport",
+    "location_served": "coron__philippines"
+  },
+  {
+    "iata": "XCO",
+    "icao": "YOLA",
+    "airport_name": "colac_airport",
+    "location_served": "colac__victoria__australia"
+  },
+  {
+    "iata": "XCR",
+    "icao": "LFOK",
+    "airport_name": "châlons_vatry_airport",
+    "location_served": "châlons-en-champagne__champagne-ardenne__france"
+  },
+  {
+    "iata": "XDE",
+    "icao": "DFOU",
+    "airport_name": "diébougou_airport",
+    "location_served": "diébougou__burkina_faso"
+  },
+  {
+    "iata": "XDJ",
+    "icao": "DFCJ",
+    "airport_name": "djibo_airport",
+    "location_served": "djibo__burkina_faso"
+  },
+  {
+    "iata": "XEN",
+    "icao": "ZYXC",
+    "airport_name": "xingcheng_airport",
+    "location_served": "xingcheng__liaoning__china"
+  },
+  {
+    "iata": "XES",
+    "icao": "",
+    "airport_name": "grand_geneva_resort_airport_(faa:_cdapidapi)",
+    "location_served": "lake_geneva__wisconsin__united_states"
+  },
+  {
+    "iata": "XFN",
+    "icao": "ZHXF",
+    "airport_name": "xiangyang_liuji_airport",
+    "location_served": "xiangyang__hubei__china"
+  },
+  {
+    "iata": "XFW",
+    "icao": "EDHI",
+    "airport_name": "hamburg_finkenwerder_airport",
+    "location_served": "hamburg__germany"
+  },
+  {
+    "iata": "XGA",
+    "icao": "DFOG",
+    "airport_name": "gaoua_airport_(amilcar_cabral_airport)",
+    "location_served": "gaoua__burkina_faso"
+  },
+  {
+    "iata": "XGG",
+    "icao": "DFEG",
+    "airport_name": "gorom_gorom_airport",
+    "location_served": "gorom-gorom__burkina_faso"
+  },
+  {
+    "iata": "XGN",
+    "icao": "FNXA",
+    "airport_name": "xangongo_airport",
+    "location_served": "xangongo__angola"
+  },
+  {
+    "iata": "XGR",
+    "icao": "CYLU",
+    "airport_name": "kangiqsualujjuaq_(georges_river)_airport",
+    "location_served": "kangiqsualujjuaq__quebec__canada"
+  },
+  {
+    "iata": "XIC",
+    "icao": "ZUXC",
+    "airport_name": "xichang_qingshan_airport",
+    "location_served": "xichang__sichuan__china"
+  },
+  {
+    "iata": "XIE",
+    "icao": "",
+    "airport_name": "xienglom_airport[dapi]",
+    "location_served": "xienglom__laos"
+  },
+  {
+    "iata": "XIG",
+    "icao": "",
+    "airport_name": "xinguara_municipal_airport",
+    "location_served": "xinguara__pará__brazil"
+  },
+  {
+    "iata": "XIJ",
+    "icao": "OKAJ",
+    "airport_name": "ahmad_al-jaber_air_base[dapi]",
+    "location_served": "al_ahmadi__kuwait"
+  },
+  {
+    "iata": "XIL",
+    "icao": "ZBXH",
+    "airport_name": "xilinhot_airport",
+    "location_served": "xilinhot__inner_mongolia__china"
+  },
+  {
+    "iata": "XIN",
+    "icao": "ZGXN",
+    "airport_name": "xingning_air_base",
+    "location_served": "xingning__guangdong__china"
+  },
+  {
+    "iata": "XIY",
+    "icao": "ZLXY",
+    "airport_name": "xi'an_xianyang_international_airport",
+    "location_served": "xi'an__shaanxi__china"
+  },
+  {
+    "iata": "XJD",
+    "icao": "OTBH",
+    "airport_name": "al_udeid_air_base[dapi]",
+    "location_served": "al_rayyan__qatar"
+  },
+  {
+    "iata": "XJM",
+    "icao": "OPMA",
+    "airport_name": "mangla_airport[dapi]",
+    "location_served": "mangla__pakistan"
+  },
+  {
+    "iata": "XKA",
+    "icao": "DFEL",
+    "airport_name": "kantchari_airport",
+    "location_served": "kantchari__burkina_faso"
+  },
+  {
+    "iata": "XKH",
+    "icao": "VLXK",
+    "airport_name": "xieng_khouang_airport",
+    "location_served": "phonsavan__laos"
+  },
+  {
+    "iata": "XKS",
+    "icao": "CYAQ",
+    "airport_name": "kasabonika_airport",
+    "location_served": "kasabonika__ontario__canada"
+  },
+  {
+    "iata": "XKY",
+    "icao": "DFCA",
+    "airport_name": "kaya_airport",
+    "location_served": "kaya__burkina_faso"
+  },
+  {
+    "iata": "XLB",
+    "icao": "CZWH",
+    "airport_name": "lac_brochet_airport",
+    "location_served": "lac_brochet__manitoba__canada"
+  },
+  {
+    "iata": "XLO",
+    "icao": "",
+    "airport_name": "long_xuyen_airport",
+    "location_served": "long_xuyên__vietnam"
+  },
+  {
+    "iata": "XLS",
+    "icao": "GOSS",
+    "airport_name": "saint-louis_airport",
+    "location_served": "saint-louis__senegal"
+  },
+  {
+    "iata": "XLU",
+    "icao": "DFCL",
+    "airport_name": "leo_airport",
+    "location_served": "léo__burkina_faso"
+  },
+  {
+    "iata": "XLW",
+    "icao": "EDWD",
+    "airport_name": "lemwerder_airport",
+    "location_served": "lemwerder__lower_saxony__germany"
+  },
+  {
+    "iata": "XMA",
+    "icao": "",
+    "airport_name": "maramag_airport",
+    "location_served": "maramag__philippines"
+  },
+  {
+    "iata": "XMC",
+    "icao": "YMCO",
+    "airport_name": "mallacoota_airport[dapi]",
+    "location_served": "mallacoota__victoria__australia"
+  },
+  {
+    "iata": "XMD",
+    "icao": "KMDS",
+    "airport_name": "madison_municipal_airport_(faa:_mds)",
+    "location_served": "madison__south_dakota__united_states"
+  },
+  {
+    "iata": "XMG",
+    "icao": "VNMN",
+    "airport_name": "mahendranagar_airport",
+    "location_served": "bhimdatta_(mahendranagar)__nepal"
+  },
+  {
+    "iata": "XMH",
+    "icao": "NTGI",
+    "airport_name": "manihi_airport",
+    "location_served": "manihi__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "XMI",
+    "icao": "HTMI",
+    "airport_name": "masasi_airport",
+    "location_served": "masasi__tanzania"
+  },
+  {
+    "iata": "XML",
+    "icao": "YMIN",
+    "airport_name": "minlaton_airport",
+    "location_served": "minlaton__south_australia__australia"
+  },
+  {
+    "iata": "XMN",
+    "icao": "ZSAM",
+    "airport_name": "xiamen_gaoqi_international_airport",
+    "location_served": "xiamen__fujian__china"
+  },
+  {
+    "iata": "XMP",
+    "icao": "",
+    "airport_name": "macmillan_pass_airport[dapi]_(tc:_cfcdapi)",
+    "location_served": "macmillan_pass__yukon__canada"
+  },
+  {
+    "iata": "XMS",
+    "icao": "SEMC",
+    "airport_name": "edmundo_carvajal_airport",
+    "location_served": "macas__ecuador"
+  },
+  {
+    "iata": "XMY",
+    "icao": "YYMI",
+    "airport_name": "yam_island_airport",
+    "location_served": "yam_island__queensland__australia"
+  },
+  {
+    "iata": "XNA",
+    "icao": "KXNA",
+    "airport_name": "northwest_arkansas_regional_airport",
+    "location_served": "fayetteville_/_springdale__arkansas__united_states"
+  },
+  {
+    "iata": "XNG",
+    "icao": "",
+    "airport_name": "quang_ngai_airport[dapi]",
+    "location_served": "quang_ngai_(quảng_ngãi)__vietnam"
+  },
+  {
+    "iata": "XNH",
+    "icao": "ORTL",
+    "airport_name": "ali_air_base[dapi]",
+    "location_served": "nasiriyah__iraq"
+  },
+  {
+    "iata": "XNN",
+    "icao": "ZLXN",
+    "airport_name": "xining_caojiabao_airport",
+    "location_served": "xining__qinghai__china"
+  },
+  {
+    "iata": "XNT",
+    "icao": "ZBXT",
+    "airport_name": "xingtai_dalian_airport",
+    "location_served": "xingtai__hebei__china"
+  },
+  {
+    "iata": "XNU",
+    "icao": "DFON",
+    "airport_name": "nouna_airport",
+    "location_served": "nouna__burkina_faso"
+  },
+  {
+    "iata": "XPA",
+    "icao": "DFEP",
+    "airport_name": "pama_airport",
+    "location_served": "pama__burkina_faso"
+  },
+  {
+    "iata": "XPK",
+    "icao": "CZFG",
+    "airport_name": "pukatawagan_airport",
+    "location_served": "pukatawagan__manitoba__canada"
+  },
+  {
+    "iata": "XPL",
+    "icao": "MHSC",
+    "airport_name": "soto_cano_air_base",
+    "location_served": "comayagua__honduras"
+  },
+  {
+    "iata": "XPP",
+    "icao": "CZNG",
+    "airport_name": "poplar_river_airport",
+    "location_served": "poplar_river__manitoba__canada"
+  },
+  {
+    "iata": "XPR",
+    "icao": "KIEN",
+    "airport_name": "pine_ridge_airport_(faa:_ien)",
+    "location_served": "pine_ridge__south_dakota__united_states"
+  }
+]

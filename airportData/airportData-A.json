@@ -1,0 +1,446 @@
+[
+  {
+    "iata": "AAA",
+    "icao": "NTGA",
+    "airport_name": "anaa_airport",
+    "location_served": "anaa__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "AAB",
+    "icao": "YARY",
+    "airport_name": "arrabury_airport",
+    "location_served": "arrabury__queensland__australia"
+  },
+  {
+    "iata": "AAC",
+    "icao": "HEAR",
+    "airport_name": "el_arish_international_airport",
+    "location_served": "el_arish__egypt"
+  },
+  {
+    "iata": "AAD",
+    "icao": "HAAB",
+    "airport_name": "adado_airport",
+    "location_served": "adado_(cadaado)__galguduud__somalia"
+  },
+  {
+    "iata": "AAE",
+    "icao": "DABB",
+    "airport_name": "rabah_bitat_airport_(les_salines_airport)",
+    "location_served": "annaba__algeria"
+  },
+  {
+    "iata": "AAF",
+    "icao": "KAAF",
+    "airport_name": "apalachicola_regional_airport",
+    "location_served": "apalachicola__florida__united_states"
+  },
+  {
+    "iata": "AAG",
+    "icao": "SSYA",
+    "airport_name": "arapoti_airport",
+    "location_served": "arapoti__paraná__brazil"
+  },
+  {
+    "iata": "AAH",
+    "icao": "EDKA",
+    "airport_name": "merzbrück_airport",
+    "location_served": "aachen__north_rhine-westphalia__germany"
+  },
+  {
+    "iata": "AAI",
+    "icao": "SWRA",
+    "airport_name": "arraias_airport",
+    "location_served": "arraias__tocantins__brazil"
+  },
+  {
+    "iata": "AAJ",
+    "icao": "SMCA",
+    "airport_name": "cayana_airstrip",
+    "location_served": "awaradam__suriname"
+  },
+  {
+    "iata": "AAK",
+    "icao": "NGUK",
+    "airport_name": "aranuka_airport",
+    "location_served": "aranuka__kiribati"
+  },
+  {
+    "iata": "AAL",
+    "icao": "EKYT",
+    "airport_name": "aalborg_airport",
+    "location_served": "aalborg__denmark"
+  },
+  {
+    "iata": "AAM",
+    "icao": "FAMD",
+    "airport_name": "mala_mala_airport",
+    "location_served": "mala_mala__south_africa"
+  },
+  {
+    "iata": "AAN",
+    "icao": "OMAL",
+    "airport_name": "al_ain_international_airport",
+    "location_served": "al_ain__united_arab_emirates"
+  },
+  {
+    "iata": "AAO",
+    "icao": "SVAN",
+    "airport_name": "anaco_airport",
+    "location_served": "anaco__venezuela"
+  },
+  {
+    "iata": "AAP",
+    "icao": "WALS",
+    "airport_name": "aji_pangeran_tumenggung_pranoto_international_airport",
+    "location_served": "samarinda__east_kalimantan__indonesia"
+  },
+  {
+    "iata": "AAQ",
+    "icao": "URKA",
+    "airport_name": "anapa_airport",
+    "location_served": "anapa__krasnodar_krai__russia"
+  },
+  {
+    "iata": "AAR",
+    "icao": "EKAH",
+    "airport_name": "aarhus_airport",
+    "location_served": "aarhus__denmark"
+  },
+  {
+    "iata": "AAS",
+    "icao": "DAAS",
+    "airport_name": "apalapsili_airport",
+    "location_served": "apalapsili__indonesia"
+  },
+  {
+    "iata": "AAT",
+    "icao": "ZWAT",
+    "airport_name": "altay_airport",
+    "location_served": "altay__xinjiang__china"
+  },
+  {
+    "iata": "AAU",
+    "icao": "NSAU",
+    "airport_name": "asau_airport",
+    "location_served": "asau__savai'i_island__samoa"
+  },
+  {
+    "iata": "AAV",
+    "icao": "RPMA",
+    "airport_name": "allah_valley_airport",
+    "location_served": "surallah__philippines"
+  },
+  {
+    "iata": "AAX",
+    "icao": "SBAX",
+    "airport_name": "araxá_airport",
+    "location_served": "araxá__minas_gerais__brazil"
+  },
+  {
+    "iata": "AAY",
+    "icao": "OYGD",
+    "airport_name": "al_ghaydah_airport",
+    "location_served": "al_ghaydah__yemen"
+  },
+  {
+    "iata": "AAZ",
+    "icao": "MGQZ",
+    "airport_name": "quetzaltenango_airport",
+    "location_served": "quetzaltenango__guatemala"
+  },
+  {
+    "iata": "ABA",
+    "icao": "UNAA",
+    "airport_name": "abakan_international_airport",
+    "location_served": "abakan__republic_of_khakassia__russia"
+  },
+  {
+    "iata": "ABB",
+    "icao": "DNAS",
+    "airport_name": "asaba_international_airport",
+    "location_served": "asaba__nigeria"
+  },
+  {
+    "iata": "ABC",
+    "icao": "LEAB",
+    "airport_name": "albacete_airport",
+    "location_served": "albacete__castilla-la_mancha__spain"
+  },
+  {
+    "iata": "ABD",
+    "icao": "OIAA",
+    "airport_name": "abadan_international_airport",
+    "location_served": "abadan__iran"
+  },
+  {
+    "iata": "ABE",
+    "icao": "KABE",
+    "airport_name": "lehigh_valley_international_airport",
+    "location_served": "allentown__pennsylvania__united_states"
+  },
+  {
+    "iata": "ABF",
+    "icao": "NGAB",
+    "airport_name": "abaiang_atoll_airport",
+    "location_served": "abaiang__kiribati"
+  },
+  {
+    "iata": "ABG",
+    "icao": "YABI",
+    "airport_name": "abingdon_airport",
+    "location_served": "abingdon__queensland__australia"
+  },
+  {
+    "iata": "ABH",
+    "icao": "YAPH",
+    "airport_name": "alpha_airport",
+    "location_served": "alpha__queensland__australia"
+  },
+  {
+    "iata": "ABI",
+    "icao": "KABI",
+    "airport_name": "abilene_regional_airport",
+    "location_served": "abilene__texas__united_states"
+  },
+  {
+    "iata": "ABJ",
+    "icao": "DIAP",
+    "airport_name": "port_bouet_airport_(felix_houphouet_boigny_int'l)",
+    "location_served": "abidjan__côte_d'ivoire"
+  },
+  {
+    "iata": "ABK",
+    "icao": "HAKD",
+    "airport_name": "kabri_dar_airport",
+    "location_served": "kebri_dahar__ethiopia"
+  },
+  {
+    "iata": "ABL",
+    "icao": "PAFM",
+    "airport_name": "ambler_airport_(faa:_afm)",
+    "location_served": "ambler__alaska__united_states"
+  },
+  {
+    "iata": "ABM",
+    "icao": "YNPE",
+    "airport_name": "northern_peninsula_airport",
+    "location_served": "bamaga__queensland__australia"
+  },
+  {
+    "iata": "ABN",
+    "icao": "SMBN",
+    "airport_name": "albina_airstrip",
+    "location_served": "albina__suriname"
+  },
+  {
+    "iata": "ABO",
+    "icao": "DIAO",
+    "airport_name": "aboisso_airport",
+    "location_served": "aboisso__côte_d'ivoire"
+  },
+  {
+    "iata": "ABP",
+    "icao": "",
+    "airport_name": "atkamba_airport",
+    "location_served": "atkamba__papua_new_guinea"
+  },
+  {
+    "iata": "ABQ",
+    "icao": "KABQ",
+    "airport_name": "albuquerque_international_sunport",
+    "location_served": "albuquerque__new_mexico__united_states"
+  },
+  {
+    "iata": "ABR",
+    "icao": "KABR",
+    "airport_name": "aberdeen_regional_airport",
+    "location_served": "aberdeen__south_dakota__united_states"
+  },
+  {
+    "iata": "ABS",
+    "icao": "HEBL",
+    "airport_name": "abu_simbel_airport",
+    "location_served": "abu_simbel__egypt"
+  },
+  {
+    "iata": "ABT",
+    "icao": "OEBA",
+    "airport_name": "al-baha_domestic_airport",
+    "location_served": "al_bahah__saudi_arabia"
+  },
+  {
+    "iata": "ABU",
+    "icao": "WATA",
+    "airport_name": "haliwen_airport",
+    "location_served": "atambua__indonesia"
+  },
+  {
+    "iata": "ABV",
+    "icao": "DNAA",
+    "airport_name": "nnamdi_azikiwe_international_airport",
+    "location_served": "abuja__nigeria"
+  },
+  {
+    "iata": "ABW",
+    "icao": "",
+    "airport_name": "abau_airport",
+    "location_served": "abau__papua_new_guinea"
+  },
+  {
+    "iata": "ABX",
+    "icao": "YMAY",
+    "airport_name": "albury_airport",
+    "location_served": "albury__new_south_wales__australia"
+  },
+  {
+    "iata": "ABY",
+    "icao": "KABY",
+    "airport_name": "southwest_georgia_regional_airport",
+    "location_served": "albany__georgia__united_states"
+  },
+  {
+    "iata": "ABZ",
+    "icao": "EGPD",
+    "airport_name": "aberdeen_airport",
+    "location_served": "aberdeen__scotland__united_kingdom"
+  },
+  {
+    "iata": "ACA",
+    "icao": "MMAA",
+    "airport_name": "general_juan_n._álvarez_international_airport",
+    "location_served": "acapulco__guerrero__mexico"
+  },
+  {
+    "iata": "ACB",
+    "icao": "KACB",
+    "airport_name": "antrim_county_airport",
+    "location_served": "bellaire__michigan__united_states"
+  },
+  {
+    "iata": "ACC",
+    "icao": "DGAA",
+    "airport_name": "kotoka_international_airport",
+    "location_served": "accra__ghana"
+  },
+  {
+    "iata": "ACD",
+    "icao": "SKAD",
+    "airport_name": "alcides_fernández_airport",
+    "location_served": "acandí__colombia"
+  },
+  {
+    "iata": "ACE",
+    "icao": "GCRR",
+    "airport_name": "lanzarote_airport",
+    "location_served": "lanzarote__canary_islands__spain"
+  },
+  {
+    "iata": "ACH",
+    "icao": "LSZR",
+    "airport_name": "st._gallen–altenrhein_airport",
+    "location_served": "altenrhein__switzerland"
+  },
+  {
+    "iata": "ACI",
+    "icao": "EGJA",
+    "airport_name": "alderney_airport",
+    "location_served": "alderney__channel_islands__united_kingdom"
+  },
+  {
+    "iata": "ACJ",
+    "icao": "VCCA",
+    "airport_name": "anuradhapura_airport",
+    "location_served": "anuradhapura__sri_lanka"
+  },
+  {
+    "iata": "ACK",
+    "icao": "KACK",
+    "airport_name": "nantucket_memorial_airport",
+    "location_served": "nantucket__massachusetts__united_states"
+  },
+  {
+    "iata": "ACL",
+    "icao": "",
+    "airport_name": "aguaclara_airport",
+    "location_served": "aguaclara__colombia"
+  },
+  {
+    "iata": "ACM",
+    "icao": "",
+    "airport_name": "arica_airport",
+    "location_served": "arica__colombia"
+  },
+  {
+    "iata": "ACN",
+    "icao": "MMCC",
+    "airport_name": "ciudad_acuña_international_airport",
+    "location_served": "ciudad_acuña__coahuila__mexico"
+  },
+  {
+    "iata": "ACP",
+    "icao": "OITM",
+    "airport_name": "sahand_airport",
+    "location_served": "maragheh__iran"
+  },
+  {
+    "iata": "ACR",
+    "icao": "SKAC",
+    "airport_name": "araracuara_airport",
+    "location_served": "araracuara__colombia"
+  },
+  {
+    "iata": "ACS",
+    "icao": "UNKS",
+    "airport_name": "achinsk_airport",
+    "location_served": "achinsk__krasnoyarsk_krai__russia"
+  },
+  {
+    "iata": "ACT",
+    "icao": "KACT",
+    "airport_name": "waco_regional_airport",
+    "location_served": "waco__texas__united_states"
+  },
+  {
+    "iata": "ACU",
+    "icao": "",
+    "airport_name": "achutupo_airport",
+    "location_served": "achutupo__panama"
+  },
+  {
+    "iata": "ACV",
+    "icao": "KACV",
+    "airport_name": "arcata-eureka_airport",
+    "location_served": "eureka_/_arcata__california__united_states"
+  },
+  {
+    "iata": "ACX",
+    "icao": "ZUYI",
+    "airport_name": "xingyi_wanfenglin_airport",
+    "location_served": "xingyi__guizhou__china"
+  },
+  {
+    "iata": "ACY",
+    "icao": "KACY",
+    "airport_name": "atlantic_city_international_airport",
+    "location_served": "atlantic_city__new_jersey__united_states"
+  },
+  {
+    "iata": "ACZ",
+    "icao": "OIZB",
+    "airport_name": "zabol_airport",
+    "location_served": "zabol__iran"
+  },
+  {
+    "iata": "ADA",
+    "icao": "LTAF",
+    "airport_name": "adana_şakirpaşa_airport",
+    "location_served": "adana__turkey"
+  },
+  {
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "airport_name": "adnan_menderes_airport",
+    "location_served": "i̇zmir__turkey"
+  }
+]

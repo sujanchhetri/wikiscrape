@@ -1,0 +1,416 @@
+[
+  {
+    "iata": "ZAA",
+    "icao": "",
+    "airport_name": "alice_arm/silver_city_water_aerodrome_(tc:_cacdapi)",
+    "location_served": "alice_arm__british_columbia__canada"
+  },
+  {
+    "iata": "ZAC",
+    "icao": "CZAC",
+    "airport_name": "york_landing_airport",
+    "location_served": "york_landing__manitoba__canada"
+  },
+  {
+    "iata": "ZAD",
+    "icao": "LDZD",
+    "airport_name": "zadar_airport",
+    "location_served": "zadar__croatia"
+  },
+  {
+    "iata": "ZAG",
+    "icao": "LDZA",
+    "airport_name": "franjo_tuđman_airport",
+    "location_served": "zagreb__croatia"
+  },
+  {
+    "iata": "ZAH",
+    "icao": "OIZH",
+    "airport_name": "zahedan_airport",
+    "location_served": "zahedan__iran"
+  },
+  {
+    "iata": "ZAJ",
+    "icao": "OAZJ",
+    "airport_name": "zaranj_airport",
+    "location_served": "zaranj__afghanistan"
+  },
+  {
+    "iata": "ZAL",
+    "icao": "SCVD",
+    "airport_name": "pichoy_airport",
+    "location_served": "valdivia__chile"
+  },
+  {
+    "iata": "ZAM",
+    "icao": "RPMZ",
+    "airport_name": "zamboanga_international_airport",
+    "location_served": "zamboanga_city__philippines"
+  },
+  {
+    "iata": "ZAO",
+    "icao": "LFCC",
+    "airport_name": "cahors_-_lalbenque_airport",
+    "location_served": "cahors__midi-pyrénées__france"
+  },
+  {
+    "iata": "ZAR",
+    "icao": "DNZA",
+    "airport_name": "zaria_airport",
+    "location_served": "zaria__nigeria"
+  },
+  {
+    "iata": "ZAT",
+    "icao": "ZPZT",
+    "airport_name": "zhaotong_airport",
+    "location_served": "zhaotong__yunnan__china"
+  },
+  {
+    "iata": "ZAZ",
+    "icao": "LEZG",
+    "airport_name": "zaragoza_airport",
+    "location_served": "zaragoza__aragon__spain"
+  },
+  {
+    "iata": "ZBE",
+    "icao": "LKZA",
+    "airport_name": "zábřeh_airport",
+    "location_served": "dolní_benešov__czech_republic"
+  },
+  {
+    "iata": "ZBF",
+    "icao": "CZBF",
+    "airport_name": "bathurst_airport",
+    "location_served": "bathurst__new_brunswick__canada"
+  },
+  {
+    "iata": "ZBK",
+    "icao": "",
+    "airport_name": "žabljak_airport",
+    "location_served": "žabljak__montenegro"
+  },
+  {
+    "iata": "ZBL",
+    "icao": "",
+    "airport_name": "biloela_airport",
+    "location_served": "biloela__queensland__australia"
+  },
+  {
+    "iata": "ZBM",
+    "icao": "CZBM",
+    "airport_name": "roland-désourdy_airport",
+    "location_served": "bromont__quebec__canada"
+  },
+  {
+    "iata": "ZBO",
+    "icao": "YBWN",
+    "airport_name": "bowen_airport",
+    "location_served": "bowen__queensland__australia"
+  },
+  {
+    "iata": "ZBR",
+    "icao": "OIZC",
+    "airport_name": "konarak_airport",
+    "location_served": "chabahar_(chah_bahar)__iran"
+  },
+  {
+    "iata": "ZBY",
+    "icao": "VLSB",
+    "airport_name": "sayaboury_airport",
+    "location_served": "sainyabuli_(sayaboury)__laos"
+  },
+  {
+    "iata": "ZCL",
+    "icao": "MMZC",
+    "airport_name": "general_leobardo_c._ruiz_international_airport",
+    "location_served": "zacatecas_city__zacatecas__mexico"
+  },
+  {
+    "iata": "ZCO",
+    "icao": "SCQP",
+    "airport_name": "la_araucanía_airport",
+    "location_served": "temuco__chile"
+  },
+  {
+    "iata": "ZDJ",
+    "icao": "",
+    "airport_name": "bern_railway_station",
+    "location_served": "bern__switzerland"
+  },
+  {
+    "iata": "ZDY",
+    "icao": "OMDL",
+    "airport_name": "dalma_airport",
+    "location_served": "dalma_island_(delma_island)__united_arab_emirates"
+  },
+  {
+    "iata": "ZEC",
+    "icao": "FASC",
+    "airport_name": "secunda_airport",
+    "location_served": "secunda__south_africa"
+  },
+  {
+    "iata": "ZEG",
+    "icao": "",
+    "airport_name": "senggo_airport",
+    "location_served": "senggo__indonesia"
+  },
+  {
+    "iata": "ZEL",
+    "icao": "CBBC",
+    "airport_name": "bella_bella_(campbell_island)_airport",
+    "location_served": "bella_bella__british_columbia__canada"
+  },
+  {
+    "iata": "ZEM",
+    "icao": "CZEM",
+    "airport_name": "eastmain_river_airport",
+    "location_served": "eastmain__quebec__canada"
+  },
+  {
+    "iata": "ZEN",
+    "icao": "",
+    "airport_name": "zenag_airport[dapi]",
+    "location_served": "zenag__papua_new_guinea"
+  },
+  {
+    "iata": "ZER",
+    "icao": "VEZO",
+    "airport_name": "zero_airport_(ziro_airport)",
+    "location_served": "ziro__arunachal_pradesh__india"
+  },
+  {
+    "iata": "ZFA",
+    "icao": "CZFA",
+    "airport_name": "faro_airport",
+    "location_served": "faro__yukon__canada"
+  },
+  {
+    "iata": "ZFD",
+    "icao": "CZFD",
+    "airport_name": "fond-du-lac_airport",
+    "location_served": "fond-du-lac__saskatchewan__canada"
+  },
+  {
+    "iata": "ZFM",
+    "icao": "CZFM",
+    "airport_name": "fort_mcpherson_airport",
+    "location_served": "fort_mcpherson__northwest_territories__canada"
+  },
+  {
+    "iata": "ZFN",
+    "icao": "CZFN",
+    "airport_name": "tulita_airport",
+    "location_served": "tulita__northwest_territories__canada"
+  },
+  {
+    "iata": "ZFW",
+    "icao": "",
+    "airport_name": "fairview_airport_(tc:_cebdapi)",
+    "location_served": "fairview__alberta__canada"
+  },
+  {
+    "iata": "ZGF",
+    "icao": "CZGF",
+    "airport_name": "grand_forks_airport",
+    "location_served": "grand_forks__british_columbia__canada"
+  },
+  {
+    "iata": "ZGI",
+    "icao": "CZGI",
+    "airport_name": "gods_river_airport",
+    "location_served": "gods_river__manitoba__canada"
+  },
+  {
+    "iata": "ZGL",
+    "icao": "YSGW",
+    "airport_name": "south_galway_airport",
+    "location_served": "south_galway_station__queensland__australia"
+  },
+  {
+    "iata": "ZGM",
+    "icao": "FLNA",
+    "airport_name": "ngoma_airport",
+    "location_served": "ngoma__zambia"
+  },
+  {
+    "iata": "ZGR",
+    "icao": "CZGR",
+    "airport_name": "little_grand_rapids_airport",
+    "location_served": "little_grand_rapids__manitoba__canada"
+  },
+  {
+    "iata": "ZGS",
+    "icao": "",
+    "airport_name": "la_romaine_airport_(tc:_cttdapi)",
+    "location_served": "la_romaine__quebec__canada"
+  },
+  {
+    "iata": "ZGU",
+    "icao": "NVSQ",
+    "airport_name": "gaua_airport",
+    "location_served": "gaua__vanuatu"
+  },
+  {
+    "iata": "ZHA",
+    "icao": "ZGZJ",
+    "airport_name": "zhanjiang_airport",
+    "location_served": "zhanjiang__guangdong__china"
+  },
+  {
+    "iata": "ZHM",
+    "icao": "VGSH",
+    "airport_name": "shamshernagar_airport",
+    "location_served": "shamshernagar__bangladesh"
+  },
+  {
+    "iata": "ZHP",
+    "icao": "CZHP",
+    "airport_name": "high_prairie_airport",
+    "location_served": "high_prairie__alberta__canada"
+  },
+  {
+    "iata": "ZHY",
+    "icao": "ZLZW",
+    "airport_name": "zhongwei_shapotou_airport_(zhongwei_xiangshan_airport)",
+    "location_served": "zhongwei__ningxia__china"
+  },
+  {
+    "iata": "ZIA",
+    "icao": "UUBW",
+    "airport_name": "ramenskoye_airport[dapi]_(zhukovsky_airport)",
+    "location_served": "zhukovsky__moscow_oblast__russia"
+  },
+  {
+    "iata": "ZIC",
+    "icao": "SCTO",
+    "airport_name": "victoria_airport",
+    "location_served": "victoria__chile"
+  },
+  {
+    "iata": "ZIG",
+    "icao": "GOGG",
+    "airport_name": "ziguinchor_airport",
+    "location_served": "ziguinchor__senegal"
+  },
+  {
+    "iata": "ZIH",
+    "icao": "MMZH",
+    "airport_name": "ixtapa-zihuatanejo_international_airport",
+    "location_served": "ixtapa_/_zihuatanejo__guerrero__mexico"
+  },
+  {
+    "iata": "ZIS",
+    "icao": "HLZN",
+    "airport_name": "alzintan_airport[dapi]",
+    "location_served": "zintan__libya"
+  },
+  {
+    "iata": "ZIX",
+    "icao": "UEVV",
+    "airport_name": "zhigansk_airport[dapi]",
+    "location_served": "zhigansk__yakutia__russia"
+  },
+  {
+    "iata": "ZIZ",
+    "icao": "",
+    "airport_name": "zamzama_airport[dapi]",
+    "location_served": "zamzama__pakistan"
+  },
+  {
+    "iata": "ZJG",
+    "icao": "CZJG",
+    "airport_name": "jenpeg_airport",
+    "location_served": "jenpeg__manitoba__canada"
+  },
+  {
+    "iata": "ZJN",
+    "icao": "CZJN",
+    "airport_name": "swan_river_airport",
+    "location_served": "swan_river__manitoba__canada"
+  },
+  {
+    "iata": "ZJT",
+    "icao": "",
+    "airport_name": "tanjung_pelepas_port_airport[dapi]",
+    "location_served": "tanjung_pelepas__johor__malaysia"
+  },
+  {
+    "iata": "ZKB",
+    "icao": "FLKY",
+    "airport_name": "kasaba_bay_airport",
+    "location_served": "kasaba_bay__zambia"
+  },
+  {
+    "iata": "ZKE",
+    "icao": "CZKE",
+    "airport_name": "kashechewan_airport",
+    "location_served": "kashechewan__ontario__canada"
+  },
+  {
+    "iata": "ZKG",
+    "icao": "",
+    "airport_name": "kegaska_airport_(tc:_ctkdapi)",
+    "location_served": "kegaska_(kegashka)__quebec__canada"
+  },
+  {
+    "iata": "ZKP",
+    "icao": "UESU",
+    "airport_name": "zyryanka_airport",
+    "location_served": "zyryanka__yakutia__russia"
+  },
+  {
+    "iata": "ZLO",
+    "icao": "MMZO",
+    "airport_name": "playa_de_oro_international_airport",
+    "location_served": "manzanillo__colima__mexico"
+  },
+  {
+    "iata": "ZLT",
+    "icao": "",
+    "airport_name": "la_tabatière_airport_(tc:_ctudapi)",
+    "location_served": "gros-mécatina_(la_tabatière)__quebec__canada"
+  },
+  {
+    "iata": "ZLW",
+    "icao": "",
+    "airport_name": "pasir_gudang_port_airport[dapi]",
+    "location_served": "pasir_gudang__johor__malaysia"
+  },
+  {
+    "iata": "ZLX",
+    "icao": "HSZA",
+    "airport_name": "zalingei_airport[dapi]",
+    "location_served": "zalingei_(zalengei)__sudan"
+  },
+  {
+    "iata": "ZMD",
+    "icao": "SWSN",
+    "airport_name": "sena_madureira_airport",
+    "location_served": "sena_madureira__acre__brazil"
+  },
+  {
+    "iata": "ZMH",
+    "icao": "CZML",
+    "airport_name": "south_cariboo_regional_airport",
+    "location_served": "dapidapidapi_mile_ranch__british_columbia__canada"
+  },
+  {
+    "iata": "ZMM",
+    "icao": "MMZM",
+    "airport_name": "zamora_national_airport",
+    "location_served": "zamora__michoacán__mexico"
+  },
+  {
+    "iata": "ZMT",
+    "icao": "CZMT",
+    "airport_name": "masset_airport",
+    "location_served": "masset__british_columbia__canada"
+  },
+  {
+    "iata": "ZNA",
+    "icao": "",
+    "airport_name": "nanaimo_harbour_water_airport_(tc:_cacdapi)",
+    "location_served": "nanaimo__british_columbia__canada"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "iata": "BAA",
+    "icao": "AYBL",
+    "airport_name": "bialla_airport",
+    "location_served": "bialla__papua_new_guinea"
+  },
+  {
+    "iata": "BAB",
+    "icao": "KBAB",
+    "airport_name": "beale_air_force_base",
+    "location_served": "marysville__california__united_states"
+  },
+  {
+    "iata": "BAC",
+    "icao": "",
+    "airport_name": "barranca_de_upia_airport",
+    "location_served": "barranca_de_upía__colombia"
+  },
+  {
+    "iata": "BAD",
+    "icao": "KBAD",
+    "airport_name": "barksdale_air_force_base",
+    "location_served": "bossier_city__louisiana__united_states"
+  },
+  {
+    "iata": "BAE",
+    "icao": "LFMR",
+    "airport_name": "barcelonnette_–_saint-pons_airport",
+    "location_served": "barcelonnette__alpes-de-haute-provence__france"
+  },
+  {
+    "iata": "BAF",
+    "icao": "KBAF",
+    "airport_name": "westfield-barnes_regional_airport",
+    "location_served": "westfield_/_springfield__massachusetts__united_states"
+  },
+  {
+    "iata": "BAG",
+    "icao": "RPUB",
+    "airport_name": "loakan_airport",
+    "location_served": "baguio__philippines"
+  },
+  {
+    "iata": "BAH",
+    "icao": "OBBI",
+    "airport_name": "bahrain_international_airport",
+    "location_served": "manama__bahrain"
+  },
+  {
+    "iata": "BAI",
+    "icao": "MRBA",
+    "airport_name": "buenos_aires_airport",
+    "location_served": "buenos_aires__costa_rica"
+  },
+  {
+    "iata": "BAJ",
+    "icao": "",
+    "airport_name": "bali_airport",
+    "location_served": "bali__papua_new_guinea"
+  },
+  {
+    "iata": "BAK[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "baku__azerbaijan"
+  },
+  {
+    "iata": "BAL",
+    "icao": "LTCJ",
+    "airport_name": "batman_airport",
+    "location_served": "batman__turkey"
+  },
+  {
+    "iata": "BAM",
+    "icao": "KBAM",
+    "airport_name": "battle_mountain_airport_(lander_county_airport)",
+    "location_served": "battle_mountain__nevada__united_states"
+  },
+  {
+    "iata": "BAN",
+    "icao": "FZVR",
+    "airport_name": "basongo_airport",
+    "location_served": "basongo__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "BAP",
+    "icao": "",
+    "airport_name": "baibara_airport",
+    "location_served": "baibara__papua_new_guinea"
+  },
+  {
+    "iata": "BAQ",
+    "icao": "SKBQ",
+    "airport_name": "ernesto_cortissoz_international_airport",
+    "location_served": "barranquilla__colombia"
+  },
+  {
+    "iata": "BAR",
+    "icao": "",
+    "airport_name": "qionghai_bo'ao_airport",
+    "location_served": "qionghai__hainan__china"
+  },
+  {
+    "iata": "BAS",
+    "icao": "AGGE",
+    "airport_name": "balalae_airport",
+    "location_served": "balalae_island__western__solomon_islands"
+  },
+  {
+    "iata": "BAT",
+    "icao": "SBBT",
+    "airport_name": "chafei_amsei_airport",
+    "location_served": "barretos__são_paulo__brazil"
+  },
+  {
+    "iata": "BAV",
+    "icao": "ZBOW",
+    "airport_name": "baotou_airport",
+    "location_served": "baotou__inner_mongolia__china"
+  },
+  {
+    "iata": "BAW",
+    "icao": "",
+    "airport_name": "biawonque_airport",
+    "location_served": "biawonque__gabon"
+  },
+  {
+    "iata": "BAX",
+    "icao": "UNBB",
+    "airport_name": "barnaul_airport",
+    "location_served": "barnaul__altai_krai__russia"
+  },
+  {
+    "iata": "BAY",
+    "icao": "LRBM",
+    "airport_name": "baia_mare_airport",
+    "location_served": "baia_mare__romania"
+  },
+  {
+    "iata": "BAZ",
+    "icao": "SWBC",
+    "airport_name": "barcelos_airport",
+    "location_served": "barcelos__amazonas__brazil"
+  },
+  {
+    "iata": "BBA",
+    "icao": "SCBA",
+    "airport_name": "balmaceda_airport",
+    "location_served": "balmaceda__chile"
+  },
+  {
+    "iata": "BBB",
+    "icao": "KBBB",
+    "airport_name": "benson_municipal_airport",
+    "location_served": "benson__minnesota__united_states"
+  },
+  {
+    "iata": "BBC",
+    "icao": "KBYY",
+    "airport_name": "bay_city_municipal_airport_(faa:_byy)",
+    "location_served": "bay_city__texas__united_states"
+  },
+  {
+    "iata": "BBD",
+    "icao": "KBBD",
+    "airport_name": "curtis_field",
+    "location_served": "brady__texas__united_states"
+  },
+  {
+    "iata": "BBG",
+    "icao": "NGTU",
+    "airport_name": "butaritari_atoll_airport",
+    "location_served": "butaritari_atoll__kiribati"
+  },
+  {
+    "iata": "BBH",
+    "icao": "EDBH",
+    "airport_name": "stralsund–barth_airport",
+    "location_served": "stralsund_/_barth__mecklenburg-vorpommern__germany"
+  },
+  {
+    "iata": "BBI",
+    "icao": "VEBS",
+    "airport_name": "biju_patnaik_international_airport",
+    "location_served": "bhubaneswar__odisha__india"
+  },
+  {
+    "iata": "BBJ",
+    "icao": "EDRB",
+    "airport_name": "bitburg_airport_(former_bitburg_air_base)",
+    "location_served": "bitburg__rhineland-palatinate__germany"
+  },
+  {
+    "iata": "BBK",
+    "icao": "FBKE",
+    "airport_name": "kasane_airport",
+    "location_served": "kasane__botswana"
+  },
+  {
+    "iata": "BBL",
+    "icao": "YLLE",
+    "airport_name": "ballera_airport",
+    "location_served": "ballera_gas_plant__queensland__australia"
+  },
+  {
+    "iata": "BBM",
+    "icao": "VDBG",
+    "airport_name": "battambang_airport",
+    "location_served": "battambang__cambodia"
+  },
+  {
+    "iata": "BBN",
+    "icao": "WBGZ",
+    "airport_name": "bario_airport",
+    "location_served": "bario__sarawak__malaysia"
+  },
+  {
+    "iata": "BBO",
+    "icao": "HCMI",
+    "airport_name": "berbera_airport",
+    "location_served": "berbera__somalia"
+  },
+  {
+    "iata": "BBP",
+    "icao": "EGHJ",
+    "airport_name": "bembridge_airport",
+    "location_served": "bembridge__england__united_kingdom"
+  },
+  {
+    "iata": "BBQ",
+    "icao": "TAPH",
+    "airport_name": "barbuda_codrington_airport",
+    "location_served": "barbuda__antigua_and_barbuda"
+  },
+  {
+    "iata": "BBR",
+    "icao": "TFFB",
+    "airport_name": "baillif_airport",
+    "location_served": "basse-terre__guadeloupe"
+  },
+  {
+    "iata": "BBS",
+    "icao": "EGLK",
+    "airport_name": "blackbushe_airport",
+    "location_served": "yateley__england__united_kingdom"
+  },
+  {
+    "iata": "BBT",
+    "icao": "FEFT",
+    "airport_name": "berbérati_airport",
+    "location_served": "berbérati__central_african_republic"
+  },
+  {
+    "iata": "BBU",
+    "icao": "LRBS",
+    "airport_name": "aurel_vlaicu_international_airport_(băneasa_airport)",
+    "location_served": "bucharest__romania"
+  },
+  {
+    "iata": "BBV",
+    "icao": "DIGN",
+    "airport_name": "nero-mer_airport",
+    "location_served": "grand-béréby__ivory_coast"
+  },
+  {
+    "iata": "BBW",
+    "icao": "KBBW",
+    "airport_name": "broken_bow_municipal_airport",
+    "location_served": "broken_bow__nebraska__united_states"
+  },
+  {
+    "iata": "BBX",
+    "icao": "KLOM",
+    "airport_name": "wings_field_(faa:_lom)",
+    "location_served": "philadelphia__pennsylvania__united_states"
+  },
+  {
+    "iata": "BBY",
+    "icao": "FEFM",
+    "airport_name": "bambari_airport",
+    "location_served": "bambari__central_african_republic"
+  },
+  {
+    "iata": "BBZ",
+    "icao": "FLZB",
+    "airport_name": "zambezi_airport",
+    "location_served": "zambezi__zambia"
+  },
+  {
+    "iata": "BCA",
+    "icao": "MUBA",
+    "airport_name": "gustavo_rizo_airport",
+    "location_served": "baracoa__cuba"
+  },
+  {
+    "iata": "BCB",
+    "icao": "KBCB",
+    "airport_name": "virginia_tech_montgomery_executive_airport",
+    "location_served": "blacksburg__virginia__united_states"
+  },
+  {
+    "iata": "BCC",
+    "icao": "",
+    "airport_name": "bear_creek_dapi_airport_(faa:_zdapidapi)",
+    "location_served": "bear_creek__alaska__united_states"
+  },
+  {
+    "iata": "BCD",
+    "icao": "RPVB",
+    "airport_name": "bacolod–silay_international_airport",
+    "location_served": "bacolod__philippines"
+  },
+  {
+    "iata": "BCE",
+    "icao": "KBCE",
+    "airport_name": "bryce_canyon_airport",
+    "location_served": "bryce_canyon__utah__united_states"
+  },
+  {
+    "iata": "BCF",
+    "icao": "FEGU",
+    "airport_name": "bouca_airport",
+    "location_served": "bouca__central_african_republic"
+  },
+  {
+    "iata": "BCG",
+    "icao": "",
+    "airport_name": "bemichi_airport",
+    "location_served": "kumaka__guyana"
+  },
+  {
+    "iata": "BCH",
+    "icao": "WPEC",
+    "airport_name": "baucau_airport",
+    "location_served": "baucau__east_timor"
+  },
+  {
+    "iata": "BCI",
+    "icao": "YBAR",
+    "airport_name": "barcaldine_airport",
+    "location_served": "barcaldine__queensland__australia"
+  },
+  {
+    "iata": "BCK",
+    "icao": "YBWR",
+    "airport_name": "bolwarra_airport",
+    "location_served": "bolwarra__queensland__australia"
+  },
+  {
+    "iata": "BCL",
+    "icao": "MRBC",
+    "airport_name": "barra_del_colorado_airport",
+    "location_served": "barra_del_colorado__costa_rica"
+  },
+  {
+    "iata": "BCM",
+    "icao": "LRBC",
+    "airport_name": "bacău_international_airport",
+    "location_served": "bacău__romania"
+  },
+  {
+    "iata": "BCN",
+    "icao": "LEBL",
+    "airport_name": "barcelona–el_prat_airport",
+    "location_served": "barcelona__catalonia__spain"
+  },
+  {
+    "iata": "BCO",
+    "icao": "HABC",
+    "airport_name": "baco_airport_(jinka_airport)",
+    "location_served": "jinka__ethiopia"
+  },
+  {
+    "iata": "BCP",
+    "icao": "AYBC",
+    "airport_name": "bambu_airport",
+    "location_served": "bambu__papua_new_guinea"
+  },
+  {
+    "iata": "BCQ",
+    "icao": "",
+    "airport_name": "brak_airport",
+    "location_served": "brak__libya"
+  },
+  {
+    "iata": "BCR",
+    "icao": "SWNK",
+    "airport_name": "novo_campo_airport",
+    "location_served": "boca_do_acre__amazonas__brazil"
+  },
+  {
+    "iata": "BCS",
+    "icao": "",
+    "airport_name": "southern_seaplane_airport_(faa:_dapidapila)",
+    "location_served": "belle_chasse__louisiana__united_states"
+  },
+  {
+    "iata": "BCT",
+    "icao": "KBCT",
+    "airport_name": "boca_raton_airport",
+    "location_served": "boca_raton__florida__united_states"
+  },
+  {
+    "iata": "BCU",
+    "icao": "",
+    "airport_name": "bauchi_state_airport",
+    "location_served": "bauchi__nigeria"
+  }
+]

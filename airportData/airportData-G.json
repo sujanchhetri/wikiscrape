@@ -1,0 +1,284 @@
+[
+  {
+    "iata": "GAA",
+    "icao": "",
+    "airport_name": "guamal_airport",
+    "location_served": "guamal__colombia"
+  },
+  {
+    "iata": "GAB",
+    "icao": "KGAB",
+    "airport_name": "gabbs_airport",
+    "location_served": "gabbs__nevada__united_states"
+  },
+  {
+    "iata": "GAC",
+    "icao": "MHGS[DAPI]",
+    "airport_name": "gracias_airport",
+    "location_served": "gracias__honduras"
+  },
+  {
+    "iata": "GAD",
+    "icao": "KGAD",
+    "airport_name": "northeast_alabama_regional_airport",
+    "location_served": "gadsden__alabama__united_states"
+  },
+  {
+    "iata": "GAE",
+    "icao": "DTTG",
+    "airport_name": "gabès_–_matmata_international_airport",
+    "location_served": "gabès__tunisia"
+  },
+  {
+    "iata": "GAF",
+    "icao": "DTTF",
+    "airport_name": "gafsa_–_ksar_international_airport",
+    "location_served": "gafsa__tunisia"
+  },
+  {
+    "iata": "GAG",
+    "icao": "KGAG",
+    "airport_name": "gage_airport",
+    "location_served": "gage__oklahoma__united_states"
+  },
+  {
+    "iata": "GAH",
+    "icao": "YGAY",
+    "airport_name": "gayndah_airport",
+    "location_served": "gayndah__queensland__australia"
+  },
+  {
+    "iata": "GAI",
+    "icao": "KGAI",
+    "airport_name": "montgomery_county_airpark",
+    "location_served": "gaithersburg__maryland__united_states"
+  },
+  {
+    "iata": "GAJ",
+    "icao": "RJSC",
+    "airport_name": "yamagata_airport_(junmachi_airport)",
+    "location_served": "yamagata__honshu__japan"
+  },
+  {
+    "iata": "GAL",
+    "icao": "PAGA",
+    "airport_name": "edward_g._pitka_sr._airport",
+    "location_served": "galena__alaska__united_states"
+  },
+  {
+    "iata": "GAM",
+    "icao": "PAGM",
+    "airport_name": "gambell_airport",
+    "location_served": "gambell__alaska__united_states"
+  },
+  {
+    "iata": "GAN",
+    "icao": "VRMG",
+    "airport_name": "gan_international_airport",
+    "location_served": "gan_island__addu_atoll__maldives"
+  },
+  {
+    "iata": "GAO",
+    "icao": "MUGT",
+    "airport_name": "mariana_grajales_airport",
+    "location_served": "guantánamo__cuba"
+  },
+  {
+    "iata": "GAP",
+    "icao": "AYGP",
+    "airport_name": "gusap_airport",
+    "location_served": "gusap__papua_new_guinea"
+  },
+  {
+    "iata": "GAQ",
+    "icao": "GAGO",
+    "airport_name": "gao_international_airport_(korogoussou_airport)",
+    "location_served": "gao__mali"
+  },
+  {
+    "iata": "GAR",
+    "icao": "AYGI",
+    "airport_name": "garaina_airport",
+    "location_served": "garaina__papua_new_guinea"
+  },
+  {
+    "iata": "GAS",
+    "icao": "HKGA",
+    "airport_name": "garissa_airport",
+    "location_served": "garissa__kenya"
+  },
+  {
+    "iata": "GAT",
+    "icao": "LFNA",
+    "airport_name": "gap–tallard_airport",
+    "location_served": "gap__provence-alpes-côte_d'azur__france"
+  },
+  {
+    "iata": "GAU",
+    "icao": "VEGT",
+    "airport_name": "lokpriya_gopinath_bordoloi_international_airport",
+    "location_served": "guwahati__assam__india"
+  },
+  {
+    "iata": "GAV",
+    "icao": "",
+    "airport_name": "gag_island_airport",
+    "location_served": "gag_island__indonesia"
+  },
+  {
+    "iata": "GAW",
+    "icao": "VYGG",
+    "airport_name": "gangaw_airport",
+    "location_served": "gangaw__myanmar"
+  },
+  {
+    "iata": "GAX",
+    "icao": "",
+    "airport_name": "gamba_airport",
+    "location_served": "gamba__gabon"
+  },
+  {
+    "iata": "GAY",
+    "icao": "VEGY",
+    "airport_name": "gaya_airport_(bodhgaya_airport)",
+    "location_served": "gaya__bihar__india"
+  },
+  {
+    "iata": "GAZ",
+    "icao": "",
+    "airport_name": "guasopa_airport",
+    "location_served": "guasopa__papua_new_guinea"
+  },
+  {
+    "iata": "GBA",
+    "icao": "EGBP",
+    "airport_name": "cotswold_airport[dapi]",
+    "location_served": "kemble__england__united_kingdom"
+  },
+  {
+    "iata": "GBB",
+    "icao": "UBBQ",
+    "airport_name": "qabala_international_airport",
+    "location_served": "qabala__azerbaijan"
+  },
+  {
+    "iata": "GBC",
+    "icao": "AYGS",
+    "airport_name": "gasuke_airport",
+    "location_served": "gasuke__papua_new_guinea"
+  },
+  {
+    "iata": "GBD",
+    "icao": "KGBD",
+    "airport_name": "great_bend_municipal_airport",
+    "location_served": "great_bend__kansas__united_states"
+  },
+  {
+    "iata": "GBE",
+    "icao": "FBSK",
+    "airport_name": "sir_seretse_khama_international_airport",
+    "location_served": "gaborone__botswana"
+  },
+  {
+    "iata": "GBF",
+    "icao": "AYNE",
+    "airport_name": "negarbo_airport",
+    "location_served": "negarbo__papua_new_guinea"
+  },
+  {
+    "iata": "GBG",
+    "icao": "KGBG",
+    "airport_name": "galesburg_municipal_airport",
+    "location_served": "galesburg__illinois__united_states"
+  },
+  {
+    "iata": "GBH",
+    "icao": "PAGB",
+    "airport_name": "galbraith_lake_airport",
+    "location_served": "galbraith_lake__alaska__united_states"
+  },
+  {
+    "iata": "GBI",
+    "icao": "",
+    "airport_name": "kalaburagi_airport",
+    "location_served": "gulbarga__karnataka__india"
+  },
+  {
+    "iata": "GBJ",
+    "icao": "TFFM",
+    "airport_name": "marie-galante_airport_(les_bases)",
+    "location_served": "grand-bourg__marie-galante_island__guadeloupe"
+  },
+  {
+    "iata": "GBK",
+    "icao": "GFGK",
+    "airport_name": "gbangbatok_airport",
+    "location_served": "gbangbatok__sierra_leone"
+  },
+  {
+    "iata": "GBL",
+    "icao": "YGBI",
+    "airport_name": "south_goulburn_island_airport",
+    "location_served": "goulburn_islands__northern_territory__australia"
+  },
+  {
+    "iata": "GBM",
+    "icao": "",
+    "airport_name": "garbaharey_airport",
+    "location_served": "garbaharey__somalia"
+  },
+  {
+    "iata": "GBP",
+    "icao": "YGAM",
+    "airport_name": "gamboola_airport",
+    "location_served": "gamboola__queensland__australia"
+  },
+  {
+    "iata": "GBR",
+    "icao": "KGBR",
+    "airport_name": "walter_j._koladza_airport",
+    "location_served": "great_barrington__massachusetts__united_states"
+  },
+  {
+    "iata": "GBT",
+    "icao": "OING",
+    "airport_name": "gorgan_airport[dapi]",
+    "location_served": "gorgan__iran"
+  },
+  {
+    "iata": "GBU",
+    "icao": "HSKG",
+    "airport_name": "khashm_el_girba_airport",
+    "location_served": "khashm_el_girba__sudan"
+  },
+  {
+    "iata": "GBV",
+    "icao": "YGIB",
+    "airport_name": "gibb_river_airport",
+    "location_served": "gibb_river__western_australia__australia"
+  },
+  {
+    "iata": "GBW",
+    "icao": "YGIA",
+    "airport_name": "ginbata_airport[dapi]",
+    "location_served": "ginbata__western_australia__australia"
+  },
+  {
+    "iata": "GBZ",
+    "icao": "NZGB",
+    "airport_name": "great_barrier_aerodrome",
+    "location_served": "great_barrier_island__new_zealand"
+  },
+  {
+    "iata": "GCA",
+    "icao": "",
+    "airport_name": "guacamayas_airport",
+    "location_served": "guacamayas__colombia"
+  },
+  {
+    "iata": "GCC",
+    "icao": "KGCC",
+    "airport_name": "gillette–campbell_county_airport",
+    "location_served": "gillette__wyoming__united_states"
+  }
+]

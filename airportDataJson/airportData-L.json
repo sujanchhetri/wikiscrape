@@ -1,0 +1,290 @@
+[
+  {
+    "iata": "LAA",
+    "icao": "KLAA",
+    "airport_name": "lamar_municipal_airport",
+    "location_served": "lamar__colorado__united_states"
+  },
+  {
+    "iata": "LAB",
+    "icao": "",
+    "airport_name": "lab_lab_airport",
+    "location_served": "lab_lab__papua_new_guinea"
+  },
+  {
+    "iata": "LAC",
+    "icao": "",
+    "airport_name": "layang-layang_airport_(swallow_reef_airport)",
+    "location_served": "layang-layang_island__sabah__malaysia"
+  },
+  {
+    "iata": "LAD",
+    "icao": "FNLU",
+    "airport_name": "quatro_de_fevereiro_airport",
+    "location_served": "luanda__angola"
+  },
+  {
+    "iata": "LAE",
+    "icao": "AYNZ",
+    "airport_name": "lae_nadzab_airport",
+    "location_served": "lae__papua_new_guinea"
+  },
+  {
+    "iata": "LAF",
+    "icao": "KLAF",
+    "airport_name": "purdue_university_airport",
+    "location_served": "lafayette__indiana__united_states"
+  },
+  {
+    "iata": "LAH",
+    "icao": "WAPH[DAPI]",
+    "airport_name": "oesman_sadik_airport",
+    "location_served": "labuha__indonesia"
+  },
+  {
+    "iata": "LAI",
+    "icao": "LFRO",
+    "airport_name": "lannion_–_côte_de_granit_airport",
+    "location_served": "lannion__brittany__france"
+  },
+  {
+    "iata": "LAJ",
+    "icao": "SBLJ",
+    "airport_name": "antônio_correia_pinto_de_macedo_airport",
+    "location_served": "lages__santa_catarina__brazil"
+  },
+  {
+    "iata": "LAK",
+    "icao": "CYKD",
+    "airport_name": "aklavik/freddie_carmichael_airport",
+    "location_served": "aklavik__northwest_territories__canada"
+  },
+  {
+    "iata": "LAL",
+    "icao": "KLAL",
+    "airport_name": "lakeland_linder_international_airport",
+    "location_served": "lakeland__florida__united_states"
+  },
+  {
+    "iata": "LAM",
+    "icao": "KLAM",
+    "airport_name": "los_alamos_county_airport",
+    "location_served": "los_alamos__new_mexico__united_states"
+  },
+  {
+    "iata": "LAN",
+    "icao": "KLAN",
+    "airport_name": "capital_region_international_airport",
+    "location_served": "lansing__michigan__united_states"
+  },
+  {
+    "iata": "LAO",
+    "icao": "RPLI",
+    "airport_name": "laoag_international_airport",
+    "location_served": "laoag__philippines"
+  },
+  {
+    "iata": "LAP",
+    "icao": "MMLP",
+    "airport_name": "manuel_márquez_de_león_international_airport",
+    "location_served": "la_paz__baja_california_sur__mexico"
+  },
+  {
+    "iata": "LAQ",
+    "icao": "HLLQ",
+    "airport_name": "al_abraq_international_airport",
+    "location_served": "bayda__libya"
+  },
+  {
+    "iata": "LAR",
+    "icao": "KLAR",
+    "airport_name": "laramie_regional_airport",
+    "location_served": "laramie__wyoming__united_states"
+  },
+  {
+    "iata": "LAS",
+    "icao": "KLAS",
+    "airport_name": "mccarran_international_airport",
+    "location_served": "las_vegas__nevada__united_states"
+  },
+  {
+    "iata": "LAU",
+    "icao": "HKLU",
+    "airport_name": "manda_airport",
+    "location_served": "lamu__kenya"
+  },
+  {
+    "iata": "LAW",
+    "icao": "KLAW",
+    "airport_name": "lawton–fort_sill_regional_airport",
+    "location_served": "lawton__oklahoma__united_states"
+  },
+  {
+    "iata": "LAX",
+    "icao": "KLAX",
+    "airport_name": "los_angeles_international_airport",
+    "location_served": "los_angeles__california__united_states"
+  },
+  {
+    "iata": "LAY",
+    "icao": "FALY",
+    "airport_name": "ladysmith_airport",
+    "location_served": "ladysmith__south_africa"
+  },
+  {
+    "iata": "LAZ",
+    "icao": "SBLP",
+    "airport_name": "bom_jesus_da_lapa_airport",
+    "location_served": "bom_jesus_da_lapa__bahia__brazil"
+  },
+  {
+    "iata": "LBA",
+    "icao": "EGNM",
+    "airport_name": "leeds_bradford_airport",
+    "location_served": "leeds_/_bradford__england__united_kingdom"
+  },
+  {
+    "iata": "LBB",
+    "icao": "KLBB",
+    "airport_name": "lubbock_preston_smith_international_airport",
+    "location_served": "lubbock__texas__united_states"
+  },
+  {
+    "iata": "LBC",
+    "icao": "EDHL",
+    "airport_name": "lübeck_airport",
+    "location_served": "lübeck__schleswig-holstein__germany"
+  },
+  {
+    "iata": "LBD",
+    "icao": "UTDL",
+    "airport_name": "khujand_airport",
+    "location_served": "khujand__tajikistan"
+  },
+  {
+    "iata": "LBE",
+    "icao": "KLBE",
+    "airport_name": "arnold_palmer_regional_airport",
+    "location_served": "latrobe__pennsylvania__united_states"
+  },
+  {
+    "iata": "LBF",
+    "icao": "KLBF",
+    "airport_name": "north_platte_regional_airport_(lee_bird_field)",
+    "location_served": "north_platte__nebraska__united_states"
+  },
+  {
+    "iata": "LBG",
+    "icao": "LFPB",
+    "airport_name": "paris–le_bourget_airport",
+    "location_served": "paris__île-de-france__france"
+  },
+  {
+    "iata": "LBH",
+    "icao": "",
+    "airport_name": "palm_beach_water_airport",
+    "location_served": "palm_beach__new_south_wales__australia"
+  },
+  {
+    "iata": "LBI",
+    "icao": "LFCI",
+    "airport_name": "le_sequestre_airport",
+    "location_served": "albi__midi-pyrénées__france"
+  },
+  {
+    "iata": "LBJ",
+    "icao": "WATO",
+    "airport_name": "komodo_airport",
+    "location_served": "labuan_bajo__indonesia"
+  },
+  {
+    "iata": "LBK",
+    "icao": "",
+    "airport_name": "liboi_airport",
+    "location_served": "liboi__kenya"
+  },
+  {
+    "iata": "LBL",
+    "icao": "KLBL",
+    "airport_name": "liberal_mid-america_regional_airport",
+    "location_served": "liberal__kansas__united_states"
+  },
+  {
+    "iata": "LBM",
+    "icao": "",
+    "airport_name": "luabo_airport",
+    "location_served": "luabo__mozambique"
+  },
+  {
+    "iata": "LBN",
+    "icao": "",
+    "airport_name": "lake_baringo_airport",
+    "location_served": "lake_baringo__kenya"
+  },
+  {
+    "iata": "LBO",
+    "icao": "FZVI",
+    "airport_name": "lusambo_airport",
+    "location_served": "lusambo__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "LBP",
+    "icao": "",
+    "airport_name": "long_banga_airport",
+    "location_served": "long_banga__sarawak__malaysia"
+  },
+  {
+    "iata": "LBQ",
+    "icao": "FOGR",
+    "airport_name": "lambaréné_airport",
+    "location_served": "lambaréné__gabon"
+  },
+  {
+    "iata": "LBR",
+    "icao": "SWLB",
+    "airport_name": "lábrea_airport",
+    "location_served": "lábrea__amazonas__brazil"
+  },
+  {
+    "iata": "LBS",
+    "icao": "NFNL",
+    "airport_name": "labasa_airport",
+    "location_served": "labasa__fiji"
+  },
+  {
+    "iata": "LBT",
+    "icao": "KLBT",
+    "airport_name": "lumberton_municipal_airport",
+    "location_served": "lumberton__north_carolina__united_states"
+  },
+  {
+    "iata": "LBU",
+    "icao": "WBKL",
+    "airport_name": "labuan_airport",
+    "location_served": "labuan__malaysia"
+  },
+  {
+    "iata": "LBV",
+    "icao": "FOOL",
+    "airport_name": "libreville_international_airport",
+    "location_served": "libreville__gabon"
+  },
+  {
+    "iata": "LBW",
+    "icao": "WRLB",
+    "airport_name": "juvai_semaring_airport_(long_bawan_airport)",
+    "location_served": "long_bawan__indonesia"
+  },
+  {
+    "iata": "LBX",
+    "icao": "RPLU",
+    "airport_name": "lubang_airport",
+    "location_served": "lubang__philippines"
+  },
+  {
+    "iata": "LBY",
+    "icao": "LFRE",
+    "airport_name": "la_baule-escoublac_airport",
+    "location_served": "la_baule-escoublac__pays_de_la_loire__france"
+  }
+]

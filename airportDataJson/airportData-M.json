@@ -1,0 +1,368 @@
+[
+  {
+    "iata": "MAA",
+    "icao": "VOMM",
+    "airport_name": "chennai_international_airport",
+    "location_served": "chennai__tamil_nadu__india"
+  },
+  {
+    "iata": "MAB",
+    "icao": "SBMA",
+    "airport_name": "joão_correa_da_rocha_airport",
+    "location_served": "marabá__pará__brazil"
+  },
+  {
+    "iata": "MAC",
+    "icao": "KMAC",
+    "airport_name": "macon_downtown_airport",
+    "location_served": "macon__georgia__united_states"
+  },
+  {
+    "iata": "MAD",
+    "icao": "LEMD",
+    "airport_name": "adolfo_suárez_madrid–barajas_airport",
+    "location_served": "madrid__spain"
+  },
+  {
+    "iata": "MAE",
+    "icao": "KMAE",
+    "airport_name": "madera_municipal_airport",
+    "location_served": "madera__california__united_states"
+  },
+  {
+    "iata": "MAF",
+    "icao": "KMAF",
+    "airport_name": "midland_international_air_and_space_port",
+    "location_served": "midland__texas__united_states"
+  },
+  {
+    "iata": "MAG",
+    "icao": "AYMD",
+    "airport_name": "madang_airport",
+    "location_served": "madang__papua_new_guinea"
+  },
+  {
+    "iata": "MAH",
+    "icao": "LEMH",
+    "airport_name": "menorca_airport_(mahón_airport)",
+    "location_served": "menorca__balearic_islands__spain"
+  },
+  {
+    "iata": "MAI",
+    "icao": "FWMG",
+    "airport_name": "mangochi_airport",
+    "location_served": "mangochi__malawi"
+  },
+  {
+    "iata": "MAJ",
+    "icao": "PKMJ",
+    "airport_name": "marshall_islands_international_airport_(amata_kabua_int'l)",
+    "location_served": "majuro__marshall_islands"
+  },
+  {
+    "iata": "MAK",
+    "icao": "HSSM",
+    "airport_name": "malakal_airport",
+    "location_served": "malakal__south_sudan"
+  },
+  {
+    "iata": "MAL",
+    "icao": "WAPE",
+    "airport_name": "mangole_airport",
+    "location_served": "mangole_island__indonesia"
+  },
+  {
+    "iata": "MAM",
+    "icao": "MMMA",
+    "airport_name": "general_servando_canales_international_airport",
+    "location_served": "matamoros__tamaulipas__mexico"
+  },
+  {
+    "iata": "MAN",
+    "icao": "EGCC",
+    "airport_name": "manchester_airport",
+    "location_served": "manchester__england__united_kingdom"
+  },
+  {
+    "iata": "MAO",
+    "icao": "SBEG",
+    "airport_name": "eduardo_gomes_international_airport",
+    "location_served": "manaus__amazonas__brazil"
+  },
+  {
+    "iata": "MAP",
+    "icao": "",
+    "airport_name": "mamai_airport",
+    "location_served": "mamai__papua_new_guinea"
+  },
+  {
+    "iata": "MAQ",
+    "icao": "VTPM",
+    "airport_name": "mae_sot_airport",
+    "location_served": "mae_sot__thailand"
+  },
+  {
+    "iata": "MAR",
+    "icao": "SVMC",
+    "airport_name": "la_chinita_international_airport",
+    "location_served": "maracaibo__venezuela"
+  },
+  {
+    "iata": "MAS",
+    "icao": "AYMO",
+    "airport_name": "momote_airport",
+    "location_served": "manus_island__papua_new_guinea"
+  },
+  {
+    "iata": "MAT",
+    "icao": "FZAM",
+    "airport_name": "matadi_tshimpi_airport",
+    "location_served": "matadi__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "MAU",
+    "icao": "NTTP",
+    "airport_name": "maupiti_airport",
+    "location_served": "maupiti__leeward_islands__french_polynesia"
+  },
+  {
+    "iata": "MAV",
+    "icao": "",
+    "airport_name": "maloelap_airport_(faa:_dapindapi)",
+    "location_served": "taroa_island__maloelap_atoll__marshall_islands"
+  },
+  {
+    "iata": "MAW",
+    "icao": "KMAW",
+    "airport_name": "malden_regional_airport",
+    "location_served": "malden__missouri__united_states"
+  },
+  {
+    "iata": "MAX",
+    "icao": "GOSM",
+    "airport_name": "ouro_sogui_airport",
+    "location_served": "matam__senegal"
+  },
+  {
+    "iata": "MAY",
+    "icao": "MYAB",
+    "airport_name": "clarence_a._bain_airport",
+    "location_served": "mangrove_cay__andros_island__bahamas"
+  },
+  {
+    "iata": "MAZ",
+    "icao": "TJMZ",
+    "airport_name": "eugenio_maría_de_hostos_airport",
+    "location_served": "mayagüez__puerto_rico__united_states"
+  },
+  {
+    "iata": "MBA",
+    "icao": "HKMO",
+    "airport_name": "moi_international_airport",
+    "location_served": "mombasa__kenya"
+  },
+  {
+    "iata": "MBB",
+    "icao": "YMBL",
+    "airport_name": "marble_bar_airport",
+    "location_served": "marble_bar__western_australia__australia"
+  },
+  {
+    "iata": "MBC",
+    "icao": "FOGG",
+    "airport_name": "mbigou_airport",
+    "location_served": "mbigou__gabon"
+  },
+  {
+    "iata": "MBD",
+    "icao": "FAMM",
+    "airport_name": "mahikeng_airport_(mmabatho_airport)",
+    "location_served": "mmabatho__south_africa"
+  },
+  {
+    "iata": "MBE",
+    "icao": "RJEB",
+    "airport_name": "monbetsu_airport",
+    "location_served": "monbetsu__hokkaido__hokkaido__japan"
+  },
+  {
+    "iata": "MBF",
+    "icao": "YPOK",
+    "airport_name": "porepunkah_airfield",
+    "location_served": "mount_buffalo__victoria__australia"
+  },
+  {
+    "iata": "MBG",
+    "icao": "KMBG",
+    "airport_name": "mobridge_municipal_airport",
+    "location_served": "mobridge__south_dakota__united_states"
+  },
+  {
+    "iata": "MBH",
+    "icao": "YMYB",
+    "airport_name": "maryborough_airport",
+    "location_served": "maryborough__queensland__australia"
+  },
+  {
+    "iata": "MBI",
+    "icao": "HTMB",
+    "airport_name": "mbeya_airport",
+    "location_served": "mbeya__tanzania"
+  },
+  {
+    "iata": "MBJ",
+    "icao": "MKJS",
+    "airport_name": "sangster_international_airport",
+    "location_served": "montego_bay__jamaica"
+  },
+  {
+    "iata": "MBK",
+    "icao": "SWXM",
+    "airport_name": "orlando_villas-bôas_regional_airport",
+    "location_served": "matupá__mato_grosso__brazil"
+  },
+  {
+    "iata": "MBL",
+    "icao": "KMBL",
+    "airport_name": "manistee_county_blacker_airport",
+    "location_served": "manistee__michigan__united_states"
+  },
+  {
+    "iata": "MBM",
+    "icao": "",
+    "airport_name": "mkambati_airport[dapi]",
+    "location_served": "mkambati__south_africa"
+  },
+  {
+    "iata": "MBN",
+    "icao": "",
+    "airport_name": "mount_barnett_airport",
+    "location_served": "mount_barnett__western_australia__australia"
+  },
+  {
+    "iata": "MBO",
+    "icao": "RPUM",
+    "airport_name": "mamburao_airport",
+    "location_served": "mamburao__philippines"
+  },
+  {
+    "iata": "MBP",
+    "icao": "SPBB",
+    "airport_name": "moyobamba_airport",
+    "location_served": "moyobamba__peru"
+  },
+  {
+    "iata": "MBQ",
+    "icao": "HUMA",
+    "airport_name": "mbarara_airport",
+    "location_served": "mbarara__uganda"
+  },
+  {
+    "iata": "MBR",
+    "icao": "GQNU",
+    "airport_name": "m'bout_airport",
+    "location_served": "m'bout__mauritania"
+  },
+  {
+    "iata": "MBS",
+    "icao": "KMBS",
+    "airport_name": "mbs_international_airport",
+    "location_served": "saginaw_/_midland_/_bay_city__michigan__united_states"
+  },
+  {
+    "iata": "MBT",
+    "icao": "RPVJ",
+    "airport_name": "moises_r._espinosa_airport_(masbate_airport)",
+    "location_served": "masbate__philippines"
+  },
+  {
+    "iata": "MBU",
+    "icao": "AGGI",
+    "airport_name": "mbambanakira_airport",
+    "location_served": "mbambanakira__solomon_islands"
+  },
+  {
+    "iata": "MBV",
+    "icao": "",
+    "airport_name": "masa_airport",
+    "location_served": "masa__papua_new_guinea"
+  },
+  {
+    "iata": "MBW",
+    "icao": "YMMB",
+    "airport_name": "moorabbin_airport",
+    "location_served": "melbourne__victoria__australia"
+  },
+  {
+    "iata": "MBX",
+    "icao": "LJMB",
+    "airport_name": "maribor_edvard_rusjan_airport",
+    "location_served": "maribor__slovenia"
+  },
+  {
+    "iata": "MBY",
+    "icao": "KMBY",
+    "airport_name": "omar_n._bradley_airport",
+    "location_served": "moberly__missouri__united_states"
+  },
+  {
+    "iata": "MBZ",
+    "icao": "SWMW",
+    "airport_name": "maués_airport",
+    "location_served": "maués__amazonas__brazil"
+  },
+  {
+    "iata": "MCA",
+    "icao": "GUMA",
+    "airport_name": "macenta_airport",
+    "location_served": "macenta__guinea"
+  },
+  {
+    "iata": "MCB",
+    "icao": "KMCB",
+    "airport_name": "mccomb–pike_county_airport_(john_e._lewis_field)",
+    "location_served": "mccomb__mississippi__united_states"
+  },
+  {
+    "iata": "MCC",
+    "icao": "KMCC",
+    "airport_name": "mcclellan_airfield",
+    "location_served": "sacramento__california__united_states"
+  },
+  {
+    "iata": "MCD",
+    "icao": "KMCD",
+    "airport_name": "mackinac_island_airport",
+    "location_served": "mackinac_island__michigan__united_states"
+  },
+  {
+    "iata": "MCE",
+    "icao": "KMCE",
+    "airport_name": "merced_regional_airport_(macready_field)",
+    "location_served": "merced__california__united_states"
+  },
+  {
+    "iata": "MCF",
+    "icao": "KMCF",
+    "airport_name": "macdill_air_force_base",
+    "location_served": "tampa__florida__united_states"
+  },
+  {
+    "iata": "MCG",
+    "icao": "PAMC",
+    "airport_name": "mcgrath_airport",
+    "location_served": "mcgrath__alaska__united_states"
+  },
+  {
+    "iata": "MCH",
+    "icao": "SEMH",
+    "airport_name": "general_manuel_serrano_airport",
+    "location_served": "machala__ecuador"
+  },
+  {
+    "iata": "MCI",
+    "icao": "KMCI",
+    "airport_name": "kansas_city_international_airport",
+    "location_served": "kansas_city__missouri__united_states"
+  }
+]

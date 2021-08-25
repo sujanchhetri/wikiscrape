@@ -1,0 +1,206 @@
+[
+  {
+    "iata": "EAA",
+    "icao": "PAEG",
+    "airport_name": "eagle_airport",
+    "location_served": "eagle__alaska__united_states"
+  },
+  {
+    "iata": "EAB",
+    "icao": "ODAS",
+    "airport_name": "abbs_airport",
+    "location_served": "abbs__yemen"
+  },
+  {
+    "iata": "EAE",
+    "icao": "NVSE",
+    "airport_name": "siwo_airport",
+    "location_served": "emae_island__shefa__vanuatu"
+  },
+  {
+    "iata": "EAL",
+    "icao": "",
+    "airport_name": "elenak_airport",
+    "location_served": "mejato_island__kwajalein_atoll__marshall_islands"
+  },
+  {
+    "iata": "EAM",
+    "icao": "OENG",
+    "airport_name": "najran_domestic_airport",
+    "location_served": "najran__saudi_arabia"
+  },
+  {
+    "iata": "EAN",
+    "icao": "KEAN",
+    "airport_name": "phifer_airfield",
+    "location_served": "wheatland__wyoming__united_states"
+  },
+  {
+    "iata": "EAP[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "basel__switzerland_/_mulhouse__alsace__france"
+  },
+  {
+    "iata": "EAR",
+    "icao": "KEAR",
+    "airport_name": "kearney_regional_airport",
+    "location_served": "kearney__nebraska__united_states"
+  },
+  {
+    "iata": "EAS",
+    "icao": "LESO",
+    "airport_name": "san_sebastián_airport",
+    "location_served": "san_sebastián__basque_country__spain"
+  },
+  {
+    "iata": "EAT",
+    "icao": "KEAT",
+    "airport_name": "pangborn_memorial_airport",
+    "location_served": "wenatchee__washington__united_states"
+  },
+  {
+    "iata": "EAU",
+    "icao": "KEAU",
+    "airport_name": "chippewa_valley_regional_airport",
+    "location_served": "eau_claire__wisconsin__united_states"
+  },
+  {
+    "iata": "EBA",
+    "icao": "LIRJ",
+    "airport_name": "marina_di_campo_airport",
+    "location_served": "elba_island__tuscany__italy"
+  },
+  {
+    "iata": "EBB",
+    "icao": "HUEN",
+    "airport_name": "entebbe_international_airport",
+    "location_served": "entebbe__uganda"
+  },
+  {
+    "iata": "EBD",
+    "icao": "HSOB",
+    "airport_name": "el_obeid_airport",
+    "location_served": "el_obeid__sudan"
+  },
+  {
+    "iata": "EBG",
+    "icao": "SKEB",
+    "airport_name": "el_bagre_airport_(el_tomin_airport)",
+    "location_served": "el_bagre__colombia"
+  },
+  {
+    "iata": "EBH",
+    "icao": "DAOY",
+    "airport_name": "el_bayadh_airport[dapi]",
+    "location_served": "el_bayadh__algeria"
+  },
+  {
+    "iata": "EBJ",
+    "icao": "EKEB",
+    "airport_name": "esbjerg_airport",
+    "location_served": "esbjerg__denmark"
+  },
+  {
+    "iata": "EBL",
+    "icao": "ORER",
+    "airport_name": "erbil_international_airport",
+    "location_served": "erbil__iraq"
+  },
+  {
+    "iata": "EBM",
+    "icao": "DTTR",
+    "airport_name": "el_borma_airport",
+    "location_served": "el_borma__tunisia"
+  },
+  {
+    "iata": "EBN",
+    "icao": "",
+    "airport_name": "ebadon_airstrip",
+    "location_served": "ebadon_island__kwajalein_atoll__marshall_islands"
+  },
+  {
+    "iata": "EBO",
+    "icao": "",
+    "airport_name": "ebon_airport",
+    "location_served": "ebon_atoll__marshall_islands"
+  },
+  {
+    "iata": "EBS",
+    "icao": "KEBS",
+    "airport_name": "webster_city_municipal_airport",
+    "location_served": "webster_city__iowa__united_states"
+  },
+  {
+    "iata": "EBU",
+    "icao": "LFMH",
+    "airport_name": "saint-étienne–bouthéon_airport",
+    "location_served": "saint-étienne__rhône-alpes__france"
+  },
+  {
+    "iata": "EBW",
+    "icao": "FKKW",
+    "airport_name": "ebolowa_airport",
+    "location_served": "ebolowa__cameroon"
+  },
+  {
+    "iata": "ECA",
+    "icao": "",
+    "airport_name": "iosco_county_airport_(faa:_dapiddapi)",
+    "location_served": "east_tawas__michigan__united_states"
+  },
+  {
+    "iata": "ECG",
+    "icao": "KECG",
+    "airport_name": "elizabeth_city_regional_airport",
+    "location_served": "elizabeth_city__north_carolina__united_states"
+  },
+  {
+    "iata": "ECH",
+    "icao": "YECH",
+    "airport_name": "echuca_airport",
+    "location_served": "echuca__victoria__australia"
+  },
+  {
+    "iata": "ECI",
+    "icao": "MNLP",
+    "airport_name": "costa_esmeralda_airport[dapi]",
+    "location_served": "rivas__nicaragua"
+  },
+  {
+    "iata": "ECN",
+    "icao": "LCEN",
+    "airport_name": "ercan_international_airport[dapi]",
+    "location_served": "nicosia_(lefkoşa)__northern_cyprus"
+  },
+  {
+    "iata": "ECO",
+    "icao": "",
+    "airport_name": "el_encanto_airport",
+    "location_served": "el_encanto__colombia"
+  },
+  {
+    "iata": "ECP",
+    "icao": "KECP",
+    "airport_name": "northwest_florida_beaches_international_airport",
+    "location_served": "panama_city__florida__united_states"
+  },
+  {
+    "iata": "ECR",
+    "icao": "SKEH[DAPI]",
+    "airport_name": "el_charco_airport",
+    "location_served": "el_charco__colombia"
+  },
+  {
+    "iata": "ECS",
+    "icao": "KECS",
+    "airport_name": "mondell_field",
+    "location_served": "newcastle__wyoming__united_states"
+  },
+  {
+    "iata": "EDA",
+    "icao": "",
+    "airport_name": "edna_bay_seaplane_base[dapi]",
+    "location_served": ""
+  }
+]

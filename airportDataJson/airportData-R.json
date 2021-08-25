@@ -1,0 +1,308 @@
+[
+  {
+    "iata": "RAA",
+    "icao": "",
+    "airport_name": "rakanda_airport[dapi]",
+    "location_served": "rakanda__papua_new_guinea"
+  },
+  {
+    "iata": "RAB",
+    "icao": "AYTK",
+    "airport_name": "rabaul_airport_(tokua_airport)",
+    "location_served": "rabaul__papua_new_guinea"
+  },
+  {
+    "iata": "RAC",
+    "icao": "KRAC",
+    "airport_name": "john_h._batten_airport",
+    "location_served": "racine__wisconsin__united_states"
+  },
+  {
+    "iata": "RAD",
+    "icao": "",
+    "airport_name": "road_town_seaplane_base[dapi]",
+    "location_served": "tortola__british_overseas_territory_of_virgin_islands"
+  },
+  {
+    "iata": "RAE",
+    "icao": "OERR",
+    "airport_name": "arar_domestic_airport",
+    "location_served": "arar__saudi_arabia"
+  },
+  {
+    "iata": "RAF",
+    "icao": "SAFR",
+    "airport_name": "rafaela_airport[dapi]",
+    "location_served": "rafaela__santa_fe__argentina"
+  },
+  {
+    "iata": "RAG",
+    "icao": "NZRA",
+    "airport_name": "raglan_aerodrome[dapi]",
+    "location_served": "raglan__new_zealand"
+  },
+  {
+    "iata": "RAH",
+    "icao": "OERF",
+    "airport_name": "rafha_domestic_airport[dapi]",
+    "location_served": "rafha__saudi_arabia"
+  },
+  {
+    "iata": "RAI",
+    "icao": "GVNP",
+    "airport_name": "nelson_mandela_international_airport",
+    "location_served": "praia__cape_verde"
+  },
+  {
+    "iata": "RAJ",
+    "icao": "VARK",
+    "airport_name": "rajkot_airport",
+    "location_served": "rajkot__gujarat__india"
+  },
+  {
+    "iata": "RAK",
+    "icao": "GMMX",
+    "airport_name": "marrakesh_menara_airport",
+    "location_served": "marrakesh__morocco"
+  },
+  {
+    "iata": "RAL",
+    "icao": "KRAL",
+    "airport_name": "riverside_municipal_airport",
+    "location_served": "riverside__california__united_states"
+  },
+  {
+    "iata": "RAM",
+    "icao": "YRNG",
+    "airport_name": "ramingining_airport[dapi]",
+    "location_served": "ramingining__northern_territory__australia"
+  },
+  {
+    "iata": "RAN",
+    "icao": "LIDR",
+    "airport_name": "ravenna_airport[dapi]",
+    "location_served": "ravenna__emilia-romagna__italy"
+  },
+  {
+    "iata": "RAO",
+    "icao": "SBRP",
+    "airport_name": "leite_lopes_airport",
+    "location_served": "ribeirão_preto__são_paulo__brazil"
+  },
+  {
+    "iata": "RAP",
+    "icao": "KRAP",
+    "airport_name": "rapid_city_regional_airport",
+    "location_served": "rapid_city__south_dakota__united_states"
+  },
+  {
+    "iata": "RAQ",
+    "icao": "WAWR",
+    "airport_name": "sugimanuru_airport[dapi]",
+    "location_served": "muna_island__indonesia"
+  },
+  {
+    "iata": "RAR",
+    "icao": "NCRG",
+    "airport_name": "rarotonga_international_airport",
+    "location_served": "avarua__rarotonga__cook_islands"
+  },
+  {
+    "iata": "RAS",
+    "icao": "OIGG",
+    "airport_name": "rasht_airport[dapi]",
+    "location_served": "rasht__iran"
+  },
+  {
+    "iata": "RAT",
+    "icao": "USNR",
+    "airport_name": "raduzhny_airport",
+    "location_served": "raduzhny__khanty-mansi_autonomous_okrug__russia"
+  },
+  {
+    "iata": "RAV",
+    "icao": "SKCN",
+    "airport_name": "cravo_norte_airport[dapi]",
+    "location_served": "cravo_norte__colombia"
+  },
+  {
+    "iata": "RAW",
+    "icao": "",
+    "airport_name": "arawa_airport[dapi]",
+    "location_served": "arawa__papua_new_guinea"
+  },
+  {
+    "iata": "RAX",
+    "icao": "",
+    "airport_name": "oram_airport[dapi]",
+    "location_served": "oram__papua_new_guinea"
+  },
+  {
+    "iata": "RAZ",
+    "icao": "OPRT",
+    "airport_name": "rawalakot_airport[dapi]",
+    "location_served": "rawalakot__pakistan"
+  },
+  {
+    "iata": "RBA",
+    "icao": "GMME",
+    "airport_name": "rabat–salé_airport",
+    "location_served": "rabat__morocco"
+  },
+  {
+    "iata": "RBB",
+    "icao": "SWBR",
+    "airport_name": "borba_airport",
+    "location_served": "borba__amazonas__brazil"
+  },
+  {
+    "iata": "RBC",
+    "icao": "YROI",
+    "airport_name": "robinvale_airport",
+    "location_served": "robinvale__victoria__australia"
+  },
+  {
+    "iata": "RBD",
+    "icao": "KRBD",
+    "airport_name": "dallas_executive_airport",
+    "location_served": "dallas__texas__united_states"
+  },
+  {
+    "iata": "RBE",
+    "icao": "VDRK",
+    "airport_name": "ratanakiri_airport",
+    "location_served": "ratanakiri__cambodia"
+  },
+  {
+    "iata": "RBF",
+    "icao": "",
+    "airport_name": "big_bear_city_airport[dapi]_(faa:_ldapidapi)",
+    "location_served": "big_bear_city__california__united_states"
+  },
+  {
+    "iata": "RBG",
+    "icao": "KRBG",
+    "airport_name": "roseburg_regional_airport",
+    "location_served": "roseburg__oregon__united_states"
+  },
+  {
+    "iata": "RBI",
+    "icao": "NFFR",
+    "airport_name": "rabi_airport[dapi]",
+    "location_served": "rabi_island__fiji"
+  },
+  {
+    "iata": "RBJ",
+    "icao": "RJCR",
+    "airport_name": "rebun_airport[dapi]",
+    "location_served": "rebun__rebun_island__japan"
+  },
+  {
+    "iata": "RBK",
+    "icao": "",
+    "airport_name": "french_valley_airport[dapi]_(faa:_fdapidapi)",
+    "location_served": "murrieta_/_temecula__california__united_states"
+  },
+  {
+    "iata": "RBL",
+    "icao": "KRBL",
+    "airport_name": "red_bluff_municipal_airport",
+    "location_served": "red_bluff__california__united_states"
+  },
+  {
+    "iata": "RBM",
+    "icao": "EDMS",
+    "airport_name": "straubing_wallmühle_airport",
+    "location_served": "straubing__bavaria__germany"
+  },
+  {
+    "iata": "RBO",
+    "icao": "SLRB",
+    "airport_name": "roboré_airport[dapi]",
+    "location_served": "roboré__bolivia"
+  },
+  {
+    "iata": "RBP",
+    "icao": "",
+    "airport_name": "rabaraba_airport[dapi]",
+    "location_served": "rabaraba__papua_new_guinea"
+  },
+  {
+    "iata": "RBQ",
+    "icao": "SLRQ",
+    "airport_name": "rurrenabaque_airport",
+    "location_served": "rurrenabaque__bolivia"
+  },
+  {
+    "iata": "RBR",
+    "icao": "SBRB",
+    "airport_name": "plácido_de_castro_international_airport",
+    "location_served": "rio_branco__acre__brazil"
+  },
+  {
+    "iata": "RBS",
+    "icao": "YORB",
+    "airport_name": "orbost_airport[dapi]",
+    "location_served": "orbost__victoria__australia"
+  },
+  {
+    "iata": "RBT",
+    "icao": "HKMB",
+    "airport_name": "marsabit_airport[dapi]",
+    "location_served": "marsabit__kenya"
+  },
+  {
+    "iata": "RBU",
+    "icao": "YROE",
+    "airport_name": "roebourne_airport[dapi]",
+    "location_served": "roebourne__western_australia__australia"
+  },
+  {
+    "iata": "RBV",
+    "icao": "AGRM",
+    "airport_name": "ramata_airport[dapi]",
+    "location_served": "ramata_island__solomon_islands"
+  },
+  {
+    "iata": "RBW",
+    "icao": "KRBW",
+    "airport_name": "lowcountry_regional_airport",
+    "location_served": "walterboro__south_carolina__united_states"
+  },
+  {
+    "iata": "RBX",
+    "icao": "HSMK",
+    "airport_name": "rumbek_airport[dapi]",
+    "location_served": "rumbek__south_sudan"
+  },
+  {
+    "iata": "RBY",
+    "icao": "PARY",
+    "airport_name": "ruby_airport",
+    "location_served": "ruby__alaska__united_states"
+  },
+  {
+    "iata": "RCA",
+    "icao": "KRCA",
+    "airport_name": "ellsworth_air_force_base",
+    "location_served": "rapid_city__south_dakota__united_states"
+  },
+  {
+    "iata": "RCB",
+    "icao": "FARB",
+    "airport_name": "richards_bay_airport",
+    "location_served": "richards_bay__south_africa"
+  },
+  {
+    "iata": "RCE",
+    "icao": "",
+    "airport_name": "roche_harbor_seaplane_base",
+    "location_served": "roche_harbor__washington__united_states"
+  },
+  {
+    "iata": "RCH",
+    "icao": "SKRH",
+    "airport_name": "almirante_padilla_airport",
+    "location_served": "riohacha__colombia"
+  }
+]

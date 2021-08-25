@@ -1,0 +1,944 @@
+[
+  {
+    "iata": "VAA",
+    "icao": "EFVA",
+    "airport_name": "vaasa_airport",
+    "location_served": "vaasa__finland"
+  },
+  {
+    "iata": "VAB",
+    "icao": "",
+    "airport_name": "yavarate_airport[dapi]",
+    "location_served": "yavarate__colombia"
+  },
+  {
+    "iata": "VAC",
+    "icao": "EDWU",
+    "airport_name": "varrelbusch_airport[dapi]",
+    "location_served": "cloppenburg__lower_saxony__germany"
+  },
+  {
+    "iata": "VAD",
+    "icao": "KVAD",
+    "airport_name": "moody_air_force_base",
+    "location_served": "valdosta__georgia__united_states"
+  },
+  {
+    "iata": "VAF",
+    "icao": "LFLU",
+    "airport_name": "valence-chabeuil_airport",
+    "location_served": "valence__rhône-alpes__france"
+  },
+  {
+    "iata": "VAG",
+    "icao": "SBVG",
+    "airport_name": "major_brigadeiro_trompowsky_airport",
+    "location_served": "varginha__minas_gerais__brazil"
+  },
+  {
+    "iata": "VAH",
+    "icao": "SLVG",
+    "airport_name": "cap._av._vidal_villagomez_toledo_airport[dapi]",
+    "location_served": "vallegrande__bolivia"
+  },
+  {
+    "iata": "VAI",
+    "icao": "AYVN",
+    "airport_name": "vanimo_airport[dapi]",
+    "location_served": "vanimo__papua_new_guinea"
+  },
+  {
+    "iata": "VAK",
+    "icao": "PAVA",
+    "airport_name": "chevak_airport",
+    "location_served": "chevak__alaska__united_states"
+  },
+  {
+    "iata": "VAL",
+    "icao": "SNVB",
+    "airport_name": "valença_airport[dapi]",
+    "location_served": "valença__bahia__brazil"
+  },
+  {
+    "iata": "VAM",
+    "icao": "VRMV",
+    "airport_name": "villa_international_airport",
+    "location_served": "maamigili__maldives"
+  },
+  {
+    "iata": "VAN",
+    "icao": "LTCI",
+    "airport_name": "van_ferit_melen_airport",
+    "location_served": "van__turkey"
+  },
+  {
+    "iata": "VAO",
+    "icao": "AGGV",
+    "airport_name": "suavanao_airport[dapi]",
+    "location_served": "suavanao__solomon_islands"
+  },
+  {
+    "iata": "VAP",
+    "icao": "SCRD",
+    "airport_name": "rodelillo_airfield[dapi]",
+    "location_served": "valparaíso__chile"
+  },
+  {
+    "iata": "VAR",
+    "icao": "LBWN",
+    "airport_name": "varna_airport",
+    "location_served": "varna__bulgaria"
+  },
+  {
+    "iata": "VAS",
+    "icao": "LTAR",
+    "airport_name": "sivas_airport",
+    "location_served": "sivas__turkey"
+  },
+  {
+    "iata": "VAT",
+    "icao": "FMMY",
+    "airport_name": "vatomandry_airport[dapi]",
+    "location_served": "vatomandry__madagascar"
+  },
+  {
+    "iata": "VAU",
+    "icao": "NFNV",
+    "airport_name": "vatukoula_airport[dapi]",
+    "location_served": "vatukoula__fiji"
+  },
+  {
+    "iata": "VAV",
+    "icao": "NFTV",
+    "airport_name": "vavaʻu_international_airport[dapi]",
+    "location_served": "vavaʻu__tonga"
+  },
+  {
+    "iata": "VAW",
+    "icao": "ENSS",
+    "airport_name": "vardø_airport__svartnes",
+    "location_served": "vardø__norway"
+  },
+  {
+    "iata": "VBA",
+    "icao": "VYAN",
+    "airport_name": "ann_airport[dapi]",
+    "location_served": "ann__myanmar"
+  },
+  {
+    "iata": "VBC",
+    "icao": "VYCZ",
+    "airport_name": "mandalay_chanmyathazi_airport[dapi]",
+    "location_served": "mandalay__myanmar"
+  },
+  {
+    "iata": "VBG",
+    "icao": "KVBG",
+    "airport_name": "vandenberg_air_force_base",
+    "location_served": "lompoc__california__united_states"
+  },
+  {
+    "iata": "VBP",
+    "icao": "VYBP",
+    "airport_name": "bokpyin_airport[dapi]",
+    "location_served": "bokpyin__myanmar"
+  },
+  {
+    "iata": "VBS",
+    "icao": "LIPO",
+    "airport_name": "brescia_airport_(gabriele_d'annunzio_airport)",
+    "location_served": "brescia__lombardy__italy"
+  },
+  {
+    "iata": "VBV",
+    "icao": "NFVB",
+    "airport_name": "vanuabalavu_airport[dapi]",
+    "location_served": "vanua_balavu__fiji"
+  },
+  {
+    "iata": "VBY",
+    "icao": "ESSV",
+    "airport_name": "visby_airport",
+    "location_served": "visby__sweden"
+  },
+  {
+    "iata": "VCA",
+    "icao": "VVCT",
+    "airport_name": "can_tho_international_airport",
+    "location_served": "can_tho_(cần_thơ)__vietnam"
+  },
+  {
+    "iata": "VCD",
+    "icao": "YVRD",
+    "airport_name": "victoria_river_downs_airport[dapi]",
+    "location_served": "victoria_river_downs_station__northern_territory__australia"
+  },
+  {
+    "iata": "VCE",
+    "icao": "LIPZ",
+    "airport_name": "venice_marco_polo_airport",
+    "location_served": "venice__veneto__italy"
+  },
+  {
+    "iata": "VCF",
+    "icao": "",
+    "airport_name": "valcheta_airport[dapi]",
+    "location_served": "valcheta__río_negro__argentina"
+  },
+  {
+    "iata": "VCH",
+    "icao": "SUVO",
+    "airport_name": "vichadero_airport",
+    "location_served": "vichadero__uruguay"
+  },
+  {
+    "iata": "VCL",
+    "icao": "VVCA",
+    "airport_name": "chu_lai_international_airport",
+    "location_served": "chu_lai__vietnam"
+  },
+  {
+    "iata": "VCP",
+    "icao": "SBKP",
+    "airport_name": "viracopos/campinas_international_airport",
+    "location_served": "são_paulo_/_campinas__são_paulo__brazil"
+  },
+  {
+    "iata": "VCR",
+    "icao": "SVCO",
+    "airport_name": "carora_airport[dapi]",
+    "location_served": "carora__venezuela"
+  },
+  {
+    "iata": "VCS",
+    "icao": "VVCS",
+    "airport_name": "con_dao_airport_(cỏ_ống_airport)",
+    "location_served": "con_dao_island_(côn_đảo)__vietnam"
+  },
+  {
+    "iata": "VCT",
+    "icao": "KVCT",
+    "airport_name": "victoria_regional_airport",
+    "location_served": "victoria__texas__united_states"
+  },
+  {
+    "iata": "VCV",
+    "icao": "KVCV",
+    "airport_name": "southern_california_logistics_airport",
+    "location_served": "victorville__california__united_states"
+  },
+  {
+    "iata": "VDA",
+    "icao": "LLOV",
+    "airport_name": "ovda_airport",
+    "location_served": "ovda_(uvda)__israel"
+  },
+  {
+    "iata": "VDB",
+    "icao": "ENFG",
+    "airport_name": "fagernes_airport__leirin",
+    "location_served": "fagernes__norway"
+  },
+  {
+    "iata": "VDC",
+    "icao": "SSVC",
+    "airport_name": "glauber_rocha_airport",
+    "location_served": "vitória_da_conquista__bahia__brazil"
+  },
+  {
+    "iata": "VDE",
+    "icao": "GCHI",
+    "airport_name": "el_hierro_airport[dapi]",
+    "location_served": "valverde__canary_islands__spain"
+  },
+  {
+    "iata": "VDH",
+    "icao": "VVDH",
+    "airport_name": "dong_hoi_airport[dapi]",
+    "location_served": "dong_hoi_(đồng_hới)__vietnam"
+  },
+  {
+    "iata": "VDI",
+    "icao": "KVDI",
+    "airport_name": "vidalia_regional_airport",
+    "location_served": "vidalia__georgia__united_states"
+  },
+  {
+    "iata": "VDM",
+    "icao": "SAVV",
+    "airport_name": "gobernador_edgardo_castello_airport",
+    "location_served": "viedma__río_negro__argentina"
+  },
+  {
+    "iata": "VDO",
+    "icao": "VVVD",
+    "airport_name": "van_don_international_airport",
+    "location_served": "ha_long__quang_ninh_(quảng_ninh)__vietnam"
+  },
+  {
+    "iata": "VDP",
+    "icao": "SVVP",
+    "airport_name": "valle_de_la_pascua_airport",
+    "location_served": "valle_de_la_pascua__venezuela"
+  },
+  {
+    "iata": "VDR",
+    "icao": "SAOD",
+    "airport_name": "villa_dolores_airport",
+    "location_served": "villa_dolores__córdoba__argentina"
+  },
+  {
+    "iata": "VDS",
+    "icao": "ENVD",
+    "airport_name": "vadsø_airport",
+    "location_served": "vadsø__norway"
+  },
+  {
+    "iata": "VDY",
+    "icao": "VOJV",
+    "airport_name": "vidyanagar_airport[dapi]_(jindal_airport)",
+    "location_served": "toranagallu__karnataka__india"
+  },
+  {
+    "iata": "VDZ",
+    "icao": "PAVD",
+    "airport_name": "valdez_airport_(pioneer_field)",
+    "location_served": "valdez__alaska__united_states"
+  },
+  {
+    "iata": "VEE",
+    "icao": "PAVE",
+    "airport_name": "venetie_airport",
+    "location_served": "venetie__alaska__united_states"
+  },
+  {
+    "iata": "VEG",
+    "icao": "SYMK",
+    "airport_name": "maikwak_airport[dapi]",
+    "location_served": "maikwak__guyana"
+  },
+  {
+    "iata": "VEL",
+    "icao": "KVEL",
+    "airport_name": "vernal_regional_airport",
+    "location_served": "vernal__utah__united_states"
+  },
+  {
+    "iata": "VER",
+    "icao": "MMVR",
+    "airport_name": "general_heriberto_jara_international_airport",
+    "location_served": "veracruz__veracruz__mexico"
+  },
+  {
+    "iata": "VEV",
+    "icao": "AGBA",
+    "airport_name": "barakoma_airport[dapi]",
+    "location_served": "barakoma__solomon_islands"
+  },
+  {
+    "iata": "VEX",
+    "icao": "",
+    "airport_name": "tioga_municipal_airport_(faa:_ddapidapi)",
+    "location_served": "tioga__north_dakota__united_states"
+  },
+  {
+    "iata": "VEY",
+    "icao": "BIVM",
+    "airport_name": "vestmannaeyjar_airport",
+    "location_served": "vestmannaeyjar__iceland"
+  },
+  {
+    "iata": "VFA",
+    "icao": "FVFA",
+    "airport_name": "victoria_falls_airport",
+    "location_served": "victoria_falls__zimbabwe"
+  },
+  {
+    "iata": "VGA",
+    "icao": "VOBZ",
+    "airport_name": "vijayawada_airport",
+    "location_served": "vijayawada__andhra_pradesh__india"
+  },
+  {
+    "iata": "VGD",
+    "icao": "ULWW",
+    "airport_name": "vologda_airport",
+    "location_served": "vologda__vologda_oblast__russia"
+  },
+  {
+    "iata": "VGO",
+    "icao": "LEVX",
+    "airport_name": "vigo–peinador_airport",
+    "location_served": "vigo__galicia__spain"
+  },
+  {
+    "iata": "VGS",
+    "icao": "",
+    "airport_name": "general_villegas_airport[dapi]",
+    "location_served": "general_villegas__buenos_aires__argentina"
+  },
+  {
+    "iata": "VGT",
+    "icao": "KVGT",
+    "airport_name": "north_las_vegas_airport",
+    "location_served": "las_vegas__nevada__united_states"
+  },
+  {
+    "iata": "VGZ",
+    "icao": "SKVG",
+    "airport_name": "villa_garzón_airport",
+    "location_served": "villagarzón__colombia"
+  },
+  {
+    "iata": "VHC",
+    "icao": "FNSA",
+    "airport_name": "henrique_de_carvalho_airport[dapi]",
+    "location_served": "saurimo__angola"
+  },
+  {
+    "iata": "VHM",
+    "icao": "ESNV",
+    "airport_name": "vilhelmina_airport",
+    "location_served": "vilhelmina__sweden"
+  },
+  {
+    "iata": "VHN",
+    "icao": "KVHN",
+    "airport_name": "culberson_county_airport",
+    "location_served": "van_horn__texas__united_states"
+  },
+  {
+    "iata": "VHV",
+    "icao": "UENI",
+    "airport_name": "verkhnevilyuysk_airport",
+    "location_served": "verkhnevilyuysk__yakutia__russia"
+  },
+  {
+    "iata": "VHY",
+    "icao": "LFLV",
+    "airport_name": "vichy_—_charmeil_airport[dapi]",
+    "location_served": "vichy__auvergne__france"
+  },
+  {
+    "iata": "VHZ",
+    "icao": "NTUV",
+    "airport_name": "vahitahi_airport[dapi]",
+    "location_served": "vahitahi__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "VIA",
+    "icao": "SSVI",
+    "airport_name": "ângelo_ponzoni_municipal_airport",
+    "location_served": "videira__santa_catarina__brazil"
+  },
+  {
+    "iata": "VIB",
+    "icao": "",
+    "airport_name": "villa_constitución_airport[dapi]",
+    "location_served": "ciudad_constitución__baja_california_sur__mexico"
+  },
+  {
+    "iata": "VIC",
+    "icao": "LIPT",
+    "airport_name": "vicenza_airport",
+    "location_served": "vicenza__veneto__italy"
+  },
+  {
+    "iata": "VIE",
+    "icao": "LOWW",
+    "airport_name": "vienna_international_airport",
+    "location_served": "vienna__austria"
+  },
+  {
+    "iata": "VIG",
+    "icao": "SVVG",
+    "airport_name": "juan_pablo_pérez_alfonzo_airport",
+    "location_served": "el_vigía__venezuela"
+  },
+  {
+    "iata": "VIH",
+    "icao": "KVIH",
+    "airport_name": "rolla_national_airport",
+    "location_served": "rolla_/_vichy__missouri__united_states"
+  },
+  {
+    "iata": "VII",
+    "icao": "VVVH",
+    "airport_name": "vinh_international_airport",
+    "location_served": "vinh__vietnam"
+  },
+  {
+    "iata": "VIJ",
+    "icao": "TUPW",
+    "airport_name": "virgin_gorda_airport",
+    "location_served": "virgin_gorda__british_overseas_territory_of_virgin_islands"
+  },
+  {
+    "iata": "VIL",
+    "icao": "GMMH",
+    "airport_name": "dakhla_airport",
+    "location_served": "dakhla__morocco"
+  },
+  {
+    "iata": "VIN",
+    "icao": "UKWW",
+    "airport_name": "havryshivka_vinnytsia_international_airport",
+    "location_served": "vinnytsia__ukraine"
+  },
+  {
+    "iata": "VIQ",
+    "icao": "WPVQ",
+    "airport_name": "viqueque_airport",
+    "location_served": "viqueque__east_timor"
+  },
+  {
+    "iata": "VIR",
+    "icao": "FAVG",
+    "airport_name": "virginia_airport[dapi]",
+    "location_served": "durban__south_africa"
+  },
+  {
+    "iata": "VIS",
+    "icao": "KVIS",
+    "airport_name": "visalia_municipal_airport",
+    "location_served": "visalia__california__united_states"
+  },
+  {
+    "iata": "VIT",
+    "icao": "LEVT",
+    "airport_name": "vitoria_airport",
+    "location_served": "vitoria-gasteiz__basque_country__spain"
+  },
+  {
+    "iata": "VIU",
+    "icao": "",
+    "airport_name": "viru_harbour_airport[dapi]",
+    "location_served": "viru_harbour__solomon_islands"
+  },
+  {
+    "iata": "VIV",
+    "icao": "",
+    "airport_name": "vivigani_airfield",
+    "location_served": "vivigani__papua_new_guinea"
+  },
+  {
+    "iata": "VIX",
+    "icao": "SBVT",
+    "airport_name": "eurico_de_aguiar_salles_airport",
+    "location_served": "vitória__espírito_santo__brazil"
+  },
+  {
+    "iata": "VIY",
+    "icao": "LFPV",
+    "airport_name": "vélizy_–_villacoublay_air_base[dapi]",
+    "location_served": "paris__île-de-france__france"
+  },
+  {
+    "iata": "VJB",
+    "icao": "FQXA",
+    "airport_name": "xai-xai_airport",
+    "location_served": "xai-xai__mozambique"
+  },
+  {
+    "iata": "VJI",
+    "icao": "KVJI",
+    "airport_name": "virginia_highlands_airport",
+    "location_served": "abingdon__virginia__united_states"
+  },
+  {
+    "iata": "VJQ",
+    "icao": "",
+    "airport_name": "gurúé_airport[dapi]",
+    "location_served": "gurúè__mozambique"
+  },
+  {
+    "iata": "VKG",
+    "icao": "VVRG",
+    "airport_name": "rach_gia_airport",
+    "location_served": "rach_gia_(rạch_giá)__vietnam"
+  },
+  {
+    "iata": "VKO",
+    "icao": "UUWW",
+    "airport_name": "vnukovo_international_airport",
+    "location_served": "moscow__russia"
+  },
+  {
+    "iata": "VKS",
+    "icao": "KVKS",
+    "airport_name": "vicksburg_municipal_airport",
+    "location_served": "vicksburg__mississippi__united_states"
+  },
+  {
+    "iata": "VKT",
+    "icao": "UUYW",
+    "airport_name": "vorkuta_airport",
+    "location_served": "vorkuta__komi_republic__russia"
+  },
+  {
+    "iata": "VLA",
+    "icao": "KVLA",
+    "airport_name": "vandalia_municipal_airport",
+    "location_served": "vandalia__illinois__united_states"
+  },
+  {
+    "iata": "VLC",
+    "icao": "LEVC",
+    "airport_name": "valencia_airport",
+    "location_served": "valencia__valencian_community__spain"
+  },
+  {
+    "iata": "VLD",
+    "icao": "KVLD",
+    "airport_name": "valdosta_regional_airport",
+    "location_served": "valdosta__georgia__united_states"
+  },
+  {
+    "iata": "VLE",
+    "icao": "",
+    "airport_name": "valle_airport_(faa:_dapidapig)",
+    "location_served": "grand_canyon__arizona__united_states"
+  },
+  {
+    "iata": "VLG",
+    "icao": "SAZV",
+    "airport_name": "villa_gesell_airport",
+    "location_served": "villa_gesell__buenos_aires__argentina"
+  },
+  {
+    "iata": "VLI",
+    "icao": "NVVV",
+    "airport_name": "bauerfield_international_airport",
+    "location_served": "port_vila__vanuatu"
+  },
+  {
+    "iata": "VLK",
+    "icao": "URRY",
+    "airport_name": "volgodonsk_airport[dapi]",
+    "location_served": "volgodonsk__rostov_oblast__russia"
+  },
+  {
+    "iata": "VLL",
+    "icao": "LEVD",
+    "airport_name": "valladolid_airport",
+    "location_served": "valladolid__castile_and_león__spain"
+  },
+  {
+    "iata": "VLM",
+    "icao": "SLVM",
+    "airport_name": "lieutenant_colonel_rafael_pabón_airport[dapi]",
+    "location_served": "villamontes__bolivia"
+  },
+  {
+    "iata": "VLN",
+    "icao": "SVVA",
+    "airport_name": "arturo_michelena_international_airport",
+    "location_served": "valencia__venezuela"
+  },
+  {
+    "iata": "VLP",
+    "icao": "",
+    "airport_name": "vila_rica_municipal_airport[dapi]",
+    "location_served": "vila_rica__mato_grosso__brazil"
+  },
+  {
+    "iata": "VLR",
+    "icao": "SCLL",
+    "airport_name": "vallenar_airport[dapi]",
+    "location_served": "vallenar__chile"
+  },
+  {
+    "iata": "VLS",
+    "icao": "NVSV",
+    "airport_name": "valesdir_airport[dapi]",
+    "location_served": "valesdir__vanuatu"
+  },
+  {
+    "iata": "VLU",
+    "icao": "ULOL",
+    "airport_name": "velikiye_luki_airport",
+    "location_served": "velikiye_luki__pskov_oblast__russia"
+  },
+  {
+    "iata": "VLV",
+    "icao": "SVVL",
+    "airport_name": "dr._antonio_nicolás_briceño_airport",
+    "location_served": "valera__venezuela"
+  },
+  {
+    "iata": "VLY",
+    "icao": "EGOV",
+    "airport_name": "anglesey_airport_/_raf_valley",
+    "location_served": "anglesey__wales__united_kingdom"
+  },
+  {
+    "iata": "VME",
+    "icao": "SAOR",
+    "airport_name": "villa_reynolds_airport",
+    "location_served": "villa_mercedes__san_luis__argentina"
+  },
+  {
+    "iata": "VMI",
+    "icao": "",
+    "airport_name": "dr._juan_plate_airport[dapi]",
+    "location_served": "puerto_valle-mi__paraguay"
+  },
+  {
+    "iata": "VMU",
+    "icao": "AYBA",
+    "airport_name": "baimuru_airport",
+    "location_served": "baimuru__papua_new_guinea"
+  },
+  {
+    "iata": "VNA",
+    "icao": "VLSV",
+    "airport_name": "salavan_airport[dapi]",
+    "location_served": "salavan_(saravane)__laos"
+  },
+  {
+    "iata": "VNC",
+    "icao": "KVNC",
+    "airport_name": "venice_municipal_airport",
+    "location_served": "venice__florida__united_states"
+  },
+  {
+    "iata": "VND",
+    "icao": "FMSU",
+    "airport_name": "vangaindrano_airport[dapi]",
+    "location_served": "vangaindrano__madagascar"
+  },
+  {
+    "iata": "VNE",
+    "icao": "LFRV",
+    "airport_name": "meucon_airport",
+    "location_served": "vannes__brittany__france"
+  },
+  {
+    "iata": "VNO",
+    "icao": "EYVI",
+    "airport_name": "vilnius_airport",
+    "location_served": "vilnius__lithuania"
+  },
+  {
+    "iata": "VNR",
+    "icao": "YVRS",
+    "airport_name": "vanrook_airport[dapi]",
+    "location_served": "vanrook_station__queensland__australia"
+  },
+  {
+    "iata": "VNS",
+    "icao": "VEBN",
+    "airport_name": "lal_bahadur_shastri_airport",
+    "location_served": "varanasi__uttar_pradesh__india"
+  },
+  {
+    "iata": "VNT",
+    "icao": "EVVA",
+    "airport_name": "ventspils_international_airport",
+    "location_served": "ventspils__latvia"
+  },
+  {
+    "iata": "VNX",
+    "icao": "FQVL",
+    "airport_name": "vilankulo_airport",
+    "location_served": "vilankulo__mozambique"
+  },
+  {
+    "iata": "VNY",
+    "icao": "KVNY",
+    "airport_name": "van_nuys_airport",
+    "location_served": "los_angeles__california__united_states"
+  },
+  {
+    "iata": "VOD",
+    "icao": "LKVO",
+    "airport_name": "vodochody_airport",
+    "location_served": "prague__czech_republic"
+  },
+  {
+    "iata": "VOG",
+    "icao": "URWW",
+    "airport_name": "volgograd_international_airport",
+    "location_served": "volgograd__volgograd_oblast__russia"
+  },
+  {
+    "iata": "VOH",
+    "icao": "FMNV",
+    "airport_name": "vohemar_airport[dapi]",
+    "location_served": "vohemar_(vohimarina)__madagascar"
+  },
+  {
+    "iata": "VOI",
+    "icao": "GLVA",
+    "airport_name": "voinjama_airport_(tenebu_airport)",
+    "location_served": "voinjama__liberia"
+  },
+  {
+    "iata": "VOK",
+    "icao": "KVOK",
+    "airport_name": "volk_field_air_national_guard_base",
+    "location_served": "camp_douglas__wisconsin__united_states"
+  },
+  {
+    "iata": "VOL",
+    "icao": "LGBL",
+    "airport_name": "nea_anchialos_national_airport",
+    "location_served": "volos__greece"
+  },
+  {
+    "iata": "VOT",
+    "icao": "SDVG",
+    "airport_name": "votuporanga_airport[dapi]_(domingos_pignatari_airport)",
+    "location_served": "votuporanga__são_paulo__brazil"
+  },
+  {
+    "iata": "VOZ",
+    "icao": "UUOO",
+    "airport_name": "voronezh_international_airport_(chertovitskoye_airport)",
+    "location_served": "voronezh__voronezh_oblast__russia"
+  },
+  {
+    "iata": "VPE",
+    "icao": "FNGI",
+    "airport_name": "ondjiva_pereira_airport[dapi]",
+    "location_served": "ondjiva__angola"
+  },
+  {
+    "iata": "VPG",
+    "icao": "",
+    "airport_name": "vipingo_airport[dapi]",
+    "location_served": "vipingo__kenya"
+  },
+  {
+    "iata": "VPN",
+    "icao": "BIVO",
+    "airport_name": "vopnafjörður_airport",
+    "location_served": "vopnafjörður__iceland"
+  },
+  {
+    "iata": "VPS",
+    "icao": "KVPS",
+    "airport_name": "destin–fort_walton_beach_airport_/_eglin_air_force_base",
+    "location_served": "destin_/_fort_walton_beach__florida__united_states"
+  },
+  {
+    "iata": "VPY",
+    "icao": "FQCH",
+    "airport_name": "chimoio_airport",
+    "location_served": "chimoio__mozambique"
+  },
+  {
+    "iata": "VPZ",
+    "icao": "KVPZ",
+    "airport_name": "porter_county_regional_airport",
+    "location_served": "valparaiso__indiana__united_states"
+  },
+  {
+    "iata": "VQQ",
+    "icao": "KVQQ",
+    "airport_name": "cecil_airport[dapi]",
+    "location_served": "jacksonville__florida__united_states"
+  },
+  {
+    "iata": "VQS",
+    "icao": "TJVQ",
+    "airport_name": "antonio_rivera_rodríguez_airport",
+    "location_served": "vieques__puerto_rico__united_states"
+  },
+  {
+    "iata": "VRA",
+    "icao": "MUVR",
+    "airport_name": "juan_gualberto_gómez_airport",
+    "location_served": "varadero__cuba"
+  },
+  {
+    "iata": "VRB",
+    "icao": "KVRB",
+    "airport_name": "vero_beach_regional_airport",
+    "location_served": "vero_beach__florida__united_states"
+  },
+  {
+    "iata": "VRC",
+    "icao": "RPUV",
+    "airport_name": "virac_airport",
+    "location_served": "virac__philippines"
+  },
+  {
+    "iata": "VRE",
+    "icao": "FAVR",
+    "airport_name": "vredendal_airport[dapi]",
+    "location_served": "vredendal__south_africa"
+  },
+  {
+    "iata": "VRI",
+    "icao": "ULDW",
+    "airport_name": "varandey_airport",
+    "location_served": "varandey__nenets_autonomous_okrug__russia"
+  },
+  {
+    "iata": "VRK",
+    "icao": "EFVR",
+    "airport_name": "varkaus_airport",
+    "location_served": "varkaus__finland"
+  },
+  {
+    "iata": "VRL",
+    "icao": "LPVR",
+    "airport_name": "vila_real_airport",
+    "location_served": "vila_real__portugal"
+  },
+  {
+    "iata": "VRN",
+    "icao": "LIPX",
+    "airport_name": "verona_villafranca_airport",
+    "location_served": "verona__veneto__italy"
+  },
+  {
+    "iata": "VRO",
+    "icao": "MUKW",
+    "airport_name": "kawama_airport",
+    "location_served": "varadero__cuba"
+  },
+  {
+    "iata": "VRS",
+    "icao": "",
+    "airport_name": "roy_otten_memorial_airfield_(faa:_dapivs)",
+    "location_served": "versailles__missouri__united_states"
+  },
+  {
+    "iata": "VRU",
+    "icao": "FAVB",
+    "airport_name": "vryburg_airport[dapi]",
+    "location_served": "vryburg__south_africa"
+  },
+  {
+    "iata": "VSA",
+    "icao": "MMVA",
+    "airport_name": "carlos_rovirosa_pérez_international_airport",
+    "location_served": "villahermosa__tabasco__mexico"
+  },
+  {
+    "iata": "VSE",
+    "icao": "LPVZ",
+    "airport_name": "viseu_airport[dapi]",
+    "location_served": "viseu__portugal"
+  },
+  {
+    "iata": "VSF",
+    "icao": "KVSF",
+    "airport_name": "hartness_state_airport",
+    "location_served": "springfield__vermont__united_states"
+  },
+  {
+    "iata": "VSG",
+    "icao": "UKCW",
+    "airport_name": "luhansk_international_airport",
+    "location_served": "luhansk__ukraine"
+  },
+  {
+    "iata": "VST",
+    "icao": "ESOW",
+    "airport_name": "stockholm_västerås_airport",
+    "location_served": "stockholm_/_västerås__sweden"
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "iata": "WAA",
+    "icao": "PAIW",
+    "airport_name": "wales_airport[dapi]",
+    "location_served": "wales__alaska__united_states"
+  },
+  {
+    "iata": "WAC",
+    "icao": "HAWC",
+    "airport_name": "wacca_airport[dapi]",
+    "location_served": "wacca__ethiopia"
+  },
+  {
+    "iata": "WAD",
+    "icao": "",
+    "airport_name": "andriamena_airport",
+    "location_served": "andriamena__madagascar"
+  },
+  {
+    "iata": "WAE",
+    "icao": "OEWD",
+    "airport_name": "wadi_al-dawasir_domestic_airport[dapi]",
+    "location_served": "wadi_ad-dawasir_(wadi_al-dawaser)__saudi_arabia"
+  },
+  {
+    "iata": "WAF",
+    "icao": "OPWN",
+    "airport_name": "wana_airport[dapi]",
+    "location_served": "wana__pakistan"
+  },
+  {
+    "iata": "WAG",
+    "icao": "NZWU",
+    "airport_name": "whanganui_airport",
+    "location_served": "whanganui__new_zealand"
+  },
+  {
+    "iata": "WAH",
+    "icao": "KBWP",
+    "airport_name": "harry_stern_airport_(faa:_bwp)",
+    "location_served": "wahpeton__north_dakota__united_states"
+  },
+  {
+    "iata": "WAI",
+    "icao": "FMNW",
+    "airport_name": "ambalabe_airport[dapi]",
+    "location_served": "antsohihy__madagascar"
+  },
+  {
+    "iata": "WAJ",
+    "icao": "",
+    "airport_name": "wawoi_falls_airport[dapi]",
+    "location_served": "wawoi_falls__papua_new_guinea"
+  },
+  {
+    "iata": "WAK",
+    "icao": "FMSZ",
+    "airport_name": "ankazoabo_airport[dapi]",
+    "location_served": "ankazoabo__madagascar"
+  },
+  {
+    "iata": "WAL",
+    "icao": "KWAL",
+    "airport_name": "wallops_flight_facility",
+    "location_served": "wallops_island__virginia__united_states"
+  },
+  {
+    "iata": "WAM",
+    "icao": "FMMZ",
+    "airport_name": "ambatondrazaka_airport[dapi]",
+    "location_served": "ambatondrazaka__madagascar"
+  },
+  {
+    "iata": "WAO",
+    "icao": "AYWB",
+    "airport_name": "wabo_airport[dapi]",
+    "location_served": "wabo__papua_new_guinea"
+  },
+  {
+    "iata": "WAP",
+    "icao": "SCAP",
+    "airport_name": "alto_palena_airfield[dapi]",
+    "location_served": "palena__chile"
+  },
+  {
+    "iata": "WAQ",
+    "icao": "FMMG",
+    "airport_name": "antsalova_airport[dapi]",
+    "location_served": "antsalova__madagascar"
+  },
+  {
+    "iata": "WAR",
+    "icao": "WAJR",
+    "airport_name": "waris_airport[dapi]",
+    "location_served": "waris__indonesia"
+  },
+  {
+    "iata": "WAS[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "washington__d.c.__united_states"
+  },
+  {
+    "iata": "WAT",
+    "icao": "EIWF",
+    "airport_name": "waterford_airport",
+    "location_served": "waterford__ireland"
+  },
+  {
+    "iata": "WAU",
+    "icao": "",
+    "airport_name": "wauchope_airport[dapi]",
+    "location_served": "wauchope__new_south_wales__australia"
+  },
+  {
+    "iata": "WAV",
+    "icao": "YWAV",
+    "airport_name": "wave_hill_airport[dapi]",
+    "location_served": "kalkarindji_(wave_hill)__northern_territory__australia"
+  },
+  {
+    "iata": "WAW",
+    "icao": "EPWA",
+    "airport_name": "warsaw_chopin_airport",
+    "location_served": "warsaw__poland"
+  },
+  {
+    "iata": "WAX",
+    "icao": "HLZW",
+    "airport_name": "zuwarah_airport[dapi]",
+    "location_served": "zuwarah_(zuara)__libya"
+  },
+  {
+    "iata": "WAY",
+    "icao": "KWAY",
+    "airport_name": "greene_county_airport",
+    "location_served": "waynesburg__pennsylvania__united_states"
+  },
+  {
+    "iata": "WAZ",
+    "icao": "YWCK",
+    "airport_name": "warwick_airport[dapi]",
+    "location_served": "warwick__queensland__australia"
+  },
+  {
+    "iata": "WBA",
+    "icao": "WAPV",
+    "airport_name": "wahai_airport[dapi]",
+    "location_served": "seram_island__indonesia"
+  },
+  {
+    "iata": "WBB",
+    "icao": "",
+    "airport_name": "stebbins_airport",
+    "location_served": "stebbins__alaska__united_states"
+  },
+  {
+    "iata": "WBC",
+    "icao": "",
+    "airport_name": "wapolu_airport[dapi]",
+    "location_served": "wapolu__papua_new_guinea"
+  },
+  {
+    "iata": "WBD",
+    "icao": "FMNF",
+    "airport_name": "befandriana_airport[dapi]",
+    "location_served": "befandriana-avaratra__madagascar"
+  },
+  {
+    "iata": "WBE",
+    "icao": "",
+    "airport_name": "ankaizina_airport[dapi]",
+    "location_served": "bealanana__madagascar"
+  },
+  {
+    "iata": "WBG",
+    "icao": "ETNS",
+    "airport_name": "schleswig_air_base",
+    "location_served": "schleswig__schleswig-holstein__germany"
+  },
+  {
+    "iata": "WBK",
+    "icao": "",
+    "airport_name": "west_branch_community_airport[dapi]_(faa:_ydapidapi)",
+    "location_served": "west_branch__michigan__united_states"
+  },
+  {
+    "iata": "WBM",
+    "icao": "AYWD",
+    "airport_name": "wapenamanda_airport[dapi]",
+    "location_served": "wapenamanda__papua_new_guinea"
+  },
+  {
+    "iata": "WBO",
+    "icao": "FMSB",
+    "airport_name": "antsoa_airport[dapi]",
+    "location_served": "beroroha__madagascar"
+  },
+  {
+    "iata": "WBQ",
+    "icao": "PAWB",
+    "airport_name": "beaver_airport",
+    "location_served": "beaver__alaska__united_states"
+  },
+  {
+    "iata": "WBR",
+    "icao": "KRQB",
+    "airport_name": "roben–hood_airport_(faa:_rqb)",
+    "location_served": "big_rapids__michigan__united_states"
+  },
+  {
+    "iata": "WBU",
+    "icao": "KBDU",
+    "airport_name": "boulder_municipal_airport_(faa:_bdu)",
+    "location_served": "boulder__colorado__united_states"
+  },
+  {
+    "iata": "WBW",
+    "icao": "KWBW",
+    "airport_name": "wilkes-barre_wyoming_valley_airport",
+    "location_served": "wilkes-barre__pennsylvania__united_states"
+  },
+  {
+    "iata": "WCA",
+    "icao": "SCST",
+    "airport_name": "gamboa_airport",
+    "location_served": "castro__chile"
+  },
+  {
+    "iata": "WCH",
+    "icao": "SCTN",
+    "airport_name": "nuevo_chaitén_airport",
+    "location_served": "chaitén__chile"
+  },
+  {
+    "iata": "WCR",
+    "icao": "PALR",
+    "airport_name": "chandalar_lake_airport",
+    "location_served": "chandalar_lake__alaska__united_states"
+  },
+  {
+    "iata": "WDA",
+    "icao": "",
+    "airport_name": "wadi_ain_airport",
+    "location_served": "wadi_ain__yemen"
+  },
+  {
+    "iata": "WDG",
+    "icao": "KWDG",
+    "airport_name": "enid_woodring_regional_airport",
+    "location_served": "enid__oklahoma__united_states"
+  },
+  {
+    "iata": "WDH",
+    "icao": "FYWH",
+    "airport_name": "hosea_kutako_international_airport",
+    "location_served": "windhoek__namibia"
+  },
+  {
+    "iata": "WDI",
+    "icao": "YWND",
+    "airport_name": "wondai_airport[dapi]",
+    "location_served": "wondai__queensland__australia"
+  },
+  {
+    "iata": "WDN",
+    "icao": "",
+    "airport_name": "waldronaire_airport[dapi]_(faa:_dapidapiwa)",
+    "location_served": "waldron_island__washington__united_states"
+  },
+  {
+    "iata": "WDR",
+    "icao": "KWDR",
+    "airport_name": "barrow_county_airport",
+    "location_served": "winder__georgia__united_states"
+  },
+  {
+    "iata": "WDS",
+    "icao": "ZHSY",
+    "airport_name": "shiyan_wudangshan_airport",
+    "location_served": "shiyan__hubei__china"
+  },
+  {
+    "iata": "WEA",
+    "icao": "KWEA",
+    "airport_name": "parker_county_airport",
+    "location_served": "weatherford__texas__united_states"
+  },
+  {
+    "iata": "WED",
+    "icao": "",
+    "airport_name": "wedau_airport[dapi]",
+    "location_served": "wedau__papua_new_guinea"
+  },
+  {
+    "iata": "WEF",
+    "icao": "ZSWF",
+    "airport_name": "weifang_airport",
+    "location_served": "weifang__shandong__china"
+  },
+  {
+    "iata": "WEH",
+    "icao": "ZSWH",
+    "airport_name": "weihai_dashuibo_airport",
+    "location_served": "weihai__shandong__china"
+  },
+  {
+    "iata": "WEI",
+    "icao": "YBWP",
+    "airport_name": "weipa_airport",
+    "location_served": "weipa__queensland__australia"
+  },
+  {
+    "iata": "WEL",
+    "icao": "FAWM",
+    "airport_name": "welkom_airport[dapi]",
+    "location_served": "welkom__south_africa"
+  },
+  {
+    "iata": "WEP",
+    "icao": "",
+    "airport_name": "weam_airport[dapi]",
+    "location_served": "weam__papua_new_guinea"
+  },
+  {
+    "iata": "WET",
+    "icao": "WABG",
+    "airport_name": "waghete_airport[dapi]",
+    "location_served": "waghete__indonesia"
+  },
+  {
+    "iata": "WEW",
+    "icao": "YWWA",
+    "airport_name": "wee_waa_airport[dapi]",
+    "location_served": "wee_waa__new_south_wales__australia"
+  },
+  {
+    "iata": "WFB",
+    "icao": "",
+    "airport_name": "ketchikan_harbor_seaplane_base_(faa:_dapike)",
+    "location_served": "ketchikan__alaska__united_states"
+  },
+  {
+    "iata": "WFD",
+    "icao": "EGCD",
+    "airport_name": "woodford_aerodrome[dapi]",
+    "location_served": "woodford__england__united_kingdom"
+  },
+  {
+    "iata": "WFI",
+    "icao": "FMSF",
+    "airport_name": "fianarantsoa_airport",
+    "location_served": "fianarantsoa__madagascar"
+  },
+  {
+    "iata": "WFK",
+    "icao": "KFVE",
+    "airport_name": "northern_aroostook_regional_airport_(faa:_fve)",
+    "location_served": "frenchville__maine__united_states"
+  },
+  {
+    "iata": "WGA",
+    "icao": "YSWG",
+    "airport_name": "wagga_wagga_airport",
+    "location_served": "wagga_wagga__new_south_wales__australia"
+  },
+  {
+    "iata": "WGC",
+    "icao": "VOWA",
+    "airport_name": "warangal_airport[dapi]",
+    "location_served": "warangal__telangana__india"
+  },
+  {
+    "iata": "WGE",
+    "icao": "YWLG",
+    "airport_name": "walgett_airport[dapi]",
+    "location_served": "walgett__new_south_wales__australia"
+  },
+  {
+    "iata": "WGN",
+    "icao": "ZGSY",
+    "airport_name": "shaoyang_wugang_airport",
+    "location_served": "shaoyang__hunan__china"
+  },
+  {
+    "iata": "WGO",
+    "icao": "KOKV",
+    "airport_name": "winchester_regional_airport_(faa:_okv)",
+    "location_served": "winchester__virginia__united_states"
+  },
+  {
+    "iata": "WGP",
+    "icao": "WADW",
+    "airport_name": "mau_hau_airport_(umbu_mehang_kunda_airport)",
+    "location_served": "waingapu__indonesia"
+  },
+  {
+    "iata": "WGT",
+    "icao": "YWGT",
+    "airport_name": "wangaratta_airport",
+    "location_served": "wangaratta__victoria__australia"
+  },
+  {
+    "iata": "WGU",
+    "icao": "",
+    "airport_name": "wagau_airport[dapi]",
+    "location_served": "wagau__papua_new_guinea"
+  },
+  {
+    "iata": "WGY",
+    "icao": "",
+    "airport_name": "wagny_airport[dapi]",
+    "location_served": "wagny__gabon"
+  },
+  {
+    "iata": "WHD",
+    "icao": "",
+    "airport_name": "hyder_seaplane_base_(faa:_dapizdapi)",
+    "location_served": "hyder__alaska__united_states"
+  },
+  {
+    "iata": "WHF",
+    "icao": "HSSW",
+    "airport_name": "wadi_halfa_airport",
+    "location_served": "wadi_halfa__sudan"
+  },
+  {
+    "iata": "WHK",
+    "icao": "NZWK",
+    "airport_name": "whakatane_airport",
+    "location_served": "whakatane__new_zealand"
+  },
+  {
+    "iata": "WHL",
+    "icao": "",
+    "airport_name": "welshpool_airport[dapi]",
+    "location_served": "welshpool__victoria__australia"
+  },
+  {
+    "iata": "WHO",
+    "icao": "",
+    "airport_name": "franz_josef_glacier_aerodrome[dapi]",
+    "location_served": "franz_josef_glacier__new_zealand"
+  },
+  {
+    "iata": "WHP",
+    "icao": "KWHP",
+    "airport_name": "whiteman_airport",
+    "location_served": "los_angeles__california__united_states"
+  },
+  {
+    "iata": "WHS",
+    "icao": "EGEH",
+    "airport_name": "whalsay_airstrip[dapi]",
+    "location_served": "whalsay__scotland__united_kingdom"
+  },
+  {
+    "iata": "WHT",
+    "icao": "KARM",
+    "airport_name": "wharton_regional_airport_(faa:_arm)",
+    "location_served": "wharton__texas__united_states"
+  },
+  {
+    "iata": "WHU",
+    "icao": "ZSWU",
+    "airport_name": "wuhu_airport[dapi]",
+    "location_served": "wuhu__anhui__china"
+  },
+  {
+    "iata": "WIB",
+    "icao": "",
+    "airport_name": "wilbarger_county_airport[dapi]_(faa:_fdapidapi)",
+    "location_served": "vernon__texas__united_states"
+  },
+  {
+    "iata": "WIC",
+    "icao": "EGPC",
+    "airport_name": "wick_airport",
+    "location_served": "wick__scotland__united_kingdom"
+  },
+  {
+    "iata": "WIE",
+    "icao": "ETOU",
+    "airport_name": "wiesbaden_army_airfield",
+    "location_served": "wiesbaden__hesse__germany"
+  },
+  {
+    "iata": "WIK",
+    "icao": "NZKE",
+    "airport_name": "waiheke_island_aerodrome[dapi]",
+    "location_served": "waiheke_island__new_zealand"
+  },
+  {
+    "iata": "WIL",
+    "icao": "HKNW",
+    "airport_name": "wilson_airport",
+    "location_served": "nairobi__kenya"
+  },
+  {
+    "iata": "WIN",
+    "icao": "YWTN",
+    "airport_name": "winton_airport[dapi]",
+    "location_served": "winton__queensland__australia"
+  },
+  {
+    "iata": "WIO",
+    "icao": "YWCA",
+    "airport_name": "wilcannia_airport[dapi]",
+    "location_served": "wilcannia__new_south_wales__australia"
+  },
+  {
+    "iata": "WIR",
+    "icao": "NZWO",
+    "airport_name": "wairoa_aerodrome[dapi]",
+    "location_served": "wairoa__new_zealand"
+  },
+  {
+    "iata": "WIT",
+    "icao": "YWIT",
+    "airport_name": "wittenoom_airport[dapi]",
+    "location_served": "wittenoom__western_australia__australia"
+  },
+  {
+    "iata": "WIU",
+    "icao": "",
+    "airport_name": "witu_airport[dapi]",
+    "location_served": "witu__papua_new_guinea"
+  },
+  {
+    "iata": "WJA",
+    "icao": "",
+    "airport_name": "woja_airport",
+    "location_served": "woja__ailinglaplap_atoll__marshall_islands"
+  },
+  {
+    "iata": "WJF",
+    "icao": "KWJF",
+    "airport_name": "general_william_j._fox_airfield",
+    "location_served": "lancaster__california__united_states"
+  },
+  {
+    "iata": "WJR",
+    "icao": "HKWJ",
+    "airport_name": "wajir_airport[dapi]",
+    "location_served": "wajir__kenya"
+  },
+  {
+    "iata": "WJU",
+    "icao": "RKNW",
+    "airport_name": "wonju_airport",
+    "location_served": "wonju__south_korea"
+  },
+  {
+    "iata": "WKA",
+    "icao": "NZWF",
+    "airport_name": "wanaka_airport",
+    "location_served": "wanaka__new_zealand"
+  },
+  {
+    "iata": "WKB",
+    "icao": "YWKB",
+    "airport_name": "warracknabeal_airport[dapi]",
+    "location_served": "warracknabeal__victoria__australia"
+  },
+  {
+    "iata": "WKF",
+    "icao": "FAWK",
+    "airport_name": "air_force_base_waterkloof[dapi]",
+    "location_served": "pretoria__south_africa"
+  },
+  {
+    "iata": "WKI",
+    "icao": "FVWT",
+    "airport_name": "hwange_town_airport[dapi]",
+    "location_served": "hwange__zimbabwe"
+  },
+  {
+    "iata": "WKJ",
+    "icao": "RJCW",
+    "airport_name": "wakkanai_airport",
+    "location_served": "wakkanai__hokkaido__japan"
+  },
+  {
+    "iata": "WKK",
+    "icao": "",
+    "airport_name": "aleknagik_airport_(faa:_dapiadapi)",
+    "location_served": "aleknagik__alaska__united_states"
+  },
+  {
+    "iata": "WKN",
+    "icao": "",
+    "airport_name": "wakunai_airport",
+    "location_served": "wakunai__papua_new_guinea"
+  },
+  {
+    "iata": "WKR",
+    "icao": "MYAW",
+    "airport_name": "walker's_cay_airport[dapi]",
+    "location_served": "walker's_cay__abaco_islands__bahamas"
+  },
+  {
+    "iata": "WLA",
+    "icao": "YWAL",
+    "airport_name": "wallal_airport[dapi]",
+    "location_served": "wallal_(wallal_downs)__western_australia__australia"
+  },
+  {
+    "iata": "WLC",
+    "icao": "YWCH",
+    "airport_name": "walcha_airport[dapi]",
+    "location_served": "walcha__new_south_wales__australia"
+  },
+  {
+    "iata": "WLD",
+    "icao": "KWLD",
+    "airport_name": "strother_field",
+    "location_served": "winfield_/_arkansas_city__kansas__united_states"
+  },
+  {
+    "iata": "WLE",
+    "icao": "YMLS",
+    "airport_name": "miles_airport",
+    "location_served": "miles__queensland__australia"
+  },
+  {
+    "iata": "WLG",
+    "icao": "NZWN",
+    "airport_name": "wellington_international_airport",
+    "location_served": "wellington__new_zealand"
+  },
+  {
+    "iata": "WLH",
+    "icao": "NVSW",
+    "airport_name": "walaha_airport[dapi]",
+    "location_served": "walaha__vanuatu"
+  },
+  {
+    "iata": "WLK",
+    "icao": "PASK",
+    "airport_name": "selawik_airport",
+    "location_served": "selawik__alaska__united_states"
+  },
+  {
+    "iata": "WLL",
+    "icao": "YWOR",
+    "airport_name": "wollogorang_airport",
+    "location_served": "wollogorang_station__northern_territory__australia"
+  },
+  {
+    "iata": "WLO",
+    "icao": "YWTL",
+    "airport_name": "waterloo_airport",
+    "location_served": "waterloo__northern_territory__australia"
+  },
+  {
+    "iata": "WLP",
+    "icao": "YANG",
+    "airport_name": "west_angelas_airport[dapi]",
+    "location_served": "west_angelas__western_australia__australia"
+  },
+  {
+    "iata": "WLR",
+    "icao": "",
+    "airport_name": "loring_seaplane_base_(faa:_dapidapiz)",
+    "location_served": "loring__alaska__united_states"
+  },
+  {
+    "iata": "WLS",
+    "icao": "NLWW",
+    "airport_name": "hihifo_airport",
+    "location_served": "wallis_island__wallis_and_futuna"
+  },
+  {
+    "iata": "WLW",
+    "icao": "KWLW",
+    "airport_name": "willows-glenn_county_airport",
+    "location_served": "willows__california__united_states"
+  },
+  {
+    "iata": "WMA",
+    "icao": "FMNX",
+    "airport_name": "mandritsara_airport",
+    "location_served": "mandritsara__madagascar"
+  },
+  {
+    "iata": "WMB",
+    "icao": "YWBL",
+    "airport_name": "warrnambool_airport",
+    "location_served": "warrnambool__victoria__australia"
+  },
+  {
+    "iata": "WMC",
+    "icao": "KWMC",
+    "airport_name": "winnemucca_municipal_airport",
+    "location_served": "winnemucca__nevada__united_states"
+  },
+  {
+    "iata": "WMD",
+    "icao": "FMSC",
+    "airport_name": "mandabe_airport[dapi]",
+    "location_served": "mandabe__madagascar"
+  },
+  {
+    "iata": "WME",
+    "icao": "YMNE",
+    "airport_name": "mount_keith_airport",
+    "location_served": "mount_keith__western_australia__australia"
+  },
+  {
+    "iata": "WMH",
+    "icao": "KBPK",
+    "airport_name": "ozark_regional_airport_(faa:_bpk)",
+    "location_served": "mountain_home__arkansas__united_states"
+  },
+  {
+    "iata": "WMI",
+    "icao": "EPMO",
+    "airport_name": "warsaw_modlin_airport",
+    "location_served": "warsaw__poland"
+  },
+  {
+    "iata": "WMK",
+    "icao": "",
+    "airport_name": "meyers_chuck_seaplane_base_(faa:_dapidapik)",
+    "location_served": "meyers_chuck__alaska__united_states"
+  },
+  {
+    "iata": "WML",
+    "icao": "FMMC",
+    "airport_name": "malaimbandy_airport",
+    "location_served": "malaimbandy__madagascar"
+  },
+  {
+    "iata": "WMN",
+    "icao": "FMNR",
+    "airport_name": "maroantsetra_airport[dapi]",
+    "location_served": "maroantsetra__madagascar"
+  },
+  {
+    "iata": "WMO",
+    "icao": "PAWM",
+    "airport_name": "white_mountain_airport",
+    "location_served": "white_mountain__alaska__united_states"
+  },
+  {
+    "iata": "WMP",
+    "icao": "FMNP",
+    "airport_name": "mampikony_airport[dapi]",
+    "location_served": "mampikony__madagascar"
+  },
+  {
+    "iata": "WMR",
+    "icao": "FMNC",
+    "airport_name": "mananara_nord_airport[dapi]",
+    "location_served": "mananara_nord_(mananara_avaratra)__madagascar"
+  },
+  {
+    "iata": "WMT",
+    "icao": "ZUMT",
+    "airport_name": "zunyi_maotai_airport[dapi]",
+    "location_served": "renhuai__china"
+  },
+  {
+    "iata": "WMV",
+    "icao": "",
+    "airport_name": "madirovalo_airport[dapi]",
+    "location_served": "madirovalo__madagascar"
+  },
+  {
+    "iata": "WMX",
+    "icao": "WAVV",
+    "airport_name": "wamena_airport[dapi]",
+    "location_served": "wamena__indonesia"
+  },
+  {
+    "iata": "WNA",
+    "icao": "PANA",
+    "airport_name": "napakiak_airport",
+    "location_served": "napakiak__alaska__united_states"
+  },
+  {
+    "iata": "WND",
+    "icao": "",
+    "airport_name": "windarra_airport[dapi]",
+    "location_served": "windarra__western_australia__australia"
+  },
+  {
+    "iata": "WNE",
+    "icao": "",
+    "airport_name": "wora_na_yeno_airport[dapi]",
+    "location_served": "wora_na_yeno__gabon"
+  },
+  {
+    "iata": "WNH",
+    "icao": "ZPWS",
+    "airport_name": "wenshan_puzhehei_airport",
+    "location_served": "wenshan__yunnan__china"
+  },
+  {
+    "iata": "WNI",
+    "icao": "WAWD",
+    "airport_name": "matahora_airport",
+    "location_served": "wangi-wangi_island__southeast_sulawesi__indonesia"
+  },
+  {
+    "iata": "WNN",
+    "icao": "",
+    "airport_name": "wunnummin_lake_airport[dapi]_(tc:_ckldapi)",
+    "location_served": "wunnumin_lake__ontario__canada"
+  },
+  {
+    "iata": "WNP",
+    "icao": "RPUN",
+    "airport_name": "naga_airport",
+    "location_served": "naga__philippines"
+  },
+  {
+    "iata": "WNR",
+    "icao": "YWDH",
+    "airport_name": "windorah_airport[dapi]",
+    "location_served": "windorah__queensland__australia"
+  },
+  {
+    "iata": "WNS",
+    "icao": "OPNH",
+    "airport_name": "nawabshah_airport[dapi]",
+    "location_served": "nawabshah_(shaheed_benazirabad)__pakistan"
+  },
+  {
+    "iata": "WNU",
+    "icao": "",
+    "airport_name": "wanuma_airport[dapi]",
+    "location_served": "wanuma__papua_new_guinea"
+  },
+  {
+    "iata": "WNZ",
+    "icao": "ZSWZ",
+    "airport_name": "wenzhou_longwan_international_airport",
+    "location_served": "wenzhou__zhejiang__china"
+  },
+  {
+    "iata": "WOA",
+    "icao": "",
+    "airport_name": "wonenara_airport[dapi]",
+    "location_served": "wonenara__papua_new_guinea"
+  },
+  {
+    "iata": "WOE",
+    "icao": "EHWO",
+    "airport_name": "woensdrecht_air_base",
+    "location_served": "bergen_op_zoom__netherlands"
+  },
+  {
+    "iata": "WOK",
+    "icao": "SVUQ",
+    "airport_name": "uonquén_airport[dapi]",
+    "location_served": "uonquén__venezuela"
+  },
+  {
+    "iata": "WOL",
+    "icao": "YWOL",
+    "airport_name": "shellharbour_airport",
+    "location_served": "shellharbour__new_south_wales__australia"
+  },
+  {
+    "iata": "WON",
+    "icao": "YWDL",
+    "airport_name": "wondoola_airport[dapi]",
+    "location_served": "wondoola__queensland__australia"
+  },
+  {
+    "iata": "WOR",
+    "icao": "",
+    "airport_name": "moramba_airport[dapi]",
+    "location_served": "ankorefo__madagascar"
+  },
+  {
+    "iata": "WOS",
+    "icao": "ZKWS",
+    "airport_name": "wonsan_kalma_international_airport[dapi]",
+    "location_served": "wonsan__north_korea"
+  },
+  {
+    "iata": "WOT",
+    "icao": "RCWA",
+    "airport_name": "wang-an_airport",
+    "location_served": "wang'an__taiwan"
+  },
+  {
+    "iata": "WOW",
+    "icao": "PAUO",
+    "airport_name": "willow_airport_(faa:_uuo)",
+    "location_served": "willow__alaska__united_states"
+  },
+  {
+    "iata": "WPA",
+    "icao": "SCAS",
+    "airport_name": "cabo_juan_román_airfield",
+    "location_served": "puerto_aisén__chile"
+  },
+  {
+    "iata": "WPB",
+    "icao": "FMNG",
+    "airport_name": "port_bergé_airport",
+    "location_served": "boriziny_(port_bergé)__madagascar"
+  },
+  {
+    "iata": "WPC",
+    "icao": "CZPC",
+    "airport_name": "pincher_creek_airport",
+    "location_served": "pincher_creek__alberta__canada"
+  },
+  {
+    "iata": "WPK",
+    "icao": "YWMP",
+    "airport_name": "wrotham_park_airport[dapi]",
+    "location_served": "wrotham_park__queensland__australia"
+  },
+  {
+    "iata": "WPL",
+    "icao": "",
+    "airport_name": "powell_lake_water_aerodrome[dapi]_(tc:_caqdapi)",
+    "location_served": "powell_river__british_columbia__canada"
+  },
+  {
+    "iata": "WPM",
+    "icao": "AYXP",
+    "airport_name": "wipim_airport[dapi]",
+    "location_served": "wipim__papua_new_guinea"
+  },
+  {
+    "iata": "WPO",
+    "icao": "",
+    "airport_name": "north_fork_valley_airport_(faa:_dapivdapi)",
+    "location_served": "paonia__colorado__united_states"
+  },
+  {
+    "iata": "WPR",
+    "icao": "SCFM",
+    "airport_name": "capitán_fuentes_martínez_airport[dapi]",
+    "location_served": "porvenir__chile"
+  },
+  {
+    "iata": "WPU",
+    "icao": "SCGZ",
+    "airport_name": "guardiamarina_zañartu_airport[dapi]",
+    "location_served": "puerto_williams__chile"
+  },
+  {
+    "iata": "WRA",
+    "icao": "HAWR",
+    "airport_name": "warder_airport[dapi]",
+    "location_served": "werder_(warder)__ethiopia"
+  },
+  {
+    "iata": "WRB",
+    "icao": "KWRB",
+    "airport_name": "robins_air_force_base",
+    "location_served": "warner_robins__georgia__united_states"
+  },
+  {
+    "iata": "WRE",
+    "icao": "NZWR",
+    "airport_name": "whangarei_airport",
+    "location_served": "whangarei__new_zealand"
+  },
+  {
+    "iata": "WRG",
+    "icao": "PAWG",
+    "airport_name": "wrangell_airport",
+    "location_served": "wrangell__alaska__united_states"
+  },
+  {
+    "iata": "WRI",
+    "icao": "KWRI",
+    "airport_name": "mcguire_air_force_base",
+    "location_served": "wrightstown__new_jersey__united_states"
+  },
+  {
+    "iata": "WRL",
+    "icao": "KWRL",
+    "airport_name": "worland_municipal_airport",
+    "location_served": "worland__wyoming__united_states"
+  },
+  {
+    "iata": "WRN",
+    "icao": "YWDG",
+    "airport_name": "windarling_airport",
+    "location_served": "windarling__western_australia__australia"
+  },
+  {
+    "iata": "WRO",
+    "icao": "EPWR",
+    "airport_name": "copernicus_airport_wrocław",
+    "location_served": "wrocław__poland"
+  },
+  {
+    "iata": "WRT",
+    "icao": "EGNO",
+    "airport_name": "warton_aerodrome",
+    "location_served": "warton__england__united_kingdom"
+  },
+  {
+    "iata": "WRW",
+    "icao": "YWWG",
+    "airport_name": "warrawagine_airport[dapi]",
+    "location_served": "warrawagine_station__western_australia__australia"
+  },
+  {
+    "iata": "WRY",
+    "icao": "EGEW",
+    "airport_name": "westray_airport[dapi]",
+    "location_served": "westray__scotland__united_kingdom"
+  },
+  {
+    "iata": "WRZ",
+    "icao": "VCCW",
+    "airport_name": "weerawila_airport",
+    "location_served": "weerawila__sri_lanka"
+  },
+  {
+    "iata": "WSA",
+    "icao": "",
+    "airport_name": "wasua_airport[dapi]",
+    "location_served": "wasua__papua_new_guinea"
+  },
+  {
+    "iata": "WSB",
+    "icao": "",
+    "airport_name": "steamboat_bay_seaplane_base[dapi]",
+    "location_served": "steamboat_bay__alaska__united_states"
+  },
+  {
+    "iata": "WSD",
+    "icao": "KWSD",
+    "airport_name": "condron_army_airfield",
+    "location_served": "white_sands__new_mexico__united_states"
+  },
+  {
+    "iata": "WSF",
+    "icao": "PACS",
+    "airport_name": "cape_sarichef_airport[dapi]_(faa:_dapidapiak)",
+    "location_served": "cape_sarichef__alaska__united_states"
+  },
+  {
+    "iata": "WSG",
+    "icao": "KAFJ",
+    "airport_name": "washington_county_airport_(faa:_afj)",
+    "location_served": "washington__pennsylvania__united_states"
+  },
+  {
+    "iata": "WSH",
+    "icao": "KHWV",
+    "airport_name": "brookhaven_airport_(faa:_hwv)",
+    "location_served": "shirley__new_york__united_states"
+  },
+  {
+    "iata": "WSK",
+    "icao": "ZUWS",
+    "airport_name": "chongqing_wushan_airport",
+    "location_served": "wushan__chongqing__china"
+  },
+  {
+    "iata": "WSM",
+    "icao": "",
+    "airport_name": "wiseman_airport",
+    "location_served": "wiseman__alaska__united_states"
+  },
+  {
+    "iata": "WSN",
+    "icao": "PFWS",
+    "airport_name": "south_naknek_airport",
+    "location_served": "south_naknek__alaska__united_states"
+  },
+  {
+    "iata": "WSO",
+    "icao": "SMWS",
+    "airport_name": "washabo_airport",
+    "location_served": "washabo_(wasjabo)__suriname"
+  },
+  {
+    "iata": "WSP",
+    "icao": "MNWP",
+    "airport_name": "waspam_airport",
+    "location_served": "waspam__nicaragua"
+  },
+  {
+    "iata": "WSR",
+    "icao": "WASW",
+    "airport_name": "wasior_airport[dapi]",
+    "location_served": "wasior__indonesia"
+  },
+  {
+    "iata": "WST",
+    "icao": "KWST",
+    "airport_name": "westerly_state_airport",
+    "location_served": "westerly__rhode_island__united_states"
+  },
+  {
+    "iata": "WSU",
+    "icao": "",
+    "airport_name": "wasu_airport[dapi]",
+    "location_served": "wasu__papua_new_guinea"
+  },
+  {
+    "iata": "WSX",
+    "icao": "",
+    "airport_name": "westsound_seaplane_base[dapi]_(faa:_wadapidapi)",
+    "location_served": "west_sound__washington__united_states"
+  },
+  {
+    "iata": "WSY",
+    "icao": "YSHR[DAPI][DAPI]",
+    "airport_name": "whitsunday_airport",
+    "location_served": "airlie_beach_/_shute_harbour__queensland__australia"
+  },
+  {
+    "iata": "WSZ",
+    "icao": "NZWS",
+    "airport_name": "westport_airport",
+    "location_served": "westport__new_zealand"
+  },
+  {
+    "iata": "WTA",
+    "icao": "FMMU",
+    "airport_name": "tambohorano_airport",
+    "location_served": "tambohorano__madagascar"
+  },
+  {
+    "iata": "WTB",
+    "icao": "YBWW",
+    "airport_name": "toowoomba_wellcamp_airport",
+    "location_served": "toowoomba__queensland__australia"
+  },
+  {
+    "iata": "WTD",
+    "icao": "MYGW",
+    "airport_name": "west_end_airport",
+    "location_served": "west_end__grand_bahama__bahamas"
+  },
+  {
+    "iata": "WTE",
+    "icao": "",
+    "airport_name": "wotje_airport_(faa:_ndapidapi)",
+    "location_served": "wotje_atoll__marshall_islands"
+  },
+  {
+    "iata": "WTK",
+    "icao": "PAWN",
+    "airport_name": "noatak_airport",
+    "location_served": "noatak__alaska__united_states"
+  },
+  {
+    "iata": "WTL",
+    "icao": "",
+    "airport_name": "tuntutuliak_airport_(faa:_adapidapi)",
+    "location_served": "tuntutuliak__alaska__united_states"
+  },
+  {
+    "iata": "WTN",
+    "icao": "EGXW",
+    "airport_name": "raf_waddington[dapi]",
+    "location_served": "waddington__england__united_kingdom"
+  },
+  {
+    "iata": "WTO",
+    "icao": "",
+    "airport_name": "wotho_airport",
+    "location_served": "wotho_atoll__marshall_islands"
+  },
+  {
+    "iata": "WTP",
+    "icao": "AYWT",
+    "airport_name": "woitape_airport[dapi]",
+    "location_served": "woitape__papua_new_guinea"
+  },
+  {
+    "iata": "WTR",
+    "icao": "",
+    "airport_name": "whiteriver_airport_(faa:_edapidapi)",
+    "location_served": "whiteriver__arizona__united_states"
+  },
+  {
+    "iata": "WTS",
+    "icao": "FMMX",
+    "airport_name": "tsiroanomandidy_airport",
+    "location_served": "tsiroanomandidy__madagascar"
+  },
+  {
+    "iata": "WTT",
+    "icao": "",
+    "airport_name": "wantoat_airport[dapi]",
+    "location_served": "wantoat__papua_new_guinea"
+  },
+  {
+    "iata": "WTZ",
+    "icao": "NZWT",
+    "airport_name": "whitianga_aerodrome[dapi]",
+    "location_served": "whitianga__new_zealand"
+  },
+  {
+    "iata": "WUA",
+    "icao": "ZBUH",
+    "airport_name": "wuhai_airport",
+    "location_served": "wuhai__inner_mongolia__china"
+  },
+  {
+    "iata": "WUD",
+    "icao": "YWUD",
+    "airport_name": "wudinna_airport[dapi]",
+    "location_served": "wudinna__south_australia__australia"
+  },
+  {
+    "iata": "WUG",
+    "icao": "AYWU",
+    "airport_name": "wau_airport[dapi]",
+    "location_served": "wau__papua_new_guinea"
+  },
+  {
+    "iata": "WUH",
+    "icao": "ZHHH",
+    "airport_name": "wuhan_tianhe_international_airport",
+    "location_served": "wuhan__hubei__china"
+  },
+  {
+    "iata": "WUI",
+    "icao": "YMMI",
+    "airport_name": "murrin_murrin_airport",
+    "location_served": "murrin_murrin__western_australia__australia"
+  },
+  {
+    "iata": "WUM",
+    "icao": "",
+    "airport_name": "wasum_airport[dapi]",
+    "location_served": "wasum__papua_new_guinea"
+  },
+  {
+    "iata": "WUN",
+    "icao": "YWLU",
+    "airport_name": "wiluna_airport[dapi]",
+    "location_served": "wiluna__western_australia__australia"
+  },
+  {
+    "iata": "WUS",
+    "icao": "ZSWY",
+    "airport_name": "wuyishan_airport",
+    "location_served": "wuyishan__fujian__china"
+  },
+  {
+    "iata": "WUT",
+    "icao": "ZBXZ",
+    "airport_name": "xinzhou_wutaishan_airport[dapi]",
+    "location_served": "xinzhou__shanxi__china"
+  },
+  {
+    "iata": "WUU",
+    "icao": "HSWW",
+    "airport_name": "wau_airport",
+    "location_served": "wau__south_sudan"
+  },
+  {
+    "iata": "WUV",
+    "icao": "",
+    "airport_name": "wuvulu_island_airport[dapi]",
+    "location_served": "wuvulu_island__papua_new_guinea"
+  },
+  {
+    "iata": "WUX",
+    "icao": "ZSWX",
+    "airport_name": "sunan_shuofang_international_airport",
+    "location_served": "wuxi_/_suzhou__jiangsu__china"
+  },
+  {
+    "iata": "WUZ",
+    "icao": "",
+    "airport_name": "wuzhou_xijiang_airport",
+    "location_served": "wuzhou__guangxi__china"
+  },
+  {
+    "iata": "WVB",
+    "icao": "FYWB",
+    "airport_name": "walvis_bay_airport",
+    "location_served": "walvis_bay__namibia"
+  },
+  {
+    "iata": "WVI",
+    "icao": "KWVI",
+    "airport_name": "watsonville_municipal_airport",
+    "location_served": "watsonville__california__united_states"
+  },
+  {
+    "iata": "WVK",
+    "icao": "FMSK",
+    "airport_name": "manakara_airport[dapi]",
+    "location_served": "manakara__madagascar"
+  },
+  {
+    "iata": "WVL",
+    "icao": "KWVL",
+    "airport_name": "waterville_robert_lafleur_airport",
+    "location_served": "waterville__maine__united_states"
+  },
+  {
+    "iata": "WVN",
+    "icao": "EDWI",
+    "airport_name": "jadeweserairport",
+    "location_served": "wilhelmshaven__lower_saxony__germany"
+  },
+  {
+    "iata": "WWA",
+    "icao": "PAWS",
+    "airport_name": "wasilla_airport_(faa:_iys)",
+    "location_served": "wasilla__alaska__united_states"
+  },
+  {
+    "iata": "WWD",
+    "icao": "KWWD",
+    "airport_name": "cape_may_airport",
+    "location_served": "wildwood__new_jersey__united_states"
+  },
+  {
+    "iata": "WWI",
+    "icao": "YWWI",
+    "airport_name": "woodie_woodie_airport[dapi]",
+    "location_served": "woodie_woodie__western_australia__australia"
+  },
+  {
+    "iata": "WWK",
+    "icao": "AYWK",
+    "airport_name": "wewak_airport[dapi]",
+    "location_served": "wewak__papua_new_guinea"
+  },
+  {
+    "iata": "WWP",
+    "icao": "",
+    "airport_name": "north_whale_seaplane_base_(faa:_dapidapiz)",
+    "location_served": "whale_pass__alaska__united_states"
+  },
+  {
+    "iata": "WWR",
+    "icao": "KWWR",
+    "airport_name": "west_woodward_airport",
+    "location_served": "woodward__oklahoma__united_states"
+  },
+  {
+    "iata": "WWT",
+    "icao": "PAEW",
+    "airport_name": "newtok_airport_(faa:_ewu)",
+    "location_served": "newtok__alaska__united_states"
+  },
+  {
+    "iata": "WWY",
+    "icao": "YWWL",
+    "airport_name": "west_wyalong_airport",
+    "location_served": "west_wyalong__new_south_wales__australia"
+  },
+  {
+    "iata": "WXN",
+    "icao": "ZUWX",
+    "airport_name": "wanzhou_wuqiao_airport",
+    "location_served": "wanzhou__chongqing__china"
+  },
+  {
+    "iata": "WYA",
+    "icao": "YWHA",
+    "airport_name": "whyalla_airport",
+    "location_served": "whyalla__south_australia__australia"
+  },
+  {
+    "iata": "WYB",
+    "icao": "",
+    "airport_name": "yes_bay_lodge_seaplane_base_(faa:_dapidapik)",
+    "location_served": "yes_bay__alaska__united_states"
+  },
+  {
+    "iata": "WYE",
+    "icao": "GFYE",
+    "airport_name": "yengema_airport",
+    "location_served": "yengema__sierra_leone"
+  },
+  {
+    "iata": "WYN",
+    "icao": "YWYM",
+    "airport_name": "wyndham_airport[dapi]",
+    "location_served": "wyndham__western_australia__australia"
+  },
+  {
+    "iata": "WYS",
+    "icao": "KWYS",
+    "airport_name": "yellowstone_airport",
+    "location_served": "west_yellowstone__montana__united_states"
+  },
+  {
+    "iata": "WZA",
+    "icao": "DGLW",
+    "airport_name": "wa_airport",
+    "location_served": "wa__upper_west_region__ghana"
+  },
+  {
+    "iata": "WZQ",
+    "icao": "",
+    "airport_name": "urad_middle_banner_airport[dapi]",
+    "location_served": "urad_middle_banner__inner_mongolia__china"
+  }
+]

@@ -1,0 +1,2036 @@
+[
+  {
+    "iata": "YAA",
+    "icao": "",
+    "airport_name": "anahim_lake_airport_(tc:_cajdapi)",
+    "location_served": "anahim_lake__british_columbia__canada"
+  },
+  {
+    "iata": "YAB",
+    "icao": "CYAB",
+    "airport_name": "arctic_bay_airport_(tc:_cjxdapi)",
+    "location_served": "arctic_bay__nunavut__canada"
+  },
+  {
+    "iata": "YAC",
+    "icao": "CYAC",
+    "airport_name": "cat_lake_airport",
+    "location_served": "cat_lake__ontario__canada"
+  },
+  {
+    "iata": "YAD",
+    "icao": "",
+    "airport_name": "moose_lake_airport_(tc:_cjbdapi)",
+    "location_served": "moose_lake__manitoba__canada"
+  },
+  {
+    "iata": "YAG",
+    "icao": "CYAG",
+    "airport_name": "fort_frances_municipal_airport",
+    "location_served": "fort_frances__ontario__canada"
+  },
+  {
+    "iata": "YAH",
+    "icao": "CYAH",
+    "airport_name": "la_grande-dapi_airport",
+    "location_served": "la_grande-dapi__quebec__canada"
+  },
+  {
+    "iata": "YAI",
+    "icao": "SCCH",
+    "airport_name": "general_bernardo_o'higgins_airport",
+    "location_served": "chillán__chile"
+  },
+  {
+    "iata": "YAJ",
+    "icao": "",
+    "airport_name": "lyall_harbour_seaplane_base",
+    "location_served": "saturna_island__british_columbia__canada"
+  },
+  {
+    "iata": "YAK",
+    "icao": "PAYA",
+    "airport_name": "yakutat_airport",
+    "location_served": "yakutat__alaska__united_states"
+  },
+  {
+    "iata": "YAL",
+    "icao": "CYAL",
+    "airport_name": "alert_bay_airport",
+    "location_served": "alert_bay__british_columbia__canada"
+  },
+  {
+    "iata": "YAM",
+    "icao": "CYAM",
+    "airport_name": "sault_ste._marie_airport",
+    "location_served": "sault_ste._marie__ontario__canada"
+  },
+  {
+    "iata": "YAN",
+    "icao": "FZIR",
+    "airport_name": "yangambi_airport",
+    "location_served": "yangambi__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "YAO",
+    "icao": "FKKY",
+    "airport_name": "yaoundé_airport",
+    "location_served": "yaoundé__cameroon"
+  },
+  {
+    "iata": "YAP",
+    "icao": "PTYA",
+    "airport_name": "yap_international_airport_(faa:_tdapidapi)",
+    "location_served": "yap__federated_states_of_micronesia"
+  },
+  {
+    "iata": "YAQ",
+    "icao": "",
+    "airport_name": "maple_bay_seaplane_base",
+    "location_served": "maple_bay__british_columbia__canada"
+  },
+  {
+    "iata": "YAR",
+    "icao": "CYAD",
+    "airport_name": "la_grande-dapi_airport",
+    "location_served": "la_grande-dapi__quebec__canada"
+  },
+  {
+    "iata": "YAS",
+    "icao": "NFSW",
+    "airport_name": "yasawa_island_airport",
+    "location_served": "yasawa__fiji"
+  },
+  {
+    "iata": "YAT",
+    "icao": "CYAT",
+    "airport_name": "attawapiskat_airport",
+    "location_served": "attawapiskat__ontario__canada"
+  },
+  {
+    "iata": "YAU",
+    "icao": "",
+    "airport_name": "kattiniq/donaldson_airport_(tc:_ctpdapi)",
+    "location_served": "raglan_mine__quebec__canada"
+  },
+  {
+    "iata": "YAV",
+    "icao": "",
+    "airport_name": "mayne_island_water_aerodrome_(miner's_bay_seaplane_base)_(tc:_cawdapi)",
+    "location_served": "mayne_island__british_columbia__canada"
+  },
+  {
+    "iata": "YAX",
+    "icao": "",
+    "airport_name": "angling_lake/wapekeka_airport[dapi]_(tc:_ckbdapi)",
+    "location_served": "wapekeka__ontario__canada"
+  },
+  {
+    "iata": "YAY",
+    "icao": "CYAY",
+    "airport_name": "st._anthony_airport",
+    "location_served": "st._anthony__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YAZ",
+    "icao": "CYAZ",
+    "airport_name": "tofino/long_beach_airport",
+    "location_served": "tofino__british_columbia__canada"
+  },
+  {
+    "iata": "YBA",
+    "icao": "CYBA",
+    "airport_name": "banff_airport",
+    "location_served": "banff__alberta__canada"
+  },
+  {
+    "iata": "YBB",
+    "icao": "CYBB",
+    "airport_name": "kugaaruk_airport",
+    "location_served": "kugaaruk__nunavut__canada"
+  },
+  {
+    "iata": "YBC",
+    "icao": "CYBC",
+    "airport_name": "baie-comeau_airport",
+    "location_served": "baie-comeau__quebec__canada"
+  },
+  {
+    "iata": "YBE",
+    "icao": "CYBE",
+    "airport_name": "uranium_city_airport",
+    "location_served": "uranium_city__saskatchewan__canada"
+  },
+  {
+    "iata": "YBF",
+    "icao": "",
+    "airport_name": "bamfield_water_aerodrome_(tc:_caedapi)",
+    "location_served": "bamfield__british_columbia__canada"
+  },
+  {
+    "iata": "YBG",
+    "icao": "CYBG",
+    "airport_name": "canadian_forces_base_bagotville",
+    "location_served": "la_baie_(bagotville)__quebec__canada"
+  },
+  {
+    "iata": "YBH",
+    "icao": "CYBH",
+    "airport_name": "bull_harbour_waterdrome",
+    "location_served": "bull_harbour__british_columbia__canada"
+  },
+  {
+    "iata": "YBI",
+    "icao": "",
+    "airport_name": "black_tickle_airport_(tc:_ccedapi)",
+    "location_served": "black_tickle__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YBJ",
+    "icao": "",
+    "airport_name": "baie-johan-beetz_seaplane_base",
+    "location_served": "baie-johan-beetz__quebec__canada"
+  },
+  {
+    "iata": "YBK",
+    "icao": "CYBK",
+    "airport_name": "baker_lake_airport",
+    "location_served": "baker_lake__nunavut__canada"
+  },
+  {
+    "iata": "YBL",
+    "icao": "CYBL",
+    "airport_name": "campbell_river_airport",
+    "location_served": "campbell_river__british_columbia__canada"
+  },
+  {
+    "iata": "YBO",
+    "icao": "",
+    "airport_name": "bob_quinn_lake_airport_(tc:_cbwdapi)",
+    "location_served": "bob_quinn_lake__british_columbia__canada"
+  },
+  {
+    "iata": "YBP",
+    "icao": "ZUYB",
+    "airport_name": "yibin_wuliangye_airport",
+    "location_served": "yibin__sichuan__china"
+  },
+  {
+    "iata": "YBQ",
+    "icao": "",
+    "airport_name": "telegraph_harbour_seaplane_base",
+    "location_served": "thetis_island__british_columbia__canada"
+  },
+  {
+    "iata": "YBR",
+    "icao": "CYBR",
+    "airport_name": "brandon_municipal_airport_(mcgill_field)",
+    "location_served": "brandon__manitoba__canada"
+  },
+  {
+    "iata": "YBS",
+    "icao": "",
+    "airport_name": "opapimiskan_lake_airport[dapi]_(tc:_ckmdapi)",
+    "location_served": "opapimiskan_lake__ontario__canada"
+  },
+  {
+    "iata": "YBT",
+    "icao": "CYBT",
+    "airport_name": "brochet_airport",
+    "location_served": "brochet__manitoba__canada"
+  },
+  {
+    "iata": "YBV",
+    "icao": "CYBV",
+    "airport_name": "berens_river_airport",
+    "location_served": "berens_river__manitoba__canada"
+  },
+  {
+    "iata": "YBW",
+    "icao": "",
+    "airport_name": "bedwell_harbour_water_aerodrome_(tc:_cabdapi)",
+    "location_served": "bedwell_harbour__british_columbia__canada"
+  },
+  {
+    "iata": "YBX",
+    "icao": "CYBX",
+    "airport_name": "lourdes-de-blanc-sablon_airport",
+    "location_served": "blanc-sablon__quebec__canada"
+  },
+  {
+    "iata": "YBY",
+    "icao": "CYBF",
+    "airport_name": "bonnyville_airport",
+    "location_served": "bonnyville__alberta__canada"
+  },
+  {
+    "iata": "YCA",
+    "icao": "",
+    "airport_name": "courtenay_airpark_(tc:_cahdapi)",
+    "location_served": "courtenay__british_columbia__canada"
+  },
+  {
+    "iata": "YCB",
+    "icao": "CYCB",
+    "airport_name": "cambridge_bay_airport",
+    "location_served": "cambridge_bay__nunavut__canada"
+  },
+  {
+    "iata": "YCC",
+    "icao": "CYCC",
+    "airport_name": "cornwall_regional_airport",
+    "location_served": "cornwall__ontario__canada"
+  },
+  {
+    "iata": "YCD",
+    "icao": "CYCD",
+    "airport_name": "nanaimo_airport",
+    "location_served": "nanaimo__british_columbia__canada"
+  },
+  {
+    "iata": "YCE",
+    "icao": "CYCE",
+    "airport_name": "centralia/james_t._field_memorial_aerodrome",
+    "location_served": "centralia__ontario__canada"
+  },
+  {
+    "iata": "YCF",
+    "icao": "",
+    "airport_name": "cortes_island_aerodrome_(tc:_ccidapi)",
+    "location_served": "cortes_island__british_columbia__canada"
+  },
+  {
+    "iata": "YCG",
+    "icao": "CYCG",
+    "airport_name": "west_kootenay_regional_airport_(castlegar_airport)",
+    "location_served": "castlegar__british_columbia__canada"
+  },
+  {
+    "iata": "YCH",
+    "icao": "CYCH",
+    "airport_name": "miramichi_airport",
+    "location_served": "miramichi__new_brunswick__canada"
+  },
+  {
+    "iata": "YCK",
+    "icao": "CYVL",
+    "airport_name": "colville_lake/tommy_kochon_aerodrome",
+    "location_served": "colville_lake__northwest_territories__canada"
+  },
+  {
+    "iata": "YCL",
+    "icao": "CYCL",
+    "airport_name": "charlo_airport",
+    "location_served": "charlo__new_brunswick__canada"
+  },
+  {
+    "iata": "YCM",
+    "icao": "CYSN",
+    "airport_name": "st._catharines/niagara_district_airport",
+    "location_served": "st._catharines__ontario__canada"
+  },
+  {
+    "iata": "YCN",
+    "icao": "CYCN",
+    "airport_name": "cochrane_aerodrome",
+    "location_served": "cochrane__ontario__canada"
+  },
+  {
+    "iata": "YCO",
+    "icao": "CYCO",
+    "airport_name": "kugluktuk_airport",
+    "location_served": "kugluktuk__nunavut__canada"
+  },
+  {
+    "iata": "YCQ",
+    "icao": "CYCQ",
+    "airport_name": "chetwynd_airport",
+    "location_served": "chetwynd__british_columbia__canada"
+  },
+  {
+    "iata": "YCR",
+    "icao": "CYCR",
+    "airport_name": "cross_lake_(charlie_sinclair_memorial)_airport",
+    "location_served": "cross_lake__manitoba__canada"
+  },
+  {
+    "iata": "YCS",
+    "icao": "CYCS",
+    "airport_name": "chesterfield_inlet_airport",
+    "location_served": "chesterfield_inlet__nunavut__canada"
+  },
+  {
+    "iata": "YCT",
+    "icao": "CYCT",
+    "airport_name": "coronation_airport",
+    "location_served": "coronation__alberta__canada"
+  },
+  {
+    "iata": "YCU",
+    "icao": "ZBYC",
+    "airport_name": "yuncheng_guangong_airport",
+    "location_served": "yuncheng__shanxi__china"
+  },
+  {
+    "iata": "YCW",
+    "icao": "CYCW",
+    "airport_name": "chilliwack_airport",
+    "location_served": "chilliwack__british_columbia__canada"
+  },
+  {
+    "iata": "YCY",
+    "icao": "CYCY",
+    "airport_name": "clyde_river_airport",
+    "location_served": "clyde_river__nunavut__canada"
+  },
+  {
+    "iata": "YCZ",
+    "icao": "CYCZ",
+    "airport_name": "fairmont_hot_springs_airport",
+    "location_served": "fairmont_hot_springs__british_columbia__canada"
+  },
+  {
+    "iata": "YDA",
+    "icao": "CYDA",
+    "airport_name": "dawson_city_airport",
+    "location_served": "dawson_city__yukon__canada"
+  },
+  {
+    "iata": "YDB",
+    "icao": "CYDB",
+    "airport_name": "burwash_airport",
+    "location_served": "burwash_landing__yukon__canada"
+  },
+  {
+    "iata": "YDC",
+    "icao": "",
+    "airport_name": "drayton_valley_industrial_airport_(tc:_cerdapi)",
+    "location_served": "drayton_valley__alberta__canada"
+  },
+  {
+    "iata": "YDE",
+    "icao": "",
+    "airport_name": "paradise_river_airport_(tc:_cdfdapi)",
+    "location_served": "paradise_river__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YDF",
+    "icao": "CYDF",
+    "airport_name": "deer_lake_regional_airport",
+    "location_served": "deer_lake__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YDG",
+    "icao": "CYID",
+    "airport_name": "digby/annapolis_regional_airport",
+    "location_served": "digby__nova_scotia__canada"
+  },
+  {
+    "iata": "YDJ",
+    "icao": "",
+    "airport_name": "hatchet_lake_airport[dapi]_(tc:_cjldapi)",
+    "location_served": "hatchet_lake__saskatchewan__canada"
+  },
+  {
+    "iata": "YDL",
+    "icao": "CYDL",
+    "airport_name": "dease_lake_airport",
+    "location_served": "dease_lake__british_columbia__canada"
+  },
+  {
+    "iata": "YDN",
+    "icao": "CYDN",
+    "airport_name": "lt._col_w.g._(billy)_barker_vc_airport",
+    "location_served": "dauphin__manitoba__canada"
+  },
+  {
+    "iata": "YDO",
+    "icao": "CYDO",
+    "airport_name": "dolbeau-saint-félicien_airport",
+    "location_served": "dolbeau-mistassini__quebec__canada"
+  },
+  {
+    "iata": "YDP",
+    "icao": "CYDP",
+    "airport_name": "nain_airport",
+    "location_served": "nain__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YDQ",
+    "icao": "CYDQ",
+    "airport_name": "dawson_creek_airport",
+    "location_served": "dawson_creek__british_columbia__canada"
+  },
+  {
+    "iata": "YDT",
+    "icao": "CZBB",
+    "airport_name": "boundary_bay_airport",
+    "location_served": "vancouver__british_columbia__canada"
+  },
+  {
+    "iata": "YDU",
+    "icao": "",
+    "airport_name": "kasba_lake_airport[dapi]_(tc:_cjldapi)",
+    "location_served": "kasba_lake__northwest_territories__canada"
+  },
+  {
+    "iata": "YDV",
+    "icao": "CZTA",
+    "airport_name": "bloodvein_river_airport",
+    "location_served": "bloodvein__manitoba__canada"
+  },
+  {
+    "iata": "YDW",
+    "icao": "",
+    "airport_name": "obre_lake/north_of_sixty_airport_(tc:_ckvdapi)",
+    "location_served": "obre_lake__northwest_territories__canada"
+  },
+  {
+    "iata": "YEA[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "edmonton__alberta__canada"
+  },
+  {
+    "iata": "YEB",
+    "icao": "",
+    "airport_name": "bar_river_airport[dapi]_(tc:_cpfdapi)",
+    "location_served": "bar_river__ontario__canada"
+  },
+  {
+    "iata": "YEC",
+    "icao": "RKTY",
+    "airport_name": "yecheon_air_base",
+    "location_served": "yecheon__south_korea"
+  },
+  {
+    "iata": "YEG",
+    "icao": "CYEG",
+    "airport_name": "edmonton_international_airport",
+    "location_served": "edmonton__alberta__canada"
+  },
+  {
+    "iata": "YEI",
+    "icao": "LTBR",
+    "airport_name": "yenişehir_airport",
+    "location_served": "bursa__turkey"
+  },
+  {
+    "iata": "YEK",
+    "icao": "CYEK",
+    "airport_name": "arviat_airport",
+    "location_served": "arviat__nunavut__canada"
+  },
+  {
+    "iata": "YEL",
+    "icao": "CYEL",
+    "airport_name": "elliot_lake_municipal_airport",
+    "location_served": "elliot_lake__ontario__canada"
+  },
+  {
+    "iata": "YEM",
+    "icao": "CYEM",
+    "airport_name": "manitowaning/manitoulin_east_municipal_airport",
+    "location_served": "manitowaning__ontario__canada"
+  },
+  {
+    "iata": "YEN",
+    "icao": "CYEN",
+    "airport_name": "estevan_regional_aerodrome",
+    "location_served": "estevan__saskatchewan__canada"
+  },
+  {
+    "iata": "YEO",
+    "icao": "EGDY",
+    "airport_name": "royal_naval_air_station_yeovilton",
+    "location_served": "yeovilton__england__united_kingdom"
+  },
+  {
+    "iata": "YEQ",
+    "icao": "",
+    "airport_name": "yankisa_airport",
+    "location_served": "yankisa__papua_new_guinea"
+  },
+  {
+    "iata": "YER",
+    "icao": "CYER",
+    "airport_name": "fort_severn_airport",
+    "location_served": "fort_severn__ontario__canada"
+  },
+  {
+    "iata": "YES",
+    "icao": "OISY",
+    "airport_name": "yasuj_airport[dapi]",
+    "location_served": "yasuj_(yasouj)__iran"
+  },
+  {
+    "iata": "YET",
+    "icao": "CYET",
+    "airport_name": "edson_airport",
+    "location_served": "edson__alberta__canada"
+  },
+  {
+    "iata": "YEU",
+    "icao": "CYEU",
+    "airport_name": "eureka_aerodrome",
+    "location_served": "eureka__nunavut__canada"
+  },
+  {
+    "iata": "YEV",
+    "icao": "CYEV",
+    "airport_name": "inuvik_(mike_zubko)_airport",
+    "location_served": "inuvik__northwest_territories__canada"
+  },
+  {
+    "iata": "YEY",
+    "icao": "CYEY",
+    "airport_name": "amos/magny_airport",
+    "location_served": "amos__quebec__canada"
+  },
+  {
+    "iata": "YFA",
+    "icao": "CYFA",
+    "airport_name": "fort_albany_airport",
+    "location_served": "fort_albany__ontario__canada"
+  },
+  {
+    "iata": "YFB",
+    "icao": "CYFB",
+    "airport_name": "iqaluit_airport",
+    "location_served": "iqaluit__nunavut__canada"
+  },
+  {
+    "iata": "YFC",
+    "icao": "CYFC",
+    "airport_name": "fredericton_international_airport",
+    "location_served": "fredericton__new_brunswick__canada"
+  },
+  {
+    "iata": "YFE",
+    "icao": "CYFE",
+    "airport_name": "forestville_airport",
+    "location_served": "forestville__quebec__canada"
+  },
+  {
+    "iata": "YFG",
+    "icao": "",
+    "airport_name": "fontanges_airport_(tc:_ctudapi)",
+    "location_served": "fontanges__quebec__canada"
+  },
+  {
+    "iata": "YFH",
+    "icao": "CYFH",
+    "airport_name": "fort_hope_airport",
+    "location_served": "eabametoong_(fort_hope)__ontario__canada"
+  },
+  {
+    "iata": "YFI",
+    "icao": "",
+    "airport_name": "fort_mackay/firebag_aerodrome[dapi]_(tc:_cfgdapi)",
+    "location_served": "fort_mckay__alberta__canada"
+  },
+  {
+    "iata": "YFJ",
+    "icao": "CYWE",
+    "airport_name": "wekweètì_airport[dapi]_(snare_lake_airport)_(tc:_cfjdapi)",
+    "location_served": "wekweeti__northwest_territories__canada"
+  },
+  {
+    "iata": "YFL",
+    "icao": "",
+    "airport_name": "fort_reliance_water_aerodrome_(cjndapi)",
+    "location_served": "fort_reliance__northwest_territories__canada"
+  },
+  {
+    "iata": "YFO",
+    "icao": "CYFO",
+    "airport_name": "flin_flon_airport",
+    "location_served": "flin_flon__manitoba__canada"
+  },
+  {
+    "iata": "YFR",
+    "icao": "CYFR",
+    "airport_name": "fort_resolution_airport",
+    "location_served": "fort_resolution__northwest_territories__canada"
+  },
+  {
+    "iata": "YFS",
+    "icao": "CYFS",
+    "airport_name": "fort_simpson_airport",
+    "location_served": "fort_simpson__northwest_territories__canada"
+  },
+  {
+    "iata": "YFT",
+    "icao": "",
+    "airport_name": "taipa_ferry_terminal",
+    "location_served": "taipa__macau"
+  },
+  {
+    "iata": "YFX",
+    "icao": "",
+    "airport_name": "st._lewis_(fox_harbour)_airport_(tc:_cckdapi)",
+    "location_served": "st._lewis__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YGB",
+    "icao": "CYGB",
+    "airport_name": "texada/gillies_bay_airport",
+    "location_served": "gillies_bay__british_columbia__canada"
+  },
+  {
+    "iata": "YGC",
+    "icao": "",
+    "airport_name": "grande_cache_airport_(tc:_ceqdapi)",
+    "location_served": "grande_cache__alberta__canada"
+  },
+  {
+    "iata": "YGE",
+    "icao": "",
+    "airport_name": "gorge_harbour_water_aerodrome",
+    "location_served": "gorge_harbour__british_columbia__canada"
+  },
+  {
+    "iata": "YGG",
+    "icao": "",
+    "airport_name": "ganges_water_aerodrome_(tc:_caxdapi)",
+    "location_served": "ganges__british_columbia__canada"
+  },
+  {
+    "iata": "YGH",
+    "icao": "CYGH",
+    "airport_name": "fort_good_hope_airport",
+    "location_served": "fort_good_hope__northwest_territories__canada"
+  },
+  {
+    "iata": "YGJ",
+    "icao": "RJOH",
+    "airport_name": "miho–yonago_airport",
+    "location_served": "yonago__honshu__japan"
+  },
+  {
+    "iata": "YGK",
+    "icao": "CYGK",
+    "airport_name": "kingston/norman_rogers_airport",
+    "location_served": "kingston__ontario__canada"
+  },
+  {
+    "iata": "YGL",
+    "icao": "CYGL",
+    "airport_name": "la_grande_rivière_airport",
+    "location_served": "radisson__quebec__canada"
+  },
+  {
+    "iata": "YGM",
+    "icao": "CYGM",
+    "airport_name": "gimli_industrial_park_airport",
+    "location_served": "gimli__manitoba__canada"
+  },
+  {
+    "iata": "YGN",
+    "icao": "",
+    "airport_name": "greenway_sound_water_aerodrome",
+    "location_served": "greenway_sound__british_columbia__canada"
+  },
+  {
+    "iata": "YGO",
+    "icao": "CYGO",
+    "airport_name": "gods_lake_narrows_airport",
+    "location_served": "gods_lake_narrows__manitoba__canada"
+  },
+  {
+    "iata": "YGP",
+    "icao": "CYGP",
+    "airport_name": "michel-pouliot_gaspé_airport",
+    "location_served": "gaspé__quebec__canada"
+  },
+  {
+    "iata": "YGQ",
+    "icao": "CYGQ",
+    "airport_name": "geraldton_(greenstone_regional)_airport",
+    "location_served": "greenstone_(geraldton)__ontario__canada"
+  },
+  {
+    "iata": "YGR",
+    "icao": "CYGR",
+    "airport_name": "îles-de-la-madeleine_airport",
+    "location_served": "les_îles-de-la-madeleine__quebec__canada"
+  },
+  {
+    "iata": "YGT",
+    "icao": "CYGT",
+    "airport_name": "igloolik_airport",
+    "location_served": "igloolik__nunavut__canada"
+  },
+  {
+    "iata": "YGV",
+    "icao": "CYGV",
+    "airport_name": "havre_saint-pierre_airport",
+    "location_served": "havre-saint-pierre__quebec__canada"
+  },
+  {
+    "iata": "YGW",
+    "icao": "CYGW",
+    "airport_name": "kuujjuarapik_airport",
+    "location_served": "kuujjuarapik__quebec__canada"
+  },
+  {
+    "iata": "YGX",
+    "icao": "CYGX",
+    "airport_name": "gillam_airport",
+    "location_served": "gillam__manitoba__canada"
+  },
+  {
+    "iata": "YGZ",
+    "icao": "CYGZ",
+    "airport_name": "grise_fiord_airport",
+    "location_served": "grise_fiord__nunavut__canada"
+  },
+  {
+    "iata": "YHA",
+    "icao": "",
+    "airport_name": "port_hope_simpson_airport_(tc:_ccpdapi)",
+    "location_served": "port_hope_simpson__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YHB",
+    "icao": "CYHB",
+    "airport_name": "hudson_bay_airport",
+    "location_served": "hudson_bay__saskatchewan__canada"
+  },
+  {
+    "iata": "YHC",
+    "icao": "",
+    "airport_name": "hakai_passage_water_aerodrome",
+    "location_served": "hakai_passage__british_columbia__canada"
+  },
+  {
+    "iata": "YHD",
+    "icao": "CYHD",
+    "airport_name": "dryden_regional_airport",
+    "location_served": "dryden__ontario__canada"
+  },
+  {
+    "iata": "YHE",
+    "icao": "CYHE",
+    "airport_name": "hope_aerodrome",
+    "location_served": "hope__british_columbia__canada"
+  },
+  {
+    "iata": "YHF",
+    "icao": "CYHF",
+    "airport_name": "hearst_(rené_fontaine)_municipal_airport",
+    "location_served": "hearst__ontario__canada"
+  },
+  {
+    "iata": "YHG",
+    "icao": "",
+    "airport_name": "charlottetown_airport_(tc:_cchdapi)",
+    "location_served": "charlottetown__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YHH",
+    "icao": "",
+    "airport_name": "campbell_river_water_aerodrome_(tc:_caedapi)",
+    "location_served": "campbell_river__british_columbia__canada"
+  },
+  {
+    "iata": "YHI",
+    "icao": "CYHI",
+    "airport_name": "ulukhaktok/holman_airport",
+    "location_served": "ulukhaktok__northwest_territories__canada"
+  },
+  {
+    "iata": "YHK",
+    "icao": "CYHK",
+    "airport_name": "gjoa_haven_airport",
+    "location_served": "gjoa_haven__nunavut__canada"
+  },
+  {
+    "iata": "YHM",
+    "icao": "CYHM",
+    "airport_name": "john_c._munro_hamilton_international_airport",
+    "location_served": "hamilton__ontario__canada"
+  },
+  {
+    "iata": "YHN",
+    "icao": "CYHN",
+    "airport_name": "hornepayne_municipal_airport",
+    "location_served": "hornepayne__ontario__canada"
+  },
+  {
+    "iata": "YHO",
+    "icao": "CYHO",
+    "airport_name": "hopedale_airport",
+    "location_served": "hopedale__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YHP",
+    "icao": "CYHP",
+    "airport_name": "poplar_hill_airport",
+    "location_served": "poplar_hill__ontario__canada"
+  },
+  {
+    "iata": "YHR",
+    "icao": "CYHR",
+    "airport_name": "chevery_airport",
+    "location_served": "chevery__quebec__canada"
+  },
+  {
+    "iata": "YHS",
+    "icao": "",
+    "airport_name": "sechelt_aerodrome_(tc:_capdapi)",
+    "location_served": "sechelt__british_columbia__canada"
+  },
+  {
+    "iata": "YHT",
+    "icao": "CYHT",
+    "airport_name": "haines_junction_airport",
+    "location_served": "haines_junction__yukon__canada"
+  },
+  {
+    "iata": "YHU",
+    "icao": "CYHU",
+    "airport_name": "montréal/saint-hubert_airport",
+    "location_served": "montreal__quebec__canada"
+  },
+  {
+    "iata": "YHY",
+    "icao": "CYHY",
+    "airport_name": "hay_river/merlyn_carter_airport",
+    "location_served": "hay_river__northwest_territories__canada"
+  },
+  {
+    "iata": "YHZ",
+    "icao": "CYHZ",
+    "airport_name": "halifax_stanfield_international_airport",
+    "location_served": "halifax__nova_scotia__canada"
+  },
+  {
+    "iata": "YIA",
+    "icao": "WAHI",
+    "airport_name": "yogyakarta_international_airport",
+    "location_served": "kulon_progo_regency__special_region_of_yogyakarta__indonesia"
+  },
+  {
+    "iata": "YIB",
+    "icao": "CYIB",
+    "airport_name": "atikokan_municipal_airport",
+    "location_served": "atikokan__ontario__canada"
+  },
+  {
+    "iata": "YIC",
+    "icao": "ZSYC",
+    "airport_name": "yichun_mingyueshan_airport",
+    "location_served": "yichun__jiangxi__china"
+  },
+  {
+    "iata": "YIE",
+    "icao": "ZBES",
+    "airport_name": "arxan_yi'ershi_airport",
+    "location_served": "arxan_(aershan)__inner_mongolia__china"
+  },
+  {
+    "iata": "YIF",
+    "icao": "CYIF",
+    "airport_name": "saint-augustin_airport",
+    "location_served": "saint-augustin_/_pakuashipi__quebec__canada"
+  },
+  {
+    "iata": "YIG",
+    "icao": "",
+    "airport_name": "big_bay_water_aerodrome_(tc:_cafdapi)",
+    "location_served": "stuart_island__british_columbia__canada"
+  },
+  {
+    "iata": "YIH",
+    "icao": "ZHYC",
+    "airport_name": "yichang_sanxia_airport",
+    "location_served": "yichang__hubei__china"
+  },
+  {
+    "iata": "YIK",
+    "icao": "CYIK",
+    "airport_name": "ivujivik_airport",
+    "location_served": "ivujivik__quebec__canada"
+  },
+  {
+    "iata": "YIN",
+    "icao": "ZWYN",
+    "airport_name": "yining_airport",
+    "location_served": "yining_(ghulja)__xinjiang__china"
+  },
+  {
+    "iata": "YIO",
+    "icao": "CYIO",
+    "airport_name": "pond_inlet_airport",
+    "location_served": "pond_inlet__nunavut__canada"
+  },
+  {
+    "iata": "YIP",
+    "icao": "KYIP",
+    "airport_name": "willow_run_airport",
+    "location_served": "detroit__michigan__united_states"
+  },
+  {
+    "iata": "YIV",
+    "icao": "CYIV",
+    "airport_name": "island_lake_airport_(garden_hill_airport)",
+    "location_served": "island_lake_/_garden_hill__manitoba__canada"
+  },
+  {
+    "iata": "YIW",
+    "icao": "ZSYW",
+    "airport_name": "yiwu_airport",
+    "location_served": "yiwu__zhejiang__china"
+  },
+  {
+    "iata": "YJA",
+    "icao": "CYJA",
+    "airport_name": "jasper_airport",
+    "location_served": "jasper__alberta__canada"
+  },
+  {
+    "iata": "YJF",
+    "icao": "CYJF",
+    "airport_name": "fort_liard_airport",
+    "location_served": "fort_liard__northwest_territories__canada"
+  },
+  {
+    "iata": "YJN",
+    "icao": "CYJN",
+    "airport_name": "saint-jean_airport",
+    "location_served": "saint-jean-sur-richelieu__quebec__canada"
+  },
+  {
+    "iata": "YJP",
+    "icao": "",
+    "airport_name": "hinton/jasper-hinton_airport_(tc:_cecdapi)",
+    "location_served": "hinton__alberta__canada"
+  },
+  {
+    "iata": "YJS",
+    "icao": "ZKSE",
+    "airport_name": "samjiyon_airport[dapi]",
+    "location_served": "samjiyon__north_korea"
+  },
+  {
+    "iata": "YJT",
+    "icao": "CYJT",
+    "airport_name": "stephenville_international_airport",
+    "location_served": "stephenville__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YKA",
+    "icao": "CYKA",
+    "airport_name": "kamloops_airport",
+    "location_served": "kamloops__british_columbia__canada"
+  },
+  {
+    "iata": "YKC",
+    "icao": "CYKC",
+    "airport_name": "collins_bay_airport",
+    "location_served": "collins_bay__saskatchewan__canada"
+  },
+  {
+    "iata": "YKD",
+    "icao": "CYKM",
+    "airport_name": "kincardine_municipal_airport",
+    "location_served": "kincardine__ontario__canada"
+  },
+  {
+    "iata": "YKE",
+    "icao": "",
+    "airport_name": "knee_lake_airport_(tc:_cjtdapi)",
+    "location_served": "knee_lake__manitoba__canada"
+  },
+  {
+    "iata": "YKF",
+    "icao": "CYKF",
+    "airport_name": "region_of_waterloo_international_airport",
+    "location_served": "kitchener_/_cambridge_/_waterloo__ontario__canada"
+  },
+  {
+    "iata": "YKG",
+    "icao": "CYAS",
+    "airport_name": "kangirsuk_airport",
+    "location_served": "kangirsuk__quebec__canada"
+  },
+  {
+    "iata": "YKH",
+    "icao": "ZYYK",
+    "airport_name": "yingkou_lanqi_airport",
+    "location_served": "yingkou__liaoning__china"
+  },
+  {
+    "iata": "YKJ",
+    "icao": "CYKJ",
+    "airport_name": "key_lake_airport[dapi]",
+    "location_served": "key_lake__saskatchewan__canada"
+  },
+  {
+    "iata": "YKK",
+    "icao": "",
+    "airport_name": "kitkatla_water_aerodrome_(tc:_capdapi)",
+    "location_served": "kitkatla__british_columbia__canada"
+  },
+  {
+    "iata": "YKL",
+    "icao": "CYKL",
+    "airport_name": "schefferville_airport",
+    "location_served": "schefferville__quebec__canada"
+  },
+  {
+    "iata": "YKM",
+    "icao": "KYKM",
+    "airport_name": "yakima_air_terminal_(mcallister_field)",
+    "location_served": "yakima__washington__united_states"
+  },
+  {
+    "iata": "YKN",
+    "icao": "KYKN",
+    "airport_name": "chan_gurney_municipal_airport",
+    "location_served": "yankton__south_dakota__united_states"
+  },
+  {
+    "iata": "YKO",
+    "icao": "LTCW",
+    "airport_name": "hakkari_yüksekova_airport[dapi]",
+    "location_served": "hakkâri_/_yüksekova__turkey"
+  },
+  {
+    "iata": "YKQ",
+    "icao": "CYKQ",
+    "airport_name": "waskaganish_airport",
+    "location_served": "waskaganish__quebec__canada"
+  },
+  {
+    "iata": "YKS",
+    "icao": "UEEE",
+    "airport_name": "yakutsk_airport",
+    "location_served": "yakutsk__yakutia__russia"
+  },
+  {
+    "iata": "YKT",
+    "icao": "",
+    "airport_name": "klemtu_water_aerodrome",
+    "location_served": "klemtu__british_columbia__canada"
+  },
+  {
+    "iata": "YKU",
+    "icao": "",
+    "airport_name": "chisasibi_airport_(tc:_csudapi)",
+    "location_served": "chisasibi__quebec__canada"
+  },
+  {
+    "iata": "YKX",
+    "icao": "CYKX",
+    "airport_name": "kirkland_lake_airport",
+    "location_served": "kirkland_lake__ontario__canada"
+  },
+  {
+    "iata": "YKY",
+    "icao": "CYKY",
+    "airport_name": "kindersley_regional_airport",
+    "location_served": "kindersley__saskatchewan__canada"
+  },
+  {
+    "iata": "YKZ",
+    "icao": "CYKZ",
+    "airport_name": "buttonville_municipal_airport",
+    "location_served": "toronto__ontario__canada"
+  },
+  {
+    "iata": "YLB",
+    "icao": "CYLB",
+    "airport_name": "lac_la_biche_airport",
+    "location_served": "lac_la_biche__alberta__canada"
+  },
+  {
+    "iata": "YLC",
+    "icao": "CYLC",
+    "airport_name": "kimmirut_airport",
+    "location_served": "kimmirut__nunavut__canada"
+  },
+  {
+    "iata": "YLD",
+    "icao": "CYLD",
+    "airport_name": "chapleau_airport",
+    "location_served": "chapleau__ontario__canada"
+  },
+  {
+    "iata": "YLE",
+    "icao": "",
+    "airport_name": "whatì_airport_(tc:_cemdapi)",
+    "location_served": "whatì__northwest_territories__canada"
+  },
+  {
+    "iata": "YLG",
+    "icao": "YYAL",
+    "airport_name": "yalgoo_airport",
+    "location_served": "yalgoo__western_australia__australia"
+  },
+  {
+    "iata": "YLH",
+    "icao": "CYLH",
+    "airport_name": "lansdowne_house_airport",
+    "location_served": "neskantaga_(lansdowne_house_indian_band)__ontario__canada"
+  },
+  {
+    "iata": "YLI",
+    "icao": "EFYL",
+    "airport_name": "ylivieska_airfield",
+    "location_served": "ylivieska__finland"
+  },
+  {
+    "iata": "YLJ",
+    "icao": "CYLJ",
+    "airport_name": "meadow_lake_airport",
+    "location_served": "meadow_lake__saskatchewan__canada"
+  },
+  {
+    "iata": "YLK",
+    "icao": "CYLS",
+    "airport_name": "lake_simcoe_regional_airport[dapi]",
+    "location_served": "barrie_/_orillia__ontario__canada"
+  },
+  {
+    "iata": "YLL",
+    "icao": "CYLL",
+    "airport_name": "lloydminster_airport",
+    "location_served": "lloydminster__alberta/saskatchewan_dapi_canada"
+  },
+  {
+    "iata": "YLM",
+    "icao": "",
+    "airport_name": "clinton_creek_airport[dapi]",
+    "location_served": "clinton_creek__yukon__canada"
+  },
+  {
+    "iata": "YLN",
+    "icao": "ZYYL",
+    "airport_name": "yilan_airport",
+    "location_served": "yilan__heilongjiang__china"
+  },
+  {
+    "iata": "YLP",
+    "icao": "CYLP",
+    "airport_name": "mingan_airport",
+    "location_served": "mingan__quebec__canada"
+  },
+  {
+    "iata": "YLQ",
+    "icao": "CYLQ",
+    "airport_name": "la_tuque_airport",
+    "location_served": "la_tuque__quebec__canada"
+  },
+  {
+    "iata": "YLR",
+    "icao": "CYLR",
+    "airport_name": "leaf_rapids_airport",
+    "location_served": "leaf_rapids__manitoba__canada"
+  },
+  {
+    "iata": "YLS",
+    "icao": "",
+    "airport_name": "lebel-sur-quévillon_airport_(tc:_cshdapi)",
+    "location_served": "lebel-sur-quévillon__quebec__canada"
+  },
+  {
+    "iata": "YLT",
+    "icao": "CYLT",
+    "airport_name": "alert_airport",
+    "location_served": "alert__nunavut__canada"
+  },
+  {
+    "iata": "YLV",
+    "icao": "UBEE",
+    "airport_name": "yevlakh_airport[dapi]",
+    "location_served": "yevlakh__azerbaijan"
+  },
+  {
+    "iata": "YLW",
+    "icao": "CYLW",
+    "airport_name": "kelowna_international_airport",
+    "location_served": "kelowna__british_columbia__canada"
+  },
+  {
+    "iata": "YLX",
+    "icao": "",
+    "airport_name": "yulin_fumian_airport",
+    "location_served": "yulin__guangxi__china"
+  },
+  {
+    "iata": "YLY",
+    "icao": "CYNJ",
+    "airport_name": "langley_regional_airport[dapi]",
+    "location_served": "langley__british_columbia__canada"
+  },
+  {
+    "iata": "YMA",
+    "icao": "CYMA",
+    "airport_name": "mayo_airport",
+    "location_served": "mayo__yukon__canada"
+  },
+  {
+    "iata": "YMB",
+    "icao": "",
+    "airport_name": "merritt_airport_(tc:_caddapi)",
+    "location_served": "merritt__british_columbia__canada"
+  },
+  {
+    "iata": "YMD",
+    "icao": "CYMD",
+    "airport_name": "mould_bay_airport",
+    "location_served": "prince_patrick_island__northwest_territories__canada"
+  },
+  {
+    "iata": "YME",
+    "icao": "CYME",
+    "airport_name": "matane_airport",
+    "location_served": "matane__quebec__canada"
+  },
+  {
+    "iata": "YMF",
+    "icao": "",
+    "airport_name": "montague_harbour_water_aerodrome",
+    "location_served": "galiano_island__british_columbia__canada"
+  },
+  {
+    "iata": "YMG",
+    "icao": "CYMG",
+    "airport_name": "manitouwadge_airport",
+    "location_served": "manitouwadge__ontario__canada"
+  },
+  {
+    "iata": "YMH",
+    "icao": "CYMH",
+    "airport_name": "mary's_harbour_airport",
+    "location_served": "mary's_harbour__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YMJ",
+    "icao": "CYMJ",
+    "airport_name": "cfb_moose_jaw_(c.m._mcewen_airport)",
+    "location_served": "moose_jaw__saskatchewan__canada"
+  },
+  {
+    "iata": "YMK",
+    "icao": "USDK",
+    "airport_name": "mys-kamenny_airport[dapi]",
+    "location_served": "mys-kamenny__yamalo-nenets_autonomous_okrug__russia"
+  },
+  {
+    "iata": "YML",
+    "icao": "CYML",
+    "airport_name": "charlevoix_airport",
+    "location_served": "la_malbaie__quebec__canada"
+  },
+  {
+    "iata": "YMM",
+    "icao": "CYMM",
+    "airport_name": "fort_mcmurray_international_airport",
+    "location_served": "fort_mcmurray__alberta__canada"
+  },
+  {
+    "iata": "YMN",
+    "icao": "CYFT",
+    "airport_name": "makkovik_airport",
+    "location_served": "makkovik__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YMO",
+    "icao": "CYMO",
+    "airport_name": "moosonee_airport",
+    "location_served": "moosonee__ontario__canada"
+  },
+  {
+    "iata": "YMP",
+    "icao": "",
+    "airport_name": "port_mcneill_airport_(tc:_catdapi)",
+    "location_served": "port_mcneill__british_columbia__canada"
+  },
+  {
+    "iata": "YMQ[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "montreal__quebec__canada"
+  },
+  {
+    "iata": "YMS",
+    "icao": "SPMS",
+    "airport_name": "moisés_benzaquén_rengifo_airport",
+    "location_served": "yurimaguas__peru"
+  },
+  {
+    "iata": "YMT",
+    "icao": "CYMT",
+    "airport_name": "chibougamau/chapais_airport",
+    "location_served": "chibougamau__quebec__canada"
+  },
+  {
+    "iata": "YMU",
+    "icao": "",
+    "airport_name": "mansons_landing_water_aerodrome[dapi]_(tc:_cavdapi)",
+    "location_served": "mansons_landing__british_columbia__canada"
+  },
+  {
+    "iata": "YMV",
+    "icao": "",
+    "airport_name": "mary_river_aerodrome[dapi]_(tc:_cmrdapi)",
+    "location_served": "mary_river__nunavut__canada"
+  },
+  {
+    "iata": "YMW",
+    "icao": "CYMW",
+    "airport_name": "maniwaki_airport",
+    "location_served": "maniwaki__quebec__canada"
+  },
+  {
+    "iata": "YMX",
+    "icao": "CYMX",
+    "airport_name": "montréal–mirabel_international_airport",
+    "location_served": "montreal__quebec__canada"
+  },
+  {
+    "iata": "YNA",
+    "icao": "CYNA",
+    "airport_name": "natashquan_airport",
+    "location_served": "natashquan__quebec__canada"
+  },
+  {
+    "iata": "YNB",
+    "icao": "OEYN",
+    "airport_name": "yanbu_airport_(yenbo_airport)",
+    "location_served": "yanbu_al_bahr_(yenbo)__saudi_arabia"
+  },
+  {
+    "iata": "YNC",
+    "icao": "CYNC",
+    "airport_name": "wemindji_airport",
+    "location_served": "wemindji__quebec__canada"
+  },
+  {
+    "iata": "YND",
+    "icao": "CYND",
+    "airport_name": "gatineau-ottawa_executive_airport",
+    "location_served": "gatineau_/_ottawa_(on)__quebec__canada"
+  },
+  {
+    "iata": "YNE",
+    "icao": "CYNE",
+    "airport_name": "norway_house_airport",
+    "location_served": "norway_house__manitoba__canada"
+  },
+  {
+    "iata": "YNG",
+    "icao": "KYNG",
+    "airport_name": "youngstown–warren_regional_airport",
+    "location_served": "youngstown_/_warren__ohio__united_states"
+  },
+  {
+    "iata": "YNH",
+    "icao": "CYNH",
+    "airport_name": "hudson's_hope_airport",
+    "location_served": "hudson's_hope__british_columbia__canada"
+  },
+  {
+    "iata": "YNJ",
+    "icao": "ZYYJ",
+    "airport_name": "yanji_chaoyangchuan_airport",
+    "location_served": "yanji__jilin__china"
+  },
+  {
+    "iata": "YNL",
+    "icao": "CYNL",
+    "airport_name": "points_north_landing_airport",
+    "location_served": "points_north_landing__saskatchewan__canada"
+  },
+  {
+    "iata": "YNM",
+    "icao": "CYNM",
+    "airport_name": "matagami_airport",
+    "location_served": "matagami__quebec__canada"
+  },
+  {
+    "iata": "YNN",
+    "icao": "",
+    "airport_name": "yandicoogina_airport[dapi]",
+    "location_served": "yandicoogina__western_australia__australia"
+  },
+  {
+    "iata": "YNO",
+    "icao": "",
+    "airport_name": "north_spirit_lake_airport_(tc:_ckqdapi)",
+    "location_served": "north_spirit_lake__ontario__canada"
+  },
+  {
+    "iata": "YNP",
+    "icao": "",
+    "airport_name": "natuashish_airport[dapi]_(tc:_cnhdapi)",
+    "location_served": "natuashish__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YNS",
+    "icao": "CYHH",
+    "airport_name": "nemiscau_airport",
+    "location_served": "nemiscau__quebec__canada"
+  },
+  {
+    "iata": "YNT",
+    "icao": "ZSYT",
+    "airport_name": "yantai_penglai_international_airport",
+    "location_served": "yantai__shandong__china"
+  },
+  {
+    "iata": "YNX",
+    "icao": "",
+    "airport_name": "snap_lake_airport[dapi]_(tc:_cskdapi)",
+    "location_served": "snap_lake__northwest_territories__canada"
+  },
+  {
+    "iata": "YNY",
+    "icao": "RKNY",
+    "airport_name": "yangyang_international_airport[dapi]",
+    "location_served": "yangyang__south_korea"
+  },
+  {
+    "iata": "YNZ",
+    "icao": "ZSYN",
+    "airport_name": "yancheng_nanyang_international_airport",
+    "location_served": "yancheng__jiangsu__china"
+  },
+  {
+    "iata": "YOA",
+    "icao": "CYOA",
+    "airport_name": "ekati_airport[dapi]",
+    "location_served": "ekati__northwest_territories__canada"
+  },
+  {
+    "iata": "YOC",
+    "icao": "CYOC",
+    "airport_name": "old_crow_airport",
+    "location_served": "old_crow__yukon__canada"
+  },
+  {
+    "iata": "YOD",
+    "icao": "CYOD",
+    "airport_name": "cfb_cold_lake_(r.w._mcnair_airport)",
+    "location_served": "cold_lake__alberta__canada"
+  },
+  {
+    "iata": "YOE",
+    "icao": "",
+    "airport_name": "donnelly_airport_(tc:_cfmdapi)",
+    "location_served": "donnelly__alberta__canada"
+  },
+  {
+    "iata": "YOG",
+    "icao": "CYKP",
+    "airport_name": "ogoki_post_airport",
+    "location_served": "marten_falls_(ogoki)__ontario__canada"
+  },
+  {
+    "iata": "YOH",
+    "icao": "CYOH",
+    "airport_name": "oxford_house_airport",
+    "location_served": "oxford_house__manitoba__canada"
+  },
+  {
+    "iata": "YOI",
+    "icao": "",
+    "airport_name": "opinaca_aerodrome[dapi]_(tc:_cpndapi)",
+    "location_served": "opinaca__quebec__canada"
+  },
+  {
+    "iata": "YOJ",
+    "icao": "CYOJ",
+    "airport_name": "high_level_airport",
+    "location_served": "high_level__alberta__canada"
+  },
+  {
+    "iata": "YOL",
+    "icao": "DNYO",
+    "airport_name": "yola_airport",
+    "location_served": "yola__nigeria"
+  },
+  {
+    "iata": "YON",
+    "icao": "VQTY",
+    "airport_name": "yongphulla_airport[dapi]_(yonphula_airport)",
+    "location_served": "trashigang__bhutan"
+  },
+  {
+    "iata": "YOO",
+    "icao": "CYOO",
+    "airport_name": "oshawa_airport",
+    "location_served": "oshawa__ontario__canada"
+  },
+  {
+    "iata": "YOP",
+    "icao": "CYOP",
+    "airport_name": "rainbow_lake_airport",
+    "location_served": "rainbow_lake__alberta__canada"
+  },
+  {
+    "iata": "YOS",
+    "icao": "CYOS",
+    "airport_name": "billy_bishop_regional_airport",
+    "location_served": "owen_sound__ontario__canada"
+  },
+  {
+    "iata": "YOT",
+    "icao": "LLYT",
+    "airport_name": "yotvata_airfield",
+    "location_served": "yotvata__israel"
+  },
+  {
+    "iata": "YOW",
+    "icao": "CYOW",
+    "airport_name": "ottawa_macdonald–cartier_international_airport",
+    "location_served": "ottawa__ontario__canada"
+  },
+  {
+    "iata": "YPA",
+    "icao": "CYPA",
+    "airport_name": "prince_albert_(glass_field)_airport",
+    "location_served": "prince_albert__saskatchewan__canada"
+  },
+  {
+    "iata": "YPB",
+    "icao": "",
+    "airport_name": "alberni_valley_regional_airport_(tc:_cbsdapi)",
+    "location_served": "port_alberni__british_columbia__canada"
+  },
+  {
+    "iata": "YPC",
+    "icao": "CYPC",
+    "airport_name": "nora_aliqatchialuk_ruben_airport",
+    "location_served": "paulatuk__northwest_territories__canada"
+  },
+  {
+    "iata": "YPD",
+    "icao": "",
+    "airport_name": "parry_sound_area_municipal_airport_(tc:_cnkdapi)",
+    "location_served": "parry_sound__ontario__canada"
+  },
+  {
+    "iata": "YPE",
+    "icao": "CYPE",
+    "airport_name": "peace_river_airport",
+    "location_served": "peace_river__alberta__canada"
+  },
+  {
+    "iata": "YPG",
+    "icao": "CYPG",
+    "airport_name": "portage_la_prairie/southport_airport",
+    "location_served": "portage_la_prairie__manitoba__canada"
+  },
+  {
+    "iata": "YPH",
+    "icao": "CYPH",
+    "airport_name": "inukjuak_airport",
+    "location_served": "inukjuak__quebec__canada"
+  },
+  {
+    "iata": "YPI",
+    "icao": "",
+    "airport_name": "port_simpson_water_aerodrome_(tc:_candapi)",
+    "location_served": "lax_kw'alaams_(port_simpson)__british_columbia__canada"
+  },
+  {
+    "iata": "YPJ",
+    "icao": "CYLA",
+    "airport_name": "aupaluk_airport",
+    "location_served": "aupaluk__quebec__canada"
+  },
+  {
+    "iata": "YPL",
+    "icao": "CYPL",
+    "airport_name": "pickle_lake_airport",
+    "location_served": "pickle_lake__ontario__canada"
+  },
+  {
+    "iata": "YPM",
+    "icao": "CYPM",
+    "airport_name": "pikangikum_airport",
+    "location_served": "pikangikum__ontario__canada"
+  },
+  {
+    "iata": "YPN",
+    "icao": "CYPN",
+    "airport_name": "port-menier_airport",
+    "location_served": "port-menier__quebec__canada"
+  },
+  {
+    "iata": "YPO",
+    "icao": "CYPO",
+    "airport_name": "peawanuck_airport",
+    "location_served": "peawanuck__ontario__canada"
+  },
+  {
+    "iata": "YPQ",
+    "icao": "CYPQ",
+    "airport_name": "peterborough_airport",
+    "location_served": "peterborough__ontario__canada"
+  },
+  {
+    "iata": "YPR",
+    "icao": "CYPR",
+    "airport_name": "prince_rupert_airport",
+    "location_served": "prince_rupert__british_columbia__canada"
+  },
+  {
+    "iata": "YPS",
+    "icao": "CYPD",
+    "airport_name": "port_hawkesbury_airport",
+    "location_served": "port_hawkesbury__nova_scotia__canada"
+  },
+  {
+    "iata": "YPT",
+    "icao": "",
+    "airport_name": "pender_harbour_water_aerodrome_(tc:_cagdapi)",
+    "location_served": "pender_harbour__british_columbia__canada"
+  },
+  {
+    "iata": "YPW",
+    "icao": "CYPW",
+    "airport_name": "powell_river_airport",
+    "location_served": "powell_river__british_columbia__canada"
+  },
+  {
+    "iata": "YPX",
+    "icao": "CYPX",
+    "airport_name": "puvirnituq_airport",
+    "location_served": "puvirnituq__quebec__canada"
+  },
+  {
+    "iata": "YPY",
+    "icao": "CYPY",
+    "airport_name": "fort_chipewyan_airport",
+    "location_served": "fort_chipewyan__alberta__canada"
+  },
+  {
+    "iata": "YPZ",
+    "icao": "CYPZ",
+    "airport_name": "burns_lake_airport",
+    "location_served": "burns_lake__british_columbia__canada"
+  },
+  {
+    "iata": "YQA",
+    "icao": "CYQA",
+    "airport_name": "muskoka_airport",
+    "location_served": "muskoka__ontario__canada"
+  },
+  {
+    "iata": "YQB",
+    "icao": "CYQB",
+    "airport_name": "québec_city_jean_lesage_international_airport",
+    "location_served": "quebec_city__quebec__canada"
+  },
+  {
+    "iata": "YQC",
+    "icao": "CYHA",
+    "airport_name": "quaqtaq_airport",
+    "location_served": "quaqtaq__quebec__canada"
+  },
+  {
+    "iata": "YQD",
+    "icao": "CYQD",
+    "airport_name": "the_pas_airport",
+    "location_served": "the_pas__manitoba__canada"
+  },
+  {
+    "iata": "YQF",
+    "icao": "CYQF",
+    "airport_name": "red_deer_regional_airport",
+    "location_served": "red_deer__alberta__canada"
+  },
+  {
+    "iata": "YQG",
+    "icao": "CYQG",
+    "airport_name": "windsor_international_airport",
+    "location_served": "windsor__ontario__canada"
+  },
+  {
+    "iata": "YQH",
+    "icao": "CYQH",
+    "airport_name": "watson_lake_airport",
+    "location_served": "watson_lake__yukon__canada"
+  },
+  {
+    "iata": "YQI",
+    "icao": "CYQI",
+    "airport_name": "yarmouth_airport",
+    "location_served": "yarmouth__nova_scotia__canada"
+  },
+  {
+    "iata": "YQJ",
+    "icao": "",
+    "airport_name": "april_point_water_aerodrome[dapi]",
+    "location_served": "quadra_island__british_columbia__canada"
+  },
+  {
+    "iata": "YQK",
+    "icao": "CYQK",
+    "airport_name": "kenora_airport",
+    "location_served": "kenora__ontario__canada"
+  },
+  {
+    "iata": "YQL",
+    "icao": "CYQL",
+    "airport_name": "lethbridge_airport",
+    "location_served": "lethbridge__alberta__canada"
+  },
+  {
+    "iata": "YQM",
+    "icao": "CYQM",
+    "airport_name": "greater_moncton_international_airport",
+    "location_served": "moncton__new_brunswick__canada"
+  },
+  {
+    "iata": "YQN",
+    "icao": "CYQN",
+    "airport_name": "nakina_airport",
+    "location_served": "greenstone_(nakina)__ontario__canada"
+  },
+  {
+    "iata": "YQQ",
+    "icao": "CYQQ",
+    "airport_name": "cfb_comox",
+    "location_served": "comox__british_columbia__canada"
+  },
+  {
+    "iata": "YQR",
+    "icao": "CYQR",
+    "airport_name": "regina_international_airport",
+    "location_served": "regina__saskatchewan__canada"
+  },
+  {
+    "iata": "YQS",
+    "icao": "CYQS",
+    "airport_name": "st._thomas_municipal_airport",
+    "location_served": "st._thomas__ontario__canada"
+  },
+  {
+    "iata": "YQT",
+    "icao": "CYQT",
+    "airport_name": "thunder_bay_international_airport",
+    "location_served": "thunder_bay__ontario__canada"
+  },
+  {
+    "iata": "YQU",
+    "icao": "CYQU",
+    "airport_name": "grande_prairie_airport",
+    "location_served": "grande_prairie__alberta__canada"
+  },
+  {
+    "iata": "YQV",
+    "icao": "CYQV",
+    "airport_name": "yorkton_municipal_airport",
+    "location_served": "yorkton__saskatchewan__canada"
+  },
+  {
+    "iata": "YQW",
+    "icao": "CYQW",
+    "airport_name": "north_battleford_airport_(cameron_mcintosh_airport)",
+    "location_served": "north_battleford__saskatchewan__canada"
+  },
+  {
+    "iata": "YQX",
+    "icao": "CYQX",
+    "airport_name": "gander_international_airport_/_cfb_gander",
+    "location_served": "gander__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YQY",
+    "icao": "CYQY",
+    "airport_name": "sydney/j.a._douglas_mccurdy_airport",
+    "location_served": "sydney__nova_scotia__canada"
+  },
+  {
+    "iata": "YQZ",
+    "icao": "CYQZ",
+    "airport_name": "quesnel_airport",
+    "location_served": "quesnel__british_columbia__canada"
+  },
+  {
+    "iata": "YRA",
+    "icao": "CYRA",
+    "airport_name": "gamètì/rae_lakes_airport",
+    "location_served": "gamèti__northwest_territories__canada"
+  },
+  {
+    "iata": "YRB",
+    "icao": "CYRB",
+    "airport_name": "resolute_bay_airport",
+    "location_served": "resolute__nunavut__canada"
+  },
+  {
+    "iata": "YRC",
+    "icao": "",
+    "airport_name": "refuge_cove_water_aerodrome[dapi]",
+    "location_served": "refuge_cove__british_columbia__canada"
+  },
+  {
+    "iata": "YRD",
+    "icao": "",
+    "airport_name": "dean_river_airport",
+    "location_served": "dean_river__british_columbia__canada"
+  },
+  {
+    "iata": "YRF",
+    "icao": "CYCA",
+    "airport_name": "cartwright_airport",
+    "location_served": "cartwright__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YRG",
+    "icao": "",
+    "airport_name": "rigolet_airport_(tc:_cczdapi)",
+    "location_served": "rigolet__newfoundland_and_labrador__canada"
+  },
+  {
+    "iata": "YRI",
+    "icao": "CYRI",
+    "airport_name": "rivière-du-loup_airport",
+    "location_served": "rivière-du-loup__quebec__canada"
+  },
+  {
+    "iata": "YRJ",
+    "icao": "CYRJ",
+    "airport_name": "roberval_airport",
+    "location_served": "roberval__quebec__canada"
+  },
+  {
+    "iata": "YRL",
+    "icao": "CYRL",
+    "airport_name": "red_lake_airport",
+    "location_served": "red_lake__ontario__canada"
+  },
+  {
+    "iata": "YRM",
+    "icao": "CYRM",
+    "airport_name": "rocky_mountain_house_airport",
+    "location_served": "rocky_mountain_house__alberta__canada"
+  },
+  {
+    "iata": "YRN",
+    "icao": "",
+    "airport_name": "rivers_inlet_water_aerodrome_(tc:_caudapi)",
+    "location_served": "rivers_inlet__british_columbia__canada"
+  },
+  {
+    "iata": "YRO",
+    "icao": "CYRO",
+    "airport_name": "ottawa/rockcliffe_airport",
+    "location_served": "ottawa__ontario__canada"
+  },
+  {
+    "iata": "YRQ",
+    "icao": "CYRQ",
+    "airport_name": "trois-rivières_airport",
+    "location_served": "trois-rivières__quebec__canada"
+  },
+  {
+    "iata": "YRR",
+    "icao": "",
+    "airport_name": "stuart_island_airport",
+    "location_served": "stuart_island__british_columbia__canada"
+  },
+  {
+    "iata": "YRS",
+    "icao": "CYRS",
+    "airport_name": "red_sucker_lake_airport",
+    "location_served": "red_sucker_lake__manitoba__canada"
+  },
+  {
+    "iata": "YRT",
+    "icao": "CYRT",
+    "airport_name": "rankin_inlet_airport",
+    "location_served": "rankin_inlet__nunavut__canada"
+  },
+  {
+    "iata": "YRV",
+    "icao": "CYRV",
+    "airport_name": "revelstoke_airport",
+    "location_served": "revelstoke__british_columbia__canada"
+  },
+  {
+    "iata": "YSA",
+    "icao": "",
+    "airport_name": "sable_island_aerodrome",
+    "location_served": "sable_island__nova_scotia__canada"
+  },
+  {
+    "iata": "YSB",
+    "icao": "CYSB",
+    "airport_name": "sudbury_airport",
+    "location_served": "greater_sudbury__ontario__canada"
+  },
+  {
+    "iata": "YSC",
+    "icao": "CYSC",
+    "airport_name": "sherbrooke_airport",
+    "location_served": "sherbrooke__quebec__canada"
+  },
+  {
+    "iata": "YSE",
+    "icao": "CYSE",
+    "airport_name": "squamish_airport",
+    "location_served": "squamish__british_columbia__canada"
+  },
+  {
+    "iata": "YSF",
+    "icao": "CYSF",
+    "airport_name": "stony_rapids_airport",
+    "location_served": "stony_rapids__saskatchewan__canada"
+  },
+  {
+    "iata": "YSG",
+    "icao": "CYLK",
+    "airport_name": "lutselk'e_airport",
+    "location_served": "lutselk'e__northwest_territories__canada"
+  },
+  {
+    "iata": "YSH",
+    "icao": "CYSH",
+    "airport_name": "smiths_falls-montague_airport",
+    "location_served": "smiths_falls__ontario__canada"
+  },
+  {
+    "iata": "YSI",
+    "icao": "",
+    "airport_name": "parry_sound/frying_pan_island-sans_souci_water_aerodrome_(tc:_cpsdapi)",
+    "location_served": "fryingpan_island__ontario__canada"
+  },
+  {
+    "iata": "YSJ",
+    "icao": "CYSJ",
+    "airport_name": "saint_john_airport",
+    "location_served": "saint_john__new_brunswick__canada"
+  },
+  {
+    "iata": "YSK",
+    "icao": "CYSK",
+    "airport_name": "sanikiluaq_airport",
+    "location_served": "sanikiluaq__nunavut__canada"
+  },
+  {
+    "iata": "YSL",
+    "icao": "CYSL",
+    "airport_name": "saint-léonard_aerodrome",
+    "location_served": "saint-léonard__new_brunswick__canada"
+  },
+  {
+    "iata": "YSM",
+    "icao": "CYSM",
+    "airport_name": "fort_smith_airport",
+    "location_served": "fort_smith__northwest_territories__canada"
+  },
+  {
+    "iata": "YSN",
+    "icao": "CZAM",
+    "airport_name": "salmon_arm_airport",
+    "location_served": "salmon_arm"
+  }
+]

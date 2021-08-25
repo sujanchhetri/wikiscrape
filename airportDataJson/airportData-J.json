@@ -1,0 +1,548 @@
+[
+  {
+    "iata": "JAA",
+    "icao": "OAJL",
+    "airport_name": "jalalabad_airport",
+    "location_served": "jalalabad__afghanistan"
+  },
+  {
+    "iata": "JAB",
+    "icao": "YJAB",
+    "airport_name": "jabiru_airport",
+    "location_served": "jabiru__northern_territory__australia"
+  },
+  {
+    "iata": "JAC",
+    "icao": "KJAC",
+    "airport_name": "jackson_hole_airport",
+    "location_served": "jackson__wyoming__united_states"
+  },
+  {
+    "iata": "JAD",
+    "icao": "YPJT",
+    "airport_name": "jandakot_airport",
+    "location_served": "perth__western_australia__australia"
+  },
+  {
+    "iata": "JAE",
+    "icao": "SPJE",
+    "airport_name": "jaén_airport",
+    "location_served": "jaén__peru"
+  },
+  {
+    "iata": "JAF",
+    "icao": "VCCJ",
+    "airport_name": "jaffna_airport",
+    "location_served": "jaffna__sri_lanka"
+  },
+  {
+    "iata": "JAG",
+    "icao": "OPJA",
+    "airport_name": "paf_base_shahbaz",
+    "location_served": "jacobabad__pakistan"
+  },
+  {
+    "iata": "JAI",
+    "icao": "VIJP",
+    "airport_name": "jaipur_international_airport",
+    "location_served": "jaipur__rajasthan__india"
+  },
+  {
+    "iata": "JAK",
+    "icao": "MTJA",
+    "airport_name": "jacmel_airport",
+    "location_served": "jacmel__haiti"
+  },
+  {
+    "iata": "JAL",
+    "icao": "MMJA",
+    "airport_name": "el_lencero_airport",
+    "location_served": "xalapa_(jalapa)__veracruz__mexico"
+  },
+  {
+    "iata": "JAM",
+    "icao": "",
+    "airport_name": "bezmer_air_base",
+    "location_served": "yambol__bulgaria"
+  },
+  {
+    "iata": "JAN",
+    "icao": "KJAN",
+    "airport_name": "jackson–evers_international_airport",
+    "location_served": "jackson__mississippi__united_states"
+  },
+  {
+    "iata": "JAP",
+    "icao": "MRCH",
+    "airport_name": "chacarita_airport[dapi]",
+    "location_served": "puntarenas__costa_rica"
+  },
+  {
+    "iata": "JAQ",
+    "icao": "",
+    "airport_name": "jacquinot_bay_airport",
+    "location_served": "jacquinot_bay__papua_new_guinea"
+  },
+  {
+    "iata": "JAR",
+    "icao": "OISJ",
+    "airport_name": "jahrom_airport[dapi]",
+    "location_served": "jahrom__iran"
+  },
+  {
+    "iata": "JAS",
+    "icao": "KJAS",
+    "airport_name": "jasper_county_airport_(bell_field)",
+    "location_served": "jasper__texas__united_states"
+  },
+  {
+    "iata": "JAT",
+    "icao": "",
+    "airport_name": "jabot_airport",
+    "location_served": "jabat_island__marshall_islands"
+  },
+  {
+    "iata": "JAU",
+    "icao": "SPJJ",
+    "airport_name": "francisco_carle_airport",
+    "location_served": "jauja__peru"
+  },
+  {
+    "iata": "JAV",
+    "icao": "BGJN",
+    "airport_name": "ilulissat_airport",
+    "location_served": "ilulissat__greenland"
+  },
+  {
+    "iata": "JAX",
+    "icao": "KJAX",
+    "airport_name": "jacksonville_international_airport",
+    "location_served": "jacksonville__florida__united_states"
+  },
+  {
+    "iata": "JBB",
+    "icao": "WARE",
+    "airport_name": "notohadinegoro_airport",
+    "location_served": "jember__indonesia"
+  },
+  {
+    "iata": "JBQ",
+    "icao": "MDJB",
+    "airport_name": "la_isabela_international_airport_(dr._joaquin_balaguer_int'l)",
+    "location_served": "la_isabela__dominican_republic"
+  },
+  {
+    "iata": "JBR",
+    "icao": "KJBR",
+    "airport_name": "jonesboro_municipal_airport",
+    "location_served": "jonesboro__arkansas__united_states"
+  },
+  {
+    "iata": "JBS",
+    "icao": "SSSB",
+    "airport_name": "são_borja_airport",
+    "location_served": "são_borja__rio_grande_do_sul__brazil"
+  },
+  {
+    "iata": "JBT",
+    "icao": "",
+    "airport_name": "bethel_seaplane_base_(faa:_zdapidapi)",
+    "location_served": "bethel__alaska__united_states"
+  },
+  {
+    "iata": "JCB",
+    "icao": "SSJA",
+    "airport_name": "santa_terezinha_municipal_airport",
+    "location_served": "joaçaba__santa_catarina__brazil"
+  },
+  {
+    "iata": "JCI",
+    "icao": "KIXD",
+    "airport_name": "new_century_aircenter_(faa:_ixd)",
+    "location_served": "olathe__kansas__united_states"
+  },
+  {
+    "iata": "JCK",
+    "icao": "YJLC",
+    "airport_name": "julia_creek_airport",
+    "location_served": "julia_creek__queensland__australia"
+  },
+  {
+    "iata": "JCM",
+    "icao": "SNJB",
+    "airport_name": "jacobina_airport",
+    "location_served": "jacobina__bahia__brazil"
+  },
+  {
+    "iata": "JCR",
+    "icao": "SBEK",
+    "airport_name": "jacareacanga_airport",
+    "location_served": "jacareacanga__pará__brazil"
+  },
+  {
+    "iata": "JCT",
+    "icao": "KJCT",
+    "airport_name": "kimble_county_airport",
+    "location_served": "junction__texas__united_states"
+  },
+  {
+    "iata": "JCY",
+    "icao": "",
+    "airport_name": "lbj_ranch_airport_(faa:_dapitedapi)",
+    "location_served": "johnson_city__texas__united_states"
+  },
+  {
+    "iata": "JDA",
+    "icao": "KGCD",
+    "airport_name": "grant_county_regional_airport_(ogilvie_field)_(faa:_gcd)",
+    "location_served": "john_day__oregon__united_states"
+  },
+  {
+    "iata": "JDF",
+    "icao": "SBJF",
+    "airport_name": "francisco_álvares_de_assis_airport",
+    "location_served": "juiz_de_fora__minas_gerais__brazil"
+  },
+  {
+    "iata": "JDG",
+    "icao": "RKPD",
+    "airport_name": "jeongseok_airport",
+    "location_served": "seogwipo__south_korea"
+  },
+  {
+    "iata": "JDH",
+    "icao": "VIJO",
+    "airport_name": "jodhpur_airport",
+    "location_served": "jodhpur__rajasthan__india"
+  },
+  {
+    "iata": "JDN",
+    "icao": "KJDN",
+    "airport_name": "jordan_airport",
+    "location_served": "jordan__montana__united_states"
+  },
+  {
+    "iata": "JDO",
+    "icao": "SBJU",
+    "airport_name": "juazeiro_do_norte_airport",
+    "location_served": "juazeiro_do_norte__ceará__brazil"
+  },
+  {
+    "iata": "JDR",
+    "icao": "SNJR",
+    "airport_name": "prefeito_octávio_de_almeida_neves_airport[dapi]",
+    "location_served": "são_joão_del_rei__minas_gerais__brazil"
+  },
+  {
+    "iata": "JDZ",
+    "icao": "ZSJD",
+    "airport_name": "jingdezhen_luojia_airport",
+    "location_served": "jingdezhen__jiangxi__china"
+  },
+  {
+    "iata": "JED",
+    "icao": "OEJN",
+    "airport_name": "king_abdulaziz_international_airport",
+    "location_served": "jeddah__saudi_arabia"
+  },
+  {
+    "iata": "JEE",
+    "icao": "MTJE",
+    "airport_name": "jérémie_airport",
+    "location_served": "jérémie__haiti"
+  },
+  {
+    "iata": "JEF",
+    "icao": "KJEF",
+    "airport_name": "jefferson_city_memorial_airport",
+    "location_served": "jefferson_city__missouri__united_states"
+  },
+  {
+    "iata": "JEG",
+    "icao": "BGAA",
+    "airport_name": "aasiaat_airport",
+    "location_served": "aasiaat__greenland"
+  },
+  {
+    "iata": "JEJ",
+    "icao": "",
+    "airport_name": "jeh_airport",
+    "location_served": "jeh_island__ailinglaplap_atoll__marshall_islands"
+  },
+  {
+    "iata": "JEK",
+    "icao": "",
+    "airport_name": "jeki_airstrip[dapi]",
+    "location_served": "jeki__zambia"
+  },
+  {
+    "iata": "JEQ",
+    "icao": "SNJK",
+    "airport_name": "jequié_airport",
+    "location_served": "jequié__bahia__brazil"
+  },
+  {
+    "iata": "JER",
+    "icao": "EGJJ",
+    "airport_name": "jersey_airport",
+    "location_served": "jersey__channel_islands__united_kingdom"
+  },
+  {
+    "iata": "JFK",
+    "icao": "KJFK",
+    "airport_name": "john_f._kennedy_international_airport",
+    "location_served": "new_york_city__new_york__united_states"
+  },
+  {
+    "iata": "JFN",
+    "icao": "KHZY",
+    "airport_name": "northeast_ohio_regional_airport_(faa:_hzy)",
+    "location_served": "ashtabula__ohio__united_states"
+  },
+  {
+    "iata": "JFR",
+    "icao": "BGPT",
+    "airport_name": "paamiut_airport",
+    "location_served": "paamiut__greenland"
+  },
+  {
+    "iata": "JGA",
+    "icao": "VAJM",
+    "airport_name": "jamnagar_airport_(govardhanpur_airport)",
+    "location_served": "jamnagar__gujarat__india"
+  },
+  {
+    "iata": "JGB",
+    "icao": "",
+    "airport_name": "jagdalpur_airport",
+    "location_served": "jagdalpur__chhattisgarh__india"
+  },
+  {
+    "iata": "JGD",
+    "icao": "ZYJD",
+    "airport_name": "jiagedaqi_airport",
+    "location_served": "jiagedaqi__heilongjiang__china"
+  },
+  {
+    "iata": "JGN",
+    "icao": "ZLJQ",
+    "airport_name": "jiayuguan_airport",
+    "location_served": "jiayuguan__gansu__china"
+  },
+  {
+    "iata": "JGS",
+    "icao": "ZSJA",
+    "airport_name": "jinggangshan_airport",
+    "location_served": "ji'an__jiangxi__china"
+  },
+  {
+    "iata": "JHB",
+    "icao": "WMKJ",
+    "airport_name": "senai_international_airport",
+    "location_served": "johor_bahru__johor__malaysia"
+  },
+  {
+    "iata": "JHG",
+    "icao": "ZPJH",
+    "airport_name": "xishuangbanna_gasa_airport",
+    "location_served": "jinghong__yunnan__china"
+  },
+  {
+    "iata": "JHL",
+    "icao": "",
+    "airport_name": "fort_mackay/albian_aerodrome[dapi]_(tc:_caldapi)",
+    "location_served": "fort_mckay__alberta__canada"
+  },
+  {
+    "iata": "JHM",
+    "icao": "PHJH",
+    "airport_name": "kapalua_airport",
+    "location_served": "kapalua__hawaii__united_states"
+  },
+  {
+    "iata": "JHS",
+    "icao": "BGSS",
+    "airport_name": "sisimiut_airport",
+    "location_served": "sisimiut__greenland"
+  },
+  {
+    "iata": "JHW",
+    "icao": "KJHW",
+    "airport_name": "chautauqua_county-jamestown_airport",
+    "location_served": "jamestown__new_york__united_states"
+  },
+  {
+    "iata": "JIA",
+    "icao": "SWJN",
+    "airport_name": "juína_airport",
+    "location_served": "juína__mato_grosso__brazil"
+  },
+  {
+    "iata": "JIB",
+    "icao": "HDAM",
+    "airport_name": "djibouti–ambouli_international_airport",
+    "location_served": "djibouti__djibouti"
+  },
+  {
+    "iata": "JIC",
+    "icao": "ZLJC",
+    "airport_name": "jinchang_jinchuan_airport",
+    "location_served": "jinchang__gansu__china"
+  },
+  {
+    "iata": "JIJ",
+    "icao": "HAJJ",
+    "airport_name": "wilwal_international_airport",
+    "location_served": "jijiga__ethiopia"
+  },
+  {
+    "iata": "JIK",
+    "icao": "LGIK",
+    "airport_name": "ikaria_island_national_airport",
+    "location_served": "ikaria_island__greece"
+  },
+  {
+    "iata": "JIL",
+    "icao": "ZYJL",
+    "airport_name": "jilin_ertaizi_airport",
+    "location_served": "jilin_city__jilin__china"
+  },
+  {
+    "iata": "JIM",
+    "icao": "HAJM",
+    "airport_name": "aba_segud_airport",
+    "location_served": "jimma__ethiopia"
+  },
+  {
+    "iata": "JIN",
+    "icao": "HUJI",
+    "airport_name": "jinja_airport",
+    "location_served": "jinja__uganda"
+  },
+  {
+    "iata": "JIO",
+    "icao": "",
+    "airport_name": "jos_orno_imsula_airport",
+    "location_served": "tiakur__southwest_maluku__indonesia"
+  },
+  {
+    "iata": "JIP",
+    "icao": "SEJI",
+    "airport_name": "jipijapa_airport",
+    "location_served": "jipijapa__ecuador"
+  },
+  {
+    "iata": "JIQ",
+    "icao": "ZUQJ",
+    "airport_name": "qianjiang_wulingshan_airport",
+    "location_served": "qianjiang__chongqing__china"
+  },
+  {
+    "iata": "JIR",
+    "icao": "VNJI",
+    "airport_name": "jiri_airport",
+    "location_served": "jiri__nepal"
+  },
+  {
+    "iata": "JIU",
+    "icao": "ZSJJ",
+    "airport_name": "jiujiang_lushan_airport",
+    "location_served": "jiujiang__jiangxi__china"
+  },
+  {
+    "iata": "JIW",
+    "icao": "OPJI",
+    "airport_name": "jiwani_airport",
+    "location_served": "jiwani__pakistan"
+  },
+  {
+    "iata": "JJA",
+    "icao": "AGJO[DAPI]",
+    "airport_name": "jajao_airport[dapi]",
+    "location_served": "jajao__isabel_province__solomon_islands"
+  },
+  {
+    "iata": "JJD",
+    "icao": "SBJE",
+    "airport_name": "comte._ariston_pessoa_regional_airport[dapi]",
+    "location_served": "jijoca_de_jericoacoara__brazil"
+  },
+  {
+    "iata": "JJG",
+    "icao": "SBJA",
+    "airport_name": "humberto_ghizzo_bortoluzzi_regional_airport[dapi]",
+    "location_served": "jaguaruna__santa_catarina__brazil"
+  },
+  {
+    "iata": "JJI",
+    "icao": "SPJI",
+    "airport_name": "juanjuí_airport",
+    "location_served": "juanjuí__peru"
+  },
+  {
+    "iata": "JJM",
+    "icao": "HKMK",
+    "airport_name": "mulika_lodge_airport[dapi]",
+    "location_served": "meru_national_park__kenya"
+  },
+  {
+    "iata": "JJN",
+    "icao": "ZSQZ",
+    "airport_name": "quanzhou_jinjiang_international_airport",
+    "location_served": "quanzhou__fujian__china"
+  },
+  {
+    "iata": "JKG",
+    "icao": "ESGJ",
+    "airport_name": "jönköping_airport",
+    "location_served": "jönköping__sweden"
+  },
+  {
+    "iata": "JKH",
+    "icao": "LGHI",
+    "airport_name": "chios_island_national_airport",
+    "location_served": "chios__greece"
+  },
+  {
+    "iata": "JKL",
+    "icao": "LGKY",
+    "airport_name": "kalymnos_island_national_airport",
+    "location_served": "kalymnos__greece"
+  },
+  {
+    "iata": "JKR",
+    "icao": "VNJP",
+    "airport_name": "janakpur_airport",
+    "location_served": "janakpur__nepal"
+  },
+  {
+    "iata": "JKT[DAPI]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "jakarta__indonesia"
+  },
+  {
+    "iata": "JKV",
+    "icao": "KJSO",
+    "airport_name": "cherokee_county_airport_(faa:_jso)",
+    "location_served": "jacksonville__texas__united_states"
+  },
+  {
+    "iata": "JLA",
+    "icao": "",
+    "airport_name": "quartz_creek_airport",
+    "location_served": "cooper_landing__alaska__united_states"
+  },
+  {
+    "iata": "JLN",
+    "icao": "KJLN",
+    "airport_name": "joplin_regional_airport",
+    "location_served": "joplin__missouri__united_states"
+  },
+  {
+    "iata": "JLR",
+    "icao": "VAJB",
+    "airport_name": "jabalpur_airport_(dumna_airport)",
+    "location_served": "jabalpur"
+  }
+]

@@ -1,5 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const ObjectsToCsv = require("objects-to-csv");
+const xlsx = require("xlsx");
 
 async function scraper(option: any) {
   try {
@@ -69,9 +71,23 @@ async function scraper(option: any) {
       });
       return rowList;
     });
-    // Store output by creating json file for each airport code i.e. A-Z
+
+    // Store output by creating json file for each airport code i.e. A-Z in excel
+    const wb = xlsx.utils.book_new();
+    const ws = xlsx.utils.json_to_sheet(content);
+    xlsx.utils.book_append_sheet(wb, ws);
+    xlsx.writeFile(
+      wb,
+      `./airportDataxlsx/airportData-${option.index}.xlsx`
+    );
+
+    // Store output by creating json file for each airport code i.e. A-Z in csv
+    const csv = new ObjectsToCsv(content);
+    await csv.toDisk(`./airportDatacsv/airportData-${option.index}.csv`);
+
+    // Store output by creating json file for each airport code i.e. A-Z in json
     fs.writeFile(
-      `./airportData/airportData-${option.index}.json`,
+      `./airportDataJson/airportData-${option.index}.json`,
       JSON.stringify(content, null, 2),
       (err: any) => {
         if (err) {

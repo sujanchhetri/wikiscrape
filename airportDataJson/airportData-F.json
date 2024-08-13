@@ -1,0 +1,818 @@
+[
+  {
+    "iata": "FAA",
+    "icao": "GUFH",
+    "airport_name": "faranah_airport",
+    "location_served": "faranah__guinea"
+  },
+  {
+    "iata": "FAB",
+    "icao": "EGLF",
+    "airport_name": "farnborough_airport",
+    "location_served": "farnborough__england__united_kingdom"
+  },
+  {
+    "iata": "FAC",
+    "icao": "NTKF",
+    "airport_name": "faaite_airport",
+    "location_served": "faaite__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "FAE",
+    "icao": "EKVG",
+    "airport_name": "vágar_airport",
+    "location_served": "vágar__faroe_islands"
+  },
+  {
+    "iata": "FAF",
+    "icao": "KFAF",
+    "airport_name": "felker_army_airfield",
+    "location_served": "fort_eustis__virginia__united_states"
+  },
+  {
+    "iata": "FAG",
+    "icao": "BIFM",
+    "airport_name": "fagurhólsmýri_airport",
+    "location_served": "fagurhólsmýri__iceland"
+  },
+  {
+    "iata": "FAH",
+    "icao": "OAFR",
+    "airport_name": "farah_airport",
+    "location_served": "farah__afghanistan"
+  },
+  {
+    "iata": "FAI",
+    "icao": "PAFA",
+    "airport_name": "fairbanks_international_airport",
+    "location_served": "fairbanks__alaska__united_states"
+  },
+  {
+    "iata": "FAJ",
+    "icao": "TJFA",
+    "airport_name": "diego_jiménez_torres_airport_(faa:_xdapidapi)",
+    "location_served": "fajardo__puerto_rico__united_states"
+  },
+  {
+    "iata": "FAK",
+    "icao": "",
+    "airport_name": "false_island_seaplane_base_(faa:_dapizdapi)",
+    "location_served": "false_island__alaska__united_states"
+  },
+  {
+    "iata": "FAM",
+    "icao": "KFAM",
+    "airport_name": "farmington_regional_airport",
+    "location_served": "farmington__missouri__united_states"
+  },
+  {
+    "iata": "FAO",
+    "icao": "LPFR",
+    "airport_name": "faro_airport",
+    "location_served": "faro__portugal"
+  },
+  {
+    "iata": "FAQ",
+    "icao": "AYFR",
+    "airport_name": "frieda_river_airport",
+    "location_served": "frieda_river__papua_new_guinea"
+  },
+  {
+    "iata": "FAR",
+    "icao": "KFAR",
+    "airport_name": "hector_international_airport",
+    "location_served": "fargo__north_dakota__united_states"
+  },
+  {
+    "iata": "FAS",
+    "icao": "BIFF",
+    "airport_name": "fáskrúðsfjörður_airport",
+    "location_served": "fáskrúðsfjörður__iceland"
+  },
+  {
+    "iata": "FAT",
+    "icao": "KFAT",
+    "airport_name": "fresno_yosemite_international_airport",
+    "location_served": "fresno__california__united_states"
+  },
+  {
+    "iata": "FAU",
+    "icao": "OOFD",
+    "airport_name": "fahud_airport[dapi]",
+    "location_served": "fahud__oman"
+  },
+  {
+    "iata": "FAV",
+    "icao": "NTGF",
+    "airport_name": "fakarava_airport",
+    "location_served": "fakarava__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "FAY",
+    "icao": "KFAY",
+    "airport_name": "fayetteville_regional_airport_(grannis_field)",
+    "location_served": "fayetteville__north_carolina__united_states"
+  },
+  {
+    "iata": "FAZ",
+    "icao": "OISF",
+    "airport_name": "fasa_airport[dapi]",
+    "location_served": "fasa__iran"
+  },
+  {
+    "iata": "FBA",
+    "icao": "SWOB",
+    "airport_name": "fonte_boa_airport[dapi]",
+    "location_served": "fonte_boa__amazonas__brazil"
+  },
+  {
+    "iata": "FBD",
+    "icao": "OAFZ",
+    "airport_name": "fayzabad_airport",
+    "location_served": "fayzabad__afghanistan"
+  },
+  {
+    "iata": "FBE",
+    "icao": "SSFB",
+    "airport_name": "francisco_beltrão_airport_(paulo_abdala_airport)",
+    "location_served": "francisco_beltrão__paraná__brazil"
+  },
+  {
+    "iata": "FBG",
+    "icao": "KFBG",
+    "airport_name": "simmons_army_airfield",
+    "location_served": "fort_liberty__north_carolina__united_states"
+  },
+  {
+    "iata": "FBK",
+    "icao": "PAFB",
+    "airport_name": "ladd_army_airfield",
+    "location_served": "fairbanks__alaska__united_states"
+  },
+  {
+    "iata": "FBL",
+    "icao": "KFBL",
+    "airport_name": "faribault_municipal_airport",
+    "location_served": "faribault__minnesota__united_states"
+  },
+  {
+    "iata": "FBM",
+    "icao": "FZQA",
+    "airport_name": "lubumbashi_international_airport",
+    "location_served": "lubumbashi__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "FBR",
+    "icao": "KFBR",
+    "airport_name": "fort_bridger_airport",
+    "location_served": "fort_bridger__wyoming__united_states"
+  },
+  {
+    "iata": "FBS",
+    "icao": "",
+    "airport_name": "friday_harbor_seaplane_base_(faa:_wdapidapi)",
+    "location_served": "friday_harbor__washington__united_states"
+  },
+  {
+    "iata": "FBY",
+    "icao": "KFBY",
+    "airport_name": "fairbury_municipal_airport",
+    "location_served": "fairbury__nebraska__united_states"
+  },
+  {
+    "iata": "FCA",
+    "icao": "KGPI",
+    "airport_name": "glacier_park_international_airport_(faa:_gpi)",
+    "location_served": "kalispell__montana__united_states"
+  },
+  {
+    "iata": "FCB",
+    "icao": "FAFB",
+    "airport_name": "ficksburg_airport",
+    "location_served": "ficksburg__south_africa"
+  },
+  {
+    "iata": "FCH",
+    "icao": "KFCH",
+    "airport_name": "fresno_chandler_executive_airport",
+    "location_served": "fresno__california__united_states"
+  },
+  {
+    "iata": "FCM",
+    "icao": "KFCM",
+    "airport_name": "flying_cloud_airport",
+    "location_served": "eden_prairie__minnesota__united_states"
+  },
+  {
+    "iata": "FCN",
+    "icao": "ETMN",
+    "airport_name": "sea-airport_cuxhaven/nordholz",
+    "location_served": "cuxhaven__lower_saxony__germany"
+  },
+  {
+    "iata": "FCO",
+    "icao": "LIRF",
+    "airport_name": "leonardo_da_vinci–fiumicino_airport",
+    "location_served": "rome__lazio__italy"
+  },
+  {
+    "iata": "FCS",
+    "icao": "KFCS",
+    "airport_name": "butts_army_airfield_(fort_carson)",
+    "location_served": "colorado_springs__colorado__united_states"
+  },
+  {
+    "iata": "FCY",
+    "icao": "KFCY",
+    "airport_name": "forrest_city_municipal_airport",
+    "location_served": "forrest_city__arkansas__united_states"
+  },
+  {
+    "iata": "FDE",
+    "icao": "ENBL",
+    "airport_name": "førde_airport__bringeland",
+    "location_served": "førde__norway"
+  },
+  {
+    "iata": "FDF",
+    "icao": "TFFF",
+    "airport_name": "martinique_aimé_césaire_international_airport",
+    "location_served": "fort-de-france__martinique"
+  },
+  {
+    "iata": "FDH",
+    "icao": "EDNY",
+    "airport_name": "friedrichshafen_airport_(bodensee_airport)",
+    "location_served": "friedrichshafen__baden-württemberg__germany"
+  },
+  {
+    "iata": "FDK",
+    "icao": "KFDK",
+    "airport_name": "frederick_municipal_airport",
+    "location_served": "frederick__maryland__united_states"
+  },
+  {
+    "iata": "FDR",
+    "icao": "KFDR",
+    "airport_name": "frederick_regional_airport",
+    "location_served": "frederick__oklahoma__united_states"
+  },
+  {
+    "iata": "FDU",
+    "icao": "FZBO",
+    "airport_name": "bandundu_airport",
+    "location_served": "bandundu__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "FDY",
+    "icao": "KFDY",
+    "airport_name": "findlay_airport",
+    "location_served": "findlay__ohio__united_states"
+  },
+  {
+    "iata": "FEA",
+    "icao": "",
+    "airport_name": "fetlar_airport",
+    "location_served": "fetlar__scotland__united_kingdom"
+  },
+  {
+    "iata": "FEB",
+    "icao": "VNSR",
+    "airport_name": "sanfebagar_airport",
+    "location_served": "sanfebagar__nepal"
+  },
+  {
+    "iata": "FEC",
+    "icao": "SNJD",
+    "airport_name": "feira_de_santana_airport_(gov._joão_durval_carneiro_airport)",
+    "location_served": "feira_de_santana__bahia__brazil"
+  },
+  {
+    "iata": "FEG",
+    "icao": "UTKF",
+    "airport_name": "fergana_international_airport",
+    "location_served": "fergana__uzbekistan"
+  },
+  {
+    "iata": "FEJ",
+    "icao": "SNOU",
+    "airport_name": "feijó_airport",
+    "location_served": "feijó__acre__brazil"
+  },
+  {
+    "iata": "FEK",
+    "icao": "DIFK",
+    "airport_name": "ferkessédougou_airport",
+    "location_served": "ferkessédougou__ivory_coast"
+  },
+  {
+    "iata": "FEL",
+    "icao": "ETSF",
+    "airport_name": "fürstenfeldbruck_air_base",
+    "location_served": "fürstenfeldbruck__bavaria__germany"
+  },
+  {
+    "iata": "FEN",
+    "icao": "SBFN",
+    "airport_name": "fernando_de_noronha_airport_(gov._carlos_wilson_airport)",
+    "location_served": "fernando_de_noronha__pernambuco__brazil"
+  },
+  {
+    "iata": "FEP",
+    "icao": "KFEP",
+    "airport_name": "albertus_airport",
+    "location_served": "freeport__illinois__united_states"
+  },
+  {
+    "iata": "FET",
+    "icao": "KFET",
+    "airport_name": "fremont_municipal_airport",
+    "location_served": "fremont__nebraska__united_states"
+  },
+  {
+    "iata": "FEZ",
+    "icao": "GMFF",
+    "airport_name": "fes–saïss_airport",
+    "location_served": "fez__morocco"
+  },
+  {
+    "iata": "FFA",
+    "icao": "KFFA",
+    "airport_name": "first_flight_airport",
+    "location_served": "kill_devil_hills__north_carolina__united_states"
+  },
+  {
+    "iata": "FFD",
+    "icao": "EGVA",
+    "airport_name": "raf_fairford",
+    "location_served": "fairford__england__united_kingdom"
+  },
+  {
+    "iata": "FFL",
+    "icao": "KFFL",
+    "airport_name": "fairfield_municipal_airport",
+    "location_served": "fairfield__iowa__united_states"
+  },
+  {
+    "iata": "FFM",
+    "icao": "KFFM",
+    "airport_name": "fergus_falls_municipal_airport_(einar_mickelson_field)",
+    "location_served": "fergus_falls__minnesota__united_states"
+  },
+  {
+    "iata": "FFO",
+    "icao": "KFFO",
+    "airport_name": "wright-patterson_air_force_base_(first_flight-office)",
+    "location_served": "dayton__ohio__united_states"
+  },
+  {
+    "iata": "FFT",
+    "icao": "KFFT",
+    "airport_name": "capital_city_airport",
+    "location_served": "frankfort__kentucky__united_states"
+  },
+  {
+    "iata": "FFU",
+    "icao": "SCFT",
+    "airport_name": "futaleufú_airfield",
+    "location_served": "futaleufú__chile"
+  },
+  {
+    "iata": "FGD",
+    "icao": "GQPF",
+    "airport_name": "fderik_airport",
+    "location_served": "fderîck__mauritania"
+  },
+  {
+    "iata": "FGI",
+    "icao": "NSFI",
+    "airport_name": "fagali'i_airport",
+    "location_served": "apia__upolu_island__samoa"
+  },
+  {
+    "iata": "FGU",
+    "icao": "NTGB",
+    "airport_name": "fangatau_airport",
+    "location_served": "fangatau__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "FHU",
+    "icao": "KFHU",
+    "airport_name": "sierra_vista_municipal_airport_(libby_army_airfield)",
+    "location_served": "sierra_vista__arizona__united_states"
+  },
+  {
+    "iata": "FHZ",
+    "icao": "NTKH",
+    "airport_name": "fakahina_airport",
+    "location_served": "fakahina__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "FID",
+    "icao": "",
+    "airport_name": "elizabeth_field_(faa:_dapibdapi)",
+    "location_served": "fishers_island__new_york__united_states"
+  },
+  {
+    "iata": "FIE",
+    "icao": "EGEF",
+    "airport_name": "fair_isle_airport",
+    "location_served": "fair_isle__scotland__united_kingdom"
+  },
+  {
+    "iata": "FIG",
+    "icao": "GUFA",
+    "airport_name": "fria_airport",
+    "location_served": "fria__guinea"
+  },
+  {
+    "iata": "FIH",
+    "icao": "FZAA",
+    "airport_name": "n'djili_airport_(kinshasa_int'l_airport)",
+    "location_served": "kinshasa__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "FIK",
+    "icao": "YFNE",
+    "airport_name": "finke_airport",
+    "location_served": "finke_(aputula)__northern_territory__australia"
+  },
+  {
+    "iata": "FIL",
+    "icao": "KFOM",
+    "airport_name": "fillmore_municipal_airport_(faa:_fom)",
+    "location_served": "fillmore__utah__united_states"
+  },
+  {
+    "iata": "FIN",
+    "icao": "AYFI",
+    "airport_name": "finschhafen_airport",
+    "location_served": "finschhafen__papua_new_guinea"
+  },
+  {
+    "iata": "FIZ",
+    "icao": "YFTZ",
+    "airport_name": "fitzroy_crossing_airport",
+    "location_served": "fitzroy_crossing__western_australia__australia"
+  },
+  {
+    "iata": "FJR",
+    "icao": "OMFJ",
+    "airport_name": "fujairah_international_airport",
+    "location_served": "fujairah__united_arab_emirates"
+  },
+  {
+    "iata": "FKB",
+    "icao": "EDSB",
+    "airport_name": "karlsruhe/baden-baden_airport",
+    "location_served": "karlsruhe_/_baden-baden__baden-württemberg__germany"
+  },
+  {
+    "iata": "FKI",
+    "icao": "FZIC",
+    "airport_name": "bangoka_international_airport",
+    "location_served": "kisangani__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "FKJ",
+    "icao": "RJNF",
+    "airport_name": "fukui_airport",
+    "location_served": "fukui__honshu__japan"
+  },
+  {
+    "iata": "FKL",
+    "icao": "KFKL",
+    "airport_name": "venango_regional_airport_(chess_lamberton_field)",
+    "location_served": "franklin__pennsylvania__united_states"
+  },
+  {
+    "iata": "FKN",
+    "icao": "KFKN",
+    "airport_name": "franklin_municipal–john_beverly_rose_airport",
+    "location_served": "franklin__virginia__united_states"
+  },
+  {
+    "iata": "FKQ",
+    "icao": "WASF",
+    "airport_name": "fakfak_torea_airport",
+    "location_served": "fakfak__indonesia"
+  },
+  {
+    "iata": "FKS",
+    "icao": "RJSF",
+    "airport_name": "fukushima_airport",
+    "location_served": "sukagawa__honshu__japan"
+  },
+  {
+    "iata": "FLA",
+    "icao": "SKFL",
+    "airport_name": "gustavo_artunduaga_paredes_airport",
+    "location_served": "florencia_(caquetá)__colombia"
+  },
+  {
+    "iata": "FLB",
+    "icao": "SNQG",
+    "airport_name": "cangapara_airport",
+    "location_served": "floriano__piauí__brazil"
+  },
+  {
+    "iata": "FLD",
+    "icao": "KFLD",
+    "airport_name": "fond_du_lac_county_airport",
+    "location_served": "fond_du_lac__wisconsin__united_states"
+  },
+  {
+    "iata": "FLF",
+    "icao": "EDXF",
+    "airport_name": "flensburg-schäferhaus_airport",
+    "location_served": "flensburg__schleswig-holstein__germany"
+  },
+  {
+    "iata": "FLG",
+    "icao": "KFLG",
+    "airport_name": "flagstaff_pulliam_airport",
+    "location_served": "flagstaff__arizona__united_states"
+  },
+  {
+    "iata": "FLH",
+    "icao": "",
+    "airport_name": "flotta_isle_airport",
+    "location_served": "flotta__scotland__united_kingdom"
+  },
+  {
+    "iata": "FLI",
+    "icao": "",
+    "airport_name": "holt_airport",
+    "location_served": "flateyri__iceland"
+  },
+  {
+    "iata": "FLL",
+    "icao": "KFLL",
+    "airport_name": "fort_lauderdale–hollywood_international_airport",
+    "location_served": "fort_lauderdale_/_hollywood__florida__united_states"
+  },
+  {
+    "iata": "FLM",
+    "icao": "SGFI",
+    "airport_name": "filadelfia_airport",
+    "location_served": "filadelfia__paraguay"
+  },
+  {
+    "iata": "FLN",
+    "icao": "SBFL",
+    "airport_name": "hercílio_luz_international_airport",
+    "location_served": "florianópolis__santa_catarina__brazil"
+  },
+  {
+    "iata": "FLO",
+    "icao": "KFLO",
+    "airport_name": "florence_regional_airport",
+    "location_served": "florence__south_carolina__united_states"
+  },
+  {
+    "iata": "FLP",
+    "icao": "KFLP",
+    "airport_name": "marion_county_regional_airport",
+    "location_served": "flippin__arkansas__united_states"
+  },
+  {
+    "iata": "FLR",
+    "icao": "LIRQ",
+    "airport_name": "florence_airport__peretola_(amerigo_vespucci_airport)",
+    "location_served": "florence__tuscany__italy"
+  },
+  {
+    "iata": "FLS",
+    "icao": "YFLI",
+    "airport_name": "flinders_island_airport",
+    "location_served": "flinders_island__tasmania__australia"
+  },
+  {
+    "iata": "FLT",
+    "icao": "",
+    "airport_name": "flat_airport",
+    "location_served": "flat__alaska__united_states"
+  },
+  {
+    "iata": "FLV",
+    "icao": "KFLV",
+    "airport_name": "sherman_army_airfield",
+    "location_served": "fort_leavenworth__kansas__united_states"
+  },
+  {
+    "iata": "FLW",
+    "icao": "LPFL",
+    "airport_name": "flores_airport",
+    "location_served": "flores_island__azores__portugal"
+  },
+  {
+    "iata": "FLX",
+    "icao": "KFLX",
+    "airport_name": "fallon_municipal_airport",
+    "location_served": "fallon__nevada__united_states"
+  },
+  {
+    "iata": "FLY",
+    "icao": "YFIL",
+    "airport_name": "finley_airport",
+    "location_served": "finley__new_south_wales__australia"
+  },
+  {
+    "iata": "FLZ",
+    "icao": "WIMS",
+    "airport_name": "ferdinand_lumban_tobing_airport[dapi]",
+    "location_served": "sibolga__indonesia"
+  },
+  {
+    "iata": "FMA",
+    "icao": "SARF",
+    "airport_name": "formosa_international_airport_(el_pucú_airport)",
+    "location_served": "formosa__argentina"
+  },
+  {
+    "iata": "FME",
+    "icao": "KFME",
+    "airport_name": "tipton_airport",
+    "location_served": "fort_meade_/_odenton__maryland__united_states"
+  },
+  {
+    "iata": "FMH",
+    "icao": "KFMH",
+    "airport_name": "otis_air_national_guard_base",
+    "location_served": "falmouth__massachusetts__united_states"
+  },
+  {
+    "iata": "FMI",
+    "icao": "FZRF",
+    "airport_name": "kalemie_airport",
+    "location_served": "kalemie__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "FMM",
+    "icao": "EDJA",
+    "airport_name": "memmingen_airport",
+    "location_served": "memmingen__bavaria__germany"
+  },
+  {
+    "iata": "FMN",
+    "icao": "KFMN",
+    "airport_name": "four_corners_regional_airport",
+    "location_served": "farmington__new_mexico__united_states"
+  },
+  {
+    "iata": "FMO",
+    "icao": "EDDG",
+    "airport_name": "münster_osnabrück_airport",
+    "location_served": "münster_/_osnabrück_(ls)__north_rhine-westphalia__germany"
+  },
+  {
+    "iata": "FMS",
+    "icao": "KFSW",
+    "airport_name": "fort_madison_municipal_airport_(faa:_fsw)",
+    "location_served": "fort_madison__iowa__united_states"
+  },
+  {
+    "iata": "FMU",
+    "icao": "",
+    "airport_name": "florence_municipal_airport[dapi]_(faa:_dapisdapi)",
+    "location_served": "florence__oregon__united_states"
+  },
+  {
+    "iata": "FMY",
+    "icao": "KFMY",
+    "airport_name": "page_field",
+    "location_served": "fort_myers__florida__united_states"
+  },
+  {
+    "iata": "FNA",
+    "icao": "GFLL",
+    "airport_name": "lungi_international_airport",
+    "location_served": "freetown__sierra_leone"
+  },
+  {
+    "iata": "FNB",
+    "icao": "ETNU",
+    "airport_name": "neubrandenburg_airport",
+    "location_served": "neubrandenburg__mecklenburg-vorpommern__germany"
+  },
+  {
+    "iata": "FNC",
+    "icao": "LPMA",
+    "airport_name": "madeira_airport",
+    "location_served": "funchal__madeira__portugal"
+  },
+  {
+    "iata": "FND",
+    "icao": "",
+    "airport_name": "funadhoo_airport",
+    "location_served": "funadhoo__shaviyani_atoll__maldives"
+  },
+  {
+    "iata": "FNE",
+    "icao": "AYFA",
+    "airport_name": "fane_airport",
+    "location_served": "fane__papua_new_guinea"
+  },
+  {
+    "iata": "FNG",
+    "icao": "DFEF",
+    "airport_name": "fada_n'gourma_airport",
+    "location_served": "fada_n'gourma__burkina_faso"
+  },
+  {
+    "iata": "FNH",
+    "icao": "HAFN",
+    "airport_name": "fincha_airport",
+    "location_served": "fincha__ethiopia"
+  },
+  {
+    "iata": "FNI",
+    "icao": "LFTW",
+    "airport_name": "nîmes–alès–camargue–cévennes_airport_(garons_airport)",
+    "location_served": "nîmes__languedoc-roussillon__france"
+  },
+  {
+    "iata": "FNJ",
+    "icao": "ZKPY",
+    "airport_name": "pyongyang_sunan_international_airport",
+    "location_served": "pyongyang__north_korea"
+  },
+  {
+    "iata": "FNL",
+    "icao": "KFNL",
+    "airport_name": "fort_collins–loveland_municipal_airport",
+    "location_served": "fort_collins/loveland__colorado__united_states"
+  },
+  {
+    "iata": "FNR",
+    "icao": "PANR",
+    "airport_name": "funter_bay_seaplane_base",
+    "location_served": "funter_bay__alaska__united_states"
+  },
+  {
+    "iata": "FNT",
+    "icao": "KFNT",
+    "airport_name": "bishop_international_airport",
+    "location_served": "flint__michigan__united_states"
+  },
+  {
+    "iata": "FNU",
+    "icao": "LIER",
+    "airport_name": "oristano-fenosu_airport[dapi]",
+    "location_served": "oristano__sardinia__italy"
+  },
+  {
+    "iata": "FOA",
+    "icao": "",
+    "airport_name": "foula_airfield",
+    "location_served": "foula__scotland__united_kingdom"
+  },
+  {
+    "iata": "FOB",
+    "icao": "",
+    "airport_name": "fort_bragg_airport_(faa:_dapidapicl)",
+    "location_served": "fort_bragg__california__united_states"
+  },
+  {
+    "iata": "FOC",
+    "icao": "ZSFZ",
+    "airport_name": "fuzhou_changle_international_airport",
+    "location_served": "fuzhou__fujian__china"
+  },
+  {
+    "iata": "FOD",
+    "icao": "KFOD",
+    "airport_name": "fort_dodge_regional_airport",
+    "location_served": "fort_dodge__iowa__united_states"
+  },
+  {
+    "iata": "FOE",
+    "icao": "KFOE",
+    "airport_name": "topeka_regional_airport",
+    "location_served": "topeka__kansas__united_states"
+  },
+  {
+    "iata": "FOG",
+    "icao": "LIBF",
+    "airport_name": "foggia_\"gino_lisa\"_airport",
+    "location_served": "foggia__apulia__italy"
+  },
+  {
+    "iata": "FOK",
+    "icao": "KFOK",
+    "airport_name": "francis_s._gabreski_airport",
+    "location_served": "westhampton_beach__new_york__united_states"
+  },
+  {
+    "iata": "FOM",
+    "icao": "FKKM",
+    "airport_name": "foumban_nkounja_airport",
+    "location_served": "foumban__cameroon"
+  },
+  {
+    "iata": "FON",
+    "icao": "MRAN",
+    "airport_name": "la_fortuna_arenal_airport",
+    "location_served": "la_fortuna__costa_rica"
+  }
+]

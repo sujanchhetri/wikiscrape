@@ -1,0 +1,938 @@
+[
+  {
+    "iata": "NAA",
+    "icao": "YNBR",
+    "airport_name": "narrabri_airport[dapi]",
+    "location_served": "narrabri__new_south_wales__australia"
+  },
+  {
+    "iata": "NAC",
+    "icao": "YNRC",
+    "airport_name": "naracoorte_airport[dapi]",
+    "location_served": "naracoorte__south_australia__australia"
+  },
+  {
+    "iata": "NAD",
+    "icao": "",
+    "airport_name": "macanal_airport[dapi]",
+    "location_served": "macanal__colombia"
+  },
+  {
+    "iata": "NAE",
+    "icao": "DBBN",
+    "airport_name": "boundétingou_airport",
+    "location_served": "natitingou__benin"
+  },
+  {
+    "iata": "NAF",
+    "icao": "",
+    "airport_name": "banaina_airport[dapi]",
+    "location_served": "banaina__indonesia"
+  },
+  {
+    "iata": "NAG",
+    "icao": "VANP",
+    "airport_name": "dr._babasaheb_ambedkar_international_airport",
+    "location_served": "nagpur__maharashtra__india"
+  },
+  {
+    "iata": "NAH",
+    "icao": "WAMH",
+    "airport_name": "naha_airport",
+    "location_served": "tahuna__indonesia"
+  },
+  {
+    "iata": "NAI",
+    "icao": "SYAN",
+    "airport_name": "annai_airport",
+    "location_served": "annai__guyana"
+  },
+  {
+    "iata": "NAJ",
+    "icao": "UBBN",
+    "airport_name": "nakhchivan_international_airport",
+    "location_served": "nakhchivan__azerbaijan"
+  },
+  {
+    "iata": "NAK",
+    "icao": "VTUQ",
+    "airport_name": "nakhon_ratchasima_airport",
+    "location_served": "nakhon_ratchasima__thailand"
+  },
+  {
+    "iata": "NAL",
+    "icao": "URMN",
+    "airport_name": "nalchik_airport",
+    "location_served": "nalchik__kabardino-balkaria__russia"
+  },
+  {
+    "iata": "NAM",
+    "icao": "WAPR",
+    "airport_name": "namlea_airport[dapi]",
+    "location_served": "namlea__indonesia"
+  },
+  {
+    "iata": "NAN",
+    "icao": "NFFN",
+    "airport_name": "nadi_international_airport",
+    "location_served": "nadi__fiji"
+  },
+  {
+    "iata": "NAO",
+    "icao": "ZUNC",
+    "airport_name": "nanchong_gaoping_airport",
+    "location_served": "nanchong__sichuan__china"
+  },
+  {
+    "iata": "NAP",
+    "icao": "LIRN",
+    "airport_name": "naples_international_airport",
+    "location_served": "naples__campania__italy"
+  },
+  {
+    "iata": "NAQ",
+    "icao": "BGQQ",
+    "airport_name": "qaanaaq_airport[dapi]",
+    "location_served": "qaanaaq__greenland"
+  },
+  {
+    "iata": "NAR",
+    "icao": "SKPN",
+    "airport_name": "puerto_nare_airport[dapi]",
+    "location_served": "puerto_nare__colombia"
+  },
+  {
+    "iata": "NAS",
+    "icao": "MYNN",
+    "airport_name": "lynden_pindling_international_airport",
+    "location_served": "nassau__new_providence__bahamas"
+  },
+  {
+    "iata": "NAT",
+    "icao": "SBNT",
+    "airport_name": "são_gonçalo_do_amarante–governador_aluízio_alves_international_airport",
+    "location_served": "natal__rio_grande_do_norte__brazil"
+  },
+  {
+    "iata": "NAU",
+    "icao": "NTGN",
+    "airport_name": "napuka_airport[dapi]",
+    "location_served": "napuka__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "NAV",
+    "icao": "LTAZ",
+    "airport_name": "nevşehir_kapadokya_airport",
+    "location_served": "nevşehir__turkey"
+  },
+  {
+    "iata": "NAW",
+    "icao": "VTSC",
+    "airport_name": "narathiwat_airport[dapi]",
+    "location_served": "narathiwat__thailand"
+  },
+  {
+    "iata": "NAY",
+    "icao": "ZBNY",
+    "airport_name": "beijing_nanyuan_airport",
+    "location_served": "beijing__china"
+  },
+  {
+    "iata": "NAZ",
+    "icao": "AGNA",
+    "airport_name": "nana_airport[dapi]",
+    "location_served": "star_harbour__solomon_islands"
+  },
+  {
+    "iata": "NBA",
+    "icao": "",
+    "airport_name": "nambaiyufa_airport[dapi]",
+    "location_served": "nambaiyufa__papua_new_guinea"
+  },
+  {
+    "iata": "NBB",
+    "icao": "SKBM",
+    "airport_name": "barranco_minas_airport[dapi]",
+    "location_served": "barranco_minas__colombia"
+  },
+  {
+    "iata": "NBC",
+    "icao": "UWKE",
+    "airport_name": "begishevo_airport",
+    "location_served": "nizhnekamsk_/_naberezhnye_chelny__tatarstan__russia"
+  },
+  {
+    "iata": "NBE",
+    "icao": "DTNH",
+    "airport_name": "enfidha-hammamet_international_airport",
+    "location_served": "enfidha__tunisia"
+  },
+  {
+    "iata": "NBG",
+    "icao": "KNBG",
+    "airport_name": "nas_jrb_new_orleans_(alvin_callender_field)",
+    "location_served": "new_orleans__louisiana__united_states"
+  },
+  {
+    "iata": "NBH",
+    "icao": "YNHS",
+    "airport_name": "nambucca_heads_airport[dapi]",
+    "location_served": "nambucca_heads__new_south_wales__australia"
+  },
+  {
+    "iata": "NBL",
+    "icao": "MPWN",
+    "airport_name": "wannukandi_airport[dapi]",
+    "location_served": "san_blas__panama"
+  },
+  {
+    "iata": "NBN",
+    "icao": "FGAB",
+    "airport_name": "annobón_airport",
+    "location_served": "annobón__equatorial_guinea"
+  },
+  {
+    "iata": "NBO",
+    "icao": "HKJK",
+    "airport_name": "jomo_kenyatta_international_airport",
+    "location_served": "nairobi__kenya"
+  },
+  {
+    "iata": "NBS",
+    "icao": "ZYBS",
+    "airport_name": "changbaishan_airport",
+    "location_served": "baishan__jilin__china"
+  },
+  {
+    "iata": "NBW",
+    "icao": "KNBW",
+    "airport_name": "leeward_point_field",
+    "location_served": "guantánamo_bay__cuba"
+  },
+  {
+    "iata": "NBX",
+    "icao": "WABI",
+    "airport_name": "nabire_airport",
+    "location_served": "nabire__indonesia"
+  },
+  {
+    "iata": "NCA",
+    "icao": "MBNC",
+    "airport_name": "north_caicos_airport",
+    "location_served": "north_caicos__british_overseas_territory\nof_turks_and_caicos_islands"
+  },
+  {
+    "iata": "NCE",
+    "icao": "LFMN",
+    "airport_name": "nice_côte_d'azur_airport",
+    "location_served": "nice__provence-alpes-côte_d'azur__france"
+  },
+  {
+    "iata": "NCG",
+    "icao": "MMCG",
+    "airport_name": "nuevo_casas_grandes_municipal_airport",
+    "location_served": "nuevo_casas_grandes__chihuahua__mexico"
+  },
+  {
+    "iata": "NCH",
+    "icao": "HTNA",
+    "airport_name": "nachingwea_airport[dapi]",
+    "location_served": "nachingwea__tanzania"
+  },
+  {
+    "iata": "NCI",
+    "icao": "SKNC",
+    "airport_name": "antioquia_airport[dapi]",
+    "location_served": "necoclí__colombia"
+  },
+  {
+    "iata": "NCJ",
+    "icao": "SAFS",
+    "airport_name": "sunchales_aeroclub_airport[dapi]",
+    "location_served": "sunchales__santa_fe__argentina"
+  },
+  {
+    "iata": "NCL",
+    "icao": "EGNT",
+    "airport_name": "newcastle_airport",
+    "location_served": "newcastle_upon_tyne__england__united_kingdom"
+  },
+  {
+    "iata": "NCN",
+    "icao": "PFCB",
+    "airport_name": "chenega_bay_airport_(faa:_cdapidapi)",
+    "location_served": "chenega__alaska__united_states"
+  },
+  {
+    "iata": "NCO",
+    "icao": "KOQU",
+    "airport_name": "quonset_state_airport[dapi]_(faa:_oqu)",
+    "location_served": "north_kingstown__rhode_island__united_states"
+  },
+  {
+    "iata": "NCR",
+    "icao": "MNSC",
+    "airport_name": "san_carlos_airport[dapi]",
+    "location_served": "san_carlos__nicaragua"
+  },
+  {
+    "iata": "NCS",
+    "icao": "FANC",
+    "airport_name": "newcastle_airport[dapi]",
+    "location_served": "newcastle__south_africa"
+  },
+  {
+    "iata": "NCT",
+    "icao": "MRNC",
+    "airport_name": "nicoya_guanacaste_airport[dapi]",
+    "location_served": "nicoya__costa_rica"
+  },
+  {
+    "iata": "NCU",
+    "icao": "UTNN",
+    "airport_name": "nukus_airport",
+    "location_served": "nukus__uzbekistan"
+  },
+  {
+    "iata": "NCY",
+    "icao": "LFLP",
+    "airport_name": "annecy_–_haute-savoie_–_mont_blanc_airport",
+    "location_served": "annecy__rhône-alpes__france"
+  },
+  {
+    "iata": "NDA",
+    "icao": "WAPC",
+    "airport_name": "bandanaira_airport[dapi]",
+    "location_served": "banda_islands__indonesia"
+  },
+  {
+    "iata": "NDB",
+    "icao": "GQPP",
+    "airport_name": "nouadhibou_international_airport",
+    "location_served": "nouadhibou__mauritania"
+  },
+  {
+    "iata": "NDC",
+    "icao": "VAND",
+    "airport_name": "shri_guru_gobind_singh_ji_airport",
+    "location_served": "nanded__maharashtra__india"
+  },
+  {
+    "iata": "NDD",
+    "icao": "FNSU",
+    "airport_name": "sumbe_airport[dapi]",
+    "location_served": "sumbe__angola"
+  },
+  {
+    "iata": "NDE",
+    "icao": "HKMA",
+    "airport_name": "mandera_airport[dapi]",
+    "location_served": "mandera__kenya"
+  },
+  {
+    "iata": "NDF",
+    "icao": "",
+    "airport_name": "n'dalatando_airport[dapi]",
+    "location_served": "n'dalatando__angola"
+  },
+  {
+    "iata": "NDG",
+    "icao": "ZYQQ",
+    "airport_name": "qiqihar_sanjiazi_airport[dapi]",
+    "location_served": "qiqihar__heilongjiang__china"
+  },
+  {
+    "iata": "NDI",
+    "icao": "",
+    "airport_name": "namudi_airport[dapi]",
+    "location_served": "namudi__papua_new_guinea"
+  },
+  {
+    "iata": "NDJ",
+    "icao": "FTTJ",
+    "airport_name": "n'djamena_international_airport",
+    "location_served": "n'djamena__chad"
+  },
+  {
+    "iata": "NDK",
+    "icao": "",
+    "airport_name": "namorik_airport_(namdrik_airport)_(faa:_dapindapi)",
+    "location_served": "namdrik_atoll__marshall_islands"
+  },
+  {
+    "iata": "NDL",
+    "icao": "FEFN",
+    "airport_name": "n'délé_airport[dapi]",
+    "location_served": "n'délé_(ndele)__central_african_republic"
+  },
+  {
+    "iata": "NDM",
+    "icao": "HAMN",
+    "airport_name": "mendi_airport",
+    "location_served": "mendi__ethiopia"
+  },
+  {
+    "iata": "NDN",
+    "icao": "",
+    "airport_name": "nadunumu_airport[dapi]",
+    "location_served": "nadunumu__papua_new_guinea"
+  },
+  {
+    "iata": "NDP",
+    "icao": "",
+    "airport_name": "naval_air_station_ellyson_field[dapi]_(now_retired)",
+    "location_served": "pensacola__florida__united_states"
+  },
+  {
+    "iata": "NDR",
+    "icao": "GMMW",
+    "airport_name": "nador_international_airport",
+    "location_served": "nador__morocco"
+  },
+  {
+    "iata": "NDS",
+    "icao": "YSAN",
+    "airport_name": "sandstone_airport[dapi]",
+    "location_served": "sandstone__western_australia__australia"
+  },
+  {
+    "iata": "NDU",
+    "icao": "FYRU",
+    "airport_name": "rundu_airport",
+    "location_served": "rundu__namibia"
+  },
+  {
+    "iata": "NDY",
+    "icao": "EGES",
+    "airport_name": "sanday_airport",
+    "location_served": "sanday__scotland__united_kingdom"
+  },
+  {
+    "iata": "NEC",
+    "icao": "SAZO",
+    "airport_name": "necochea_airport",
+    "location_served": "necochea__buenos_aires__argentina"
+  },
+  {
+    "iata": "NEF",
+    "icao": "UWUF",
+    "airport_name": "neftekamsk_airport",
+    "location_served": "neftekamsk__bashkortostan__russia"
+  },
+  {
+    "iata": "NEG",
+    "icao": "MKNG",
+    "airport_name": "negril_aerodrome",
+    "location_served": "negril__jamaica"
+  },
+  {
+    "iata": "NEJ",
+    "icao": "HANJ",
+    "airport_name": "nejjo_airport[dapi]",
+    "location_served": "nejo__ethiopia"
+  },
+  {
+    "iata": "NEK",
+    "icao": "HANK",
+    "airport_name": "nekemte_airport[dapi]",
+    "location_served": "nekemte__ethiopia"
+  },
+  {
+    "iata": "NEL",
+    "icao": "KNEL",
+    "airport_name": "naes_lakehurst_(maxfield_field)",
+    "location_served": "lakehurst__new_jersey__united_states"
+  },
+  {
+    "iata": "NEN",
+    "icao": "KNEN",
+    "airport_name": "nolf_whitehouse",
+    "location_served": "jacksonville__florida__united_states"
+  },
+  {
+    "iata": "NER",
+    "icao": "UELL",
+    "airport_name": "chulman_neryungri_airport",
+    "location_served": "neryungri__yakutia__russia"
+  },
+  {
+    "iata": "NEU",
+    "icao": "VLSN",
+    "airport_name": "nathong_airport[dapi]",
+    "location_served": "xam_neua__laos"
+  },
+  {
+    "iata": "NEV",
+    "icao": "TKPN",
+    "airport_name": "vance_w._amory_international_airport",
+    "location_served": "nevis__saint_kitts_and_nevis"
+  },
+  {
+    "iata": "NEW",
+    "icao": "KNEW",
+    "airport_name": "lakefront_airport",
+    "location_served": "new_orleans__louisiana__united_states"
+  },
+  {
+    "iata": "NFG",
+    "icao": "USRN",
+    "airport_name": "nefteyugansk_airport",
+    "location_served": "nefteyugansk__khanty-mansi_autonomous_okrug__russia"
+  },
+  {
+    "iata": "NFL",
+    "icao": "KNFL",
+    "airport_name": "nas_fallon_(van_voorhis_field)",
+    "location_served": "fallon__nevada__united_states"
+  },
+  {
+    "iata": "NFO",
+    "icao": "NFTO",
+    "airport_name": "niuafo'ou_airport",
+    "location_served": "niuafo'ou__tonga"
+  },
+  {
+    "iata": "NFR",
+    "icao": "HLNR",
+    "airport_name": "nafoora_airport",
+    "location_served": "nafoora__libya"
+  },
+  {
+    "iata": "NGA",
+    "icao": "YYNG",
+    "airport_name": "young_airport[dapi]",
+    "location_served": "young__new_south_wales__australia"
+  },
+  {
+    "iata": "NGB",
+    "icao": "ZSNB",
+    "airport_name": "ningbo_lishe_international_airport",
+    "location_served": "ningbo__zhejiang__china"
+  },
+  {
+    "iata": "NGD",
+    "icao": "TUPA",
+    "airport_name": "auguste_george_airport",
+    "location_served": "anegada__british_overseas_territory_of_virgin_islands"
+  },
+  {
+    "iata": "NGE",
+    "icao": "FKKN",
+    "airport_name": "ngaoundéré_airport[dapi]",
+    "location_served": "ngaoundéré__cameroon"
+  },
+  {
+    "iata": "NGF",
+    "icao": "PHNG",
+    "airport_name": "mcas_kaneohe_bay[dapi]",
+    "location_served": "kaneohe__hawaii__united_states"
+  },
+  {
+    "iata": "NGI",
+    "icao": "NFNG",
+    "airport_name": "gau_airport[dapi]",
+    "location_served": "gau_island__fiji"
+  },
+  {
+    "iata": "NGK",
+    "icao": "UHSN",
+    "airport_name": "nogliki_airport[dapi]",
+    "location_served": "nogliki__sakhalin_oblast__russia"
+  },
+  {
+    "iata": "NGL",
+    "icao": "FANG",
+    "airport_name": "ngala_airfield[dapi]",
+    "location_served": "ngala__south_africa"
+  },
+  {
+    "iata": "NGN",
+    "icao": "",
+    "airport_name": "narganá_airport[dapi]",
+    "location_served": "narganá__panama"
+  },
+  {
+    "iata": "NGO",
+    "icao": "RJGG",
+    "airport_name": "chūbu_centrair_international_airport",
+    "location_served": "nagoya__honshu__japan"
+  },
+  {
+    "iata": "NGP",
+    "icao": "KNGP",
+    "airport_name": "nas_corpus_christi_(truax_field)",
+    "location_served": "corpus_christi__texas__united_states"
+  },
+  {
+    "iata": "NGQ",
+    "icao": "ZUAL",
+    "airport_name": "ngari_gunsa_airport",
+    "location_served": "shiquanhe__tibet_autonomous_region__china"
+  },
+  {
+    "iata": "NGR",
+    "icao": "",
+    "airport_name": "ningerum_airport[dapi]",
+    "location_served": "ningerum__papua_new_guinea"
+  },
+  {
+    "iata": "NGS",
+    "icao": "RJFU",
+    "airport_name": "nagasaki_airport",
+    "location_served": "nagasaki__kyushu__japan"
+  },
+  {
+    "iata": "NGU",
+    "icao": "KNGU",
+    "airport_name": "ns_norfolk_(chambers_field)",
+    "location_served": "norfolk__virginia__united_states"
+  },
+  {
+    "iata": "NGW",
+    "icao": "KNGW",
+    "airport_name": "nolf_cabaniss_field",
+    "location_served": "corpus_christi__texas__united_states"
+  },
+  {
+    "iata": "NGX",
+    "icao": "VNMA",
+    "airport_name": "manang_airport[dapi]",
+    "location_served": "manang__nepal"
+  },
+  {
+    "iata": "NHA",
+    "icao": "VVNT",
+    "airport_name": "nha_trang_air_base[dapi]",
+    "location_served": "nha_trang__vietnam"
+  },
+  {
+    "iata": "NHD",
+    "icao": "OMDM",
+    "airport_name": "al_minhad_air_base[dapi]",
+    "location_served": "dubai__united_arab_emirates"
+  },
+  {
+    "iata": "NHF",
+    "icao": "HSNW",
+    "airport_name": "new_halfa_airport[dapi]",
+    "location_served": "new_halfa__sudan"
+  },
+  {
+    "iata": "NHK",
+    "icao": "KNHK",
+    "airport_name": "nas_patuxent_river_(trapnell_field)",
+    "location_served": "patuxent_river__maryland__united_states"
+  },
+  {
+    "iata": "NHS",
+    "icao": "",
+    "airport_name": "nushki_airport[dapi]",
+    "location_served": "nushki__pakistan"
+  },
+  {
+    "iata": "NHT",
+    "icao": "EGWU",
+    "airport_name": "raf_northolt",
+    "location_served": "northolt__england__united_kingdom"
+  },
+  {
+    "iata": "NHV",
+    "icao": "NTMD",
+    "airport_name": "nuku_hiva_airport[dapi]",
+    "location_served": "nuku_hiva__marquesas_islands__french_polynesia"
+  },
+  {
+    "iata": "NHX",
+    "icao": "KNBJ",
+    "airport_name": "nolf_barin_(faa:_nbj)",
+    "location_served": "foley__alabama__united_states"
+  },
+  {
+    "iata": "NHZ",
+    "icao": "KBXM",
+    "airport_name": "brunswick_executive_airport",
+    "location_served": "brunswick__maine__united_states"
+  },
+  {
+    "iata": "NIA",
+    "icao": "GLNA",
+    "airport_name": "nimba_airport",
+    "location_served": "nimba__liberia"
+  },
+  {
+    "iata": "NIB",
+    "icao": "PAFS",
+    "airport_name": "nikolai_airport_(faa:_fsp)",
+    "location_served": "nikolai__alaska__united_states"
+  },
+  {
+    "iata": "NIC",
+    "icao": "LCNC",
+    "airport_name": "nicosia_international_airportdapi",
+    "location_served": "nicosia__cyprus"
+  },
+  {
+    "iata": "NIF",
+    "icao": "YCNF",
+    "airport_name": "nifty_airport[dapi]",
+    "location_served": "nifty_copper_mine__telfer__western_australia__australia"
+  },
+  {
+    "iata": "NIG",
+    "icao": "NGNU",
+    "airport_name": "nikunau_airport[dapi]",
+    "location_served": "nikunau__kiribati"
+  },
+  {
+    "iata": "NIK",
+    "icao": "",
+    "airport_name": "niokolo-koba_airport[dapi]",
+    "location_served": "niokolo-koba__senegal"
+  },
+  {
+    "iata": "NIM",
+    "icao": "DRRN",
+    "airport_name": "diori_hamani_international_airport",
+    "location_served": "niamey__niger"
+  },
+  {
+    "iata": "NIN",
+    "icao": "",
+    "airport_name": "ninilchik_airport",
+    "location_served": "ninilchik__alaska__united_states"
+  },
+  {
+    "iata": "NIO",
+    "icao": "FZBI",
+    "airport_name": "nioki_airport",
+    "location_served": "nioki__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "NIP",
+    "icao": "KNIP",
+    "airport_name": "nas_jacksonville_(towers_field)",
+    "location_served": "jacksonville__florida__united_states"
+  },
+  {
+    "iata": "NIR",
+    "icao": "",
+    "airport_name": "chase_field_industrial_complex[dapi]_(faa:_dapixadapi)",
+    "location_served": "beeville__texas__united_states"
+  },
+  {
+    "iata": "NIS",
+    "icao": "",
+    "airport_name": "simberi_airport",
+    "location_served": "simberi_island__papua_new_guinea"
+  },
+  {
+    "iata": "NIT",
+    "icao": "LFBN",
+    "airport_name": "niort_-_souché_airport[dapi]",
+    "location_served": "niort__poitou-charentes__france"
+  },
+  {
+    "iata": "NIU",
+    "icao": "NTKN",
+    "airport_name": "niau_airport[dapi]",
+    "location_served": "niau__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "NIX",
+    "icao": "GANR",
+    "airport_name": "nioro_airport",
+    "location_served": "nioro_du_sahel__mali"
+  },
+  {
+    "iata": "NJA",
+    "icao": "RJTA",
+    "airport_name": "naval_air_facility_atsugi[dapi]",
+    "location_served": "atsugi__honshu__japan"
+  },
+  {
+    "iata": "NJC",
+    "icao": "USNN",
+    "airport_name": "nizhnevartovsk_airport",
+    "location_served": "nizhnevartovsk__khanty-mansi_autonomous_okrug__russia"
+  },
+  {
+    "iata": "NJF",
+    "icao": "ORNI",
+    "airport_name": "al_najaf_international_airport",
+    "location_served": "al_najaf__iraq"
+  },
+  {
+    "iata": "NJK",
+    "icao": "KNJK",
+    "airport_name": "naf_el_centro",
+    "location_served": "el_centro__california__united_states"
+  },
+  {
+    "iata": "NKA",
+    "icao": "",
+    "airport_name": "nkan_airport[dapi]",
+    "location_served": "ntoum_(nkan)__gabon"
+  },
+  {
+    "iata": "NKB",
+    "icao": "",
+    "airport_name": "noonkanbah_airport[dapi]",
+    "location_served": "noonkanbah_station__western_australia__australia"
+  },
+  {
+    "iata": "NKC",
+    "icao": "GQNO",
+    "airport_name": "nouakchott–oumtounsy_international_airport",
+    "location_served": "nouakchott__mauritania"
+  },
+  {
+    "iata": "NKD",
+    "icao": "",
+    "airport_name": "sinak_airport[dapi]",
+    "location_served": "sinak__indonesia"
+  },
+  {
+    "iata": "NKG",
+    "icao": "ZSNJ",
+    "airport_name": "nanjing_lukou_international_airport",
+    "location_served": "nanjing__jiangsu__china"
+  },
+  {
+    "iata": "NKI",
+    "icao": "",
+    "airport_name": "naukati_bay_seaplane_base[dapi]_(faa:_akdapidapi)",
+    "location_served": "naukati_bay__alaska__united_states"
+  },
+  {
+    "iata": "NKL",
+    "icao": "FZAR",
+    "airport_name": "nkolo-fuma_airport",
+    "location_served": "kolo_fuma__democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "NKM",
+    "icao": "RJNA",
+    "airport_name": "nagoya_airfield_(komaki_airport)",
+    "location_served": "nagoya__honshu__japan"
+  },
+  {
+    "iata": "NKN",
+    "icao": "",
+    "airport_name": "nankina_airport[dapi]",
+    "location_served": "nankina__papua_new_guinea"
+  },
+  {
+    "iata": "NKO",
+    "icao": "",
+    "airport_name": "ankokoambo_airport[dapi]",
+    "location_served": "ankokoambo__madagascar"
+  },
+  {
+    "iata": "NKP",
+    "icao": "",
+    "airport_name": "nukutepipi_airport[dapi]",
+    "location_served": "nukutepipi__tuamotus__french_polynesia"
+  },
+  {
+    "iata": "NKS",
+    "icao": "FKAN",
+    "airport_name": "nkongsamba_airport",
+    "location_served": "nkongsamba__cameroon"
+  },
+  {
+    "iata": "NKT",
+    "icao": "LTCV",
+    "airport_name": "şırnak_airport",
+    "location_served": "şırnak_/_cizre__turkey"
+  },
+  {
+    "iata": "NKU",
+    "icao": "FXNK",
+    "airport_name": "nkaus_airport[dapi]",
+    "location_served": "nkau__lesotho"
+  },
+  {
+    "iata": "NKX",
+    "icao": "KNKX",
+    "airport_name": "mcas_miramar",
+    "location_served": "san_diego__california__united_states"
+  },
+  {
+    "iata": "NKY",
+    "icao": "FCBY",
+    "airport_name": "yokangassi_airport",
+    "location_served": "nkayi_(n'kayi)__republic_of_the_congo"
+  },
+  {
+    "iata": "NLA",
+    "icao": "FLND",
+    "airport_name": "simon_mwansa_kapwepwe_international_airport",
+    "location_served": "ndola__zambia"
+  },
+  {
+    "iata": "NLC",
+    "icao": "KNLC",
+    "airport_name": "nas_lemoore_(reeves_field)",
+    "location_served": "lemoore__california__united_states"
+  },
+  {
+    "iata": "NLD",
+    "icao": "MMNL",
+    "airport_name": "quetzalcóatl_international_airport",
+    "location_served": "nuevo_laredo__tamaulipas__mexico"
+  },
+  {
+    "iata": "NLE",
+    "icao": "",
+    "airport_name": "jerry_tyler_memorial_airport_(faa:_dapitr)",
+    "location_served": "niles__michigan__united_states"
+  },
+  {
+    "iata": "NLF",
+    "icao": "YDNI",
+    "airport_name": "darnley_island_airport[dapi]",
+    "location_served": "darnley_island__queensland__australia"
+  },
+  {
+    "iata": "NLG",
+    "icao": "PAOU",
+    "airport_name": "nelson_lagoon_airport_(faa:_oul)",
+    "location_served": "nelson_lagoon__alaska__united_states"
+  },
+  {
+    "iata": "NLH",
+    "icao": "",
+    "airport_name": "ninglang_luguhu_airport[dapi]",
+    "location_served": "ninglang__yunnan__china"
+  },
+  {
+    "iata": "NLI",
+    "icao": "UHNN",
+    "airport_name": "nikolayevsk-on-amur_airport",
+    "location_served": "nikolayevsk-on-amur__khabarovsk_krai__russia"
+  },
+  {
+    "iata": "NLK",
+    "icao": "YSNF",
+    "airport_name": "norfolk_island_airport",
+    "location_served": "norfolk_island__australia"
+  },
+  {
+    "iata": "NLL",
+    "icao": "YNUL",
+    "airport_name": "nullagine_airport[dapi]",
+    "location_served": "nullagine__western_australia__australia"
+  },
+  {
+    "iata": "NLN",
+    "icao": "",
+    "airport_name": "kneeland_airport[dapi]_(faa:_odapidapi)",
+    "location_served": "arcata_/_eureka__california__united_states"
+  },
+  {
+    "iata": "NLO",
+    "icao": "FZAB",
+    "airport_name": "n'dolo_airport[dapi]",
+    "location_served": "kinshasa__democratic_republic_of_the_congo"
+  }
+]

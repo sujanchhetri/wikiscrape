@@ -1,0 +1,1304 @@
+[
+  {
+    "iata": "DAA",
+    "icao": "KDAA",
+    "airport_name": "davison_army_airfield",
+    "location_served": "fort_belvoir__virginia__united_states"
+  },
+  {
+    "iata": "DAB",
+    "icao": "KDAB",
+    "airport_name": "daytona_beach_international_airport",
+    "location_served": "daytona_beach__florida__united_states"
+  },
+  {
+    "iata": "DAC",
+    "icao": "VGHS",
+    "airport_name": "shahjalal_international_airport",
+    "location_served": "dhaka__bangladesh"
+  },
+  {
+    "iata": "DAD",
+    "icao": "VVDN",
+    "airport_name": "da_nang_international_airport",
+    "location_served": "da_nang__vietnam"
+  },
+  {
+    "iata": "DAF",
+    "icao": "",
+    "airport_name": "daup_airport",
+    "location_served": "daup__papua_new_guinea"
+  },
+  {
+    "iata": "DAG",
+    "icao": "KDAG",
+    "airport_name": "barstow-daggett_airport",
+    "location_served": "daggett__california__united_states"
+  },
+  {
+    "iata": "DAH",
+    "icao": "",
+    "airport_name": "dathina_airport",
+    "location_served": "dathina__yemen"
+  },
+  {
+    "iata": "DAK",
+    "icao": "HEDK",
+    "airport_name": "dakhla_oasis_airport",
+    "location_served": "dakhla_oasis__egypt"
+  },
+  {
+    "iata": "DAL",
+    "icao": "KDAL",
+    "airport_name": "dallas_love_field",
+    "location_served": "dallas__texas__united_states"
+  },
+  {
+    "iata": "DAM",
+    "icao": "OSDI",
+    "airport_name": "damascus_international_airport",
+    "location_served": "damascus__syria"
+  },
+  {
+    "iata": "DAN",
+    "icao": "KDAN",
+    "airport_name": "danville_regional_airport",
+    "location_served": "danville__virginia__united_states"
+  },
+  {
+    "iata": "DAO",
+    "icao": "",
+    "airport_name": "dabo_airport[dapi]",
+    "location_served": "dabo__papua_new_guinea"
+  },
+  {
+    "iata": "DAP",
+    "icao": "VNDL",
+    "airport_name": "darchula_airport",
+    "location_served": "darchula__nepal"
+  },
+  {
+    "iata": "DAR",
+    "icao": "HTDA",
+    "airport_name": "julius_nyerere_international_airport",
+    "location_served": "dar_es_salaam__tanzania"
+  },
+  {
+    "iata": "DAS",
+    "icao": "",
+    "airport_name": "great_bear_lake_airport[dapi]_(tc:_cffdapi)",
+    "location_served": "great_bear_lake__northwest_territories__canada"
+  },
+  {
+    "iata": "DAT",
+    "icao": "ZBDT",
+    "airport_name": "datong_yungang_airport",
+    "location_served": "datong__shanxi__china"
+  },
+  {
+    "iata": "DAU",
+    "icao": "AYDU",
+    "airport_name": "daru_airport",
+    "location_served": "daru__papua_new_guinea"
+  },
+  {
+    "iata": "DAV",
+    "icao": "MPDA",
+    "airport_name": "enrique_malek_international_airport",
+    "location_served": "david__panama"
+  },
+  {
+    "iata": "DAX",
+    "icao": "ZUDX",
+    "airport_name": "dazhou_heshi_airport",
+    "location_served": "dazhou__sichuan__china"
+  },
+  {
+    "iata": "DAY",
+    "icao": "KDAY",
+    "airport_name": "dayton_international_airport",
+    "location_served": "dayton__ohio__united_states"
+  },
+  {
+    "iata": "DAZ",
+    "icao": "OADZ",
+    "airport_name": "darwaz_airport",
+    "location_served": "darwaz__afghanistan"
+  },
+  {
+    "iata": "DBA",
+    "icao": "OPDB",
+    "airport_name": "dalbandin_airport",
+    "location_served": "dalbandin__pakistan"
+  },
+  {
+    "iata": "DBB",
+    "icao": "HEAL[DAPI]",
+    "airport_name": "al_alamain_international_airport[dapi]",
+    "location_served": "el_alamein__egypt"
+  },
+  {
+    "iata": "DBC",
+    "icao": "ZYBA",
+    "airport_name": "baicheng_chang'an_airport[dapi]",
+    "location_served": "baicheng__jilin__china"
+  },
+  {
+    "iata": "DBD",
+    "icao": "VEDB",
+    "airport_name": "dhanbad_airport",
+    "location_served": "dhanbad__jharkhand__india"
+  },
+  {
+    "iata": "DBK",
+    "icao": "",
+    "airport_name": "dutch_bay_seaplane_base[dapi]",
+    "location_served": "kalpitiya__sri_lanka"
+  },
+  {
+    "iata": "DBM",
+    "icao": "HADM",
+    "airport_name": "debre_marqos_airport",
+    "location_served": "debre_marqos__ethiopia"
+  },
+  {
+    "iata": "DBN",
+    "icao": "KDBN",
+    "airport_name": "w._h._'bud'_barron_airport",
+    "location_served": "dublin__georgia__united_states"
+  },
+  {
+    "iata": "DBO",
+    "icao": "YSDU",
+    "airport_name": "dubbo_regional_airport",
+    "location_served": "dubbo__new_south_wales__australia"
+  },
+  {
+    "iata": "DBP",
+    "icao": "AYDB",
+    "airport_name": "debepare_airport",
+    "location_served": "debepare__papua_new_guinea"
+  },
+  {
+    "iata": "DBQ",
+    "icao": "KDBQ",
+    "airport_name": "dubuque_regional_airport",
+    "location_served": "dubuque__iowa__united_states"
+  },
+  {
+    "iata": "DBR",
+    "icao": "VEDAPIDAPI",
+    "airport_name": "darbhanga_airport",
+    "location_served": "darbhanga__bihar__india"
+  },
+  {
+    "iata": "DBS",
+    "icao": "",
+    "airport_name": "dubois_municipal_airport_(faa:_udapidapi)",
+    "location_served": "dubois__idaho__united_states"
+  },
+  {
+    "iata": "DBT",
+    "icao": "HADT",
+    "airport_name": "debre_tabor_airport",
+    "location_served": "debre_tabor__ethiopia"
+  },
+  {
+    "iata": "DBU",
+    "icao": "",
+    "airport_name": "dambulu_oya_tank_seaplane_base[dapi]",
+    "location_served": "dambulla__sri_lanka"
+  },
+  {
+    "iata": "DBV",
+    "icao": "LDDU",
+    "airport_name": "dubrovnik_airport",
+    "location_served": "dubrovnik__croatia"
+  },
+  {
+    "iata": "DBY",
+    "icao": "YDAY",
+    "airport_name": "dalby_airport",
+    "location_served": "dalby__queensland__australia"
+  },
+  {
+    "iata": "DCA",
+    "icao": "KDCA",
+    "airport_name": "ronald_reagan_washington_national_airport",
+    "location_served": "arlington_county_(near_washington__d.c.)__virginia__united_states"
+  },
+  {
+    "iata": "DCF",
+    "icao": "TDCF",
+    "airport_name": "canefield_airport",
+    "location_served": "canefield__dominica"
+  },
+  {
+    "iata": "DCG",
+    "icao": "",
+    "airport_name": "dubai_creek_seaplane_base[dapi]",
+    "location_served": "dubai__united_arab_emirates"
+  },
+  {
+    "iata": "DCI",
+    "icao": "LIED",
+    "airport_name": "decimomannu_air_base",
+    "location_served": "decimomannu__sardinia__italy"
+  },
+  {
+    "iata": "DCK",
+    "icao": "",
+    "airport_name": "dahl_creek_airport",
+    "location_served": "dahl_creek__alaska__united_states"
+  },
+  {
+    "iata": "DCM",
+    "icao": "LFCK",
+    "airport_name": "castres–mazamet_airport",
+    "location_served": "castres__midi-pyrénées__france"
+  },
+  {
+    "iata": "DCN",
+    "icao": "YCIN",
+    "airport_name": "raaf_base_curtin[dapi]",
+    "location_served": "derby__western_australia__australia"
+  },
+  {
+    "iata": "DCT",
+    "icao": "MYRD",
+    "airport_name": "duncan_town_airport",
+    "location_served": "duncan_town__ragged_island__bahamas"
+  },
+  {
+    "iata": "DCU",
+    "icao": "KDCU",
+    "airport_name": "pryor_field_regional_airport",
+    "location_served": "decatur__alabama__united_states"
+  },
+  {
+    "iata": "DCY",
+    "icao": "ZUDC",
+    "airport_name": "daocheng_yading_airport",
+    "location_served": "daocheng__sichuan__china"
+  },
+  {
+    "iata": "DDC",
+    "icao": "KDDC",
+    "airport_name": "dodge_city_regional_airport",
+    "location_served": "dodge_city__kansas__united_states"
+  },
+  {
+    "iata": "DDD",
+    "icao": "VRMU",
+    "airport_name": "dhaalu_airport",
+    "location_served": "dhaalu_atoll__maldives"
+  },
+  {
+    "iata": "DDG",
+    "icao": "ZYDD",
+    "airport_name": "dandong_langtou_airport",
+    "location_served": "dandong__liaoning__china"
+  },
+  {
+    "iata": "DDM",
+    "icao": "",
+    "airport_name": "dodoima_airport",
+    "location_served": "dodoima__papua_new_guinea"
+  },
+  {
+    "iata": "DDN",
+    "icao": "YDLT",
+    "airport_name": "delta_downs_airport",
+    "location_served": "delta_downs__queensland__australia"
+  },
+  {
+    "iata": "DDU",
+    "icao": "OPDD",
+    "airport_name": "dadu_airport",
+    "location_served": "dadu__pakistan"
+  },
+  {
+    "iata": "DEA",
+    "icao": "OPDG",
+    "airport_name": "dera_ghazi_khan_international_airport",
+    "location_served": "dera_ghazi_khan__pakistan"
+  },
+  {
+    "iata": "DEB",
+    "icao": "LHDC",
+    "airport_name": "debrecen_international_airport",
+    "location_served": "debrecen__hungary"
+  },
+  {
+    "iata": "DEC",
+    "icao": "KDEC",
+    "airport_name": "decatur_airport",
+    "location_served": "decatur__illinois__united_states"
+  },
+  {
+    "iata": "DED",
+    "icao": "VIDN",
+    "airport_name": "jolly_grant_airport",
+    "location_served": "dehradun__uttarakhand__india"
+  },
+  {
+    "iata": "DEE",
+    "icao": "UHSM",
+    "airport_name": "yuzhno-kurilsk_mendeleyevo_airport[dapi]",
+    "location_served": "yuzhno-kurilsk__sakhalin_oblast__russia"
+  },
+  {
+    "iata": "DEF",
+    "icao": "OIAD",
+    "airport_name": "dezful_airport",
+    "location_served": "dezful__iran"
+  },
+  {
+    "iata": "DEH",
+    "icao": "KDEH",
+    "airport_name": "decorah_municipal_airport",
+    "location_served": "decorah__iowa__united_states"
+  },
+  {
+    "iata": "DEI",
+    "icao": "FSSD",
+    "airport_name": "denis_island_airport",
+    "location_served": "denis_island__seychelles"
+  },
+  {
+    "iata": "DEL",
+    "icao": "VIDP",
+    "airport_name": "indira_gandhi_international_airport",
+    "location_served": "delhi__india"
+  },
+  {
+    "iata": "DEM",
+    "icao": "HADD",
+    "airport_name": "dembidolo_airport",
+    "location_served": "dembidolo__ethiopia"
+  },
+  {
+    "iata": "DEN",
+    "icao": "KDEN",
+    "airport_name": "denver_international_airport",
+    "location_served": "denver__colorado__united_states"
+  },
+  {
+    "iata": "DEP",
+    "icao": "VEDZ",
+    "airport_name": "daporijo_airport",
+    "location_served": "daporijo__arunachal_pradesh__india"
+  },
+  {
+    "iata": "DEQ",
+    "icao": "",
+    "airport_name": "deqing_moganshan_airport",
+    "location_served": "deqing__zhejiang__china"
+  },
+  {
+    "iata": "DER",
+    "icao": "AYDE",
+    "airport_name": "derim_airport",
+    "location_served": "derim__papua_new_guinea"
+  },
+  {
+    "iata": "DES",
+    "icao": "FSDR",
+    "airport_name": "desroches_airport",
+    "location_served": "desroches_island__seychelles"
+  },
+  {
+    "iata": "DET",
+    "icao": "KDET",
+    "airport_name": "coleman_a._young_international_airport",
+    "location_served": "detroit__michigan__united_states"
+  },
+  {
+    "iata": "DEX",
+    "icao": "",
+    "airport_name": "nop_goliat_dekai_airport[dapi]",
+    "location_served": "yahukimo__indonesia"
+  },
+  {
+    "iata": "DEZ",
+    "icao": "OSDZ",
+    "airport_name": "deir_ez-zor_airport",
+    "location_served": "deir_ez-zor__syria"
+  },
+  {
+    "iata": "DFI",
+    "icao": "KDFI",
+    "airport_name": "defiance_memorial_airport",
+    "location_served": "defiance__ohio__united_states"
+  },
+  {
+    "iata": "DFP",
+    "icao": "",
+    "airport_name": "drumduff_airport",
+    "location_served": "drumduff__queensland__australia"
+  },
+  {
+    "iata": "DFW",
+    "icao": "KDFW",
+    "airport_name": "dallas/fort_worth_international_airport",
+    "location_served": "dallas_/_fort_worth__texas__united_states"
+  },
+  {
+    "iata": "DGA",
+    "icao": "MZPB",
+    "airport_name": "dangriga_airport",
+    "location_served": "dangriga__belize"
+  },
+  {
+    "iata": "DGC",
+    "icao": "",
+    "airport_name": "degeh_bur_airport",
+    "location_served": "degeh_bur__ethiopia"
+  },
+  {
+    "iata": "DGD",
+    "icao": "YDGA",
+    "airport_name": "dalgaranga_airport[dapi]",
+    "location_served": "dalgaranga_gold_mine__western_australia__australia"
+  },
+  {
+    "iata": "DGE",
+    "icao": "YMDG",
+    "airport_name": "mudgee_airport",
+    "location_served": "mudgee__new_south_wales__australia"
+  },
+  {
+    "iata": "DGF",
+    "icao": "",
+    "airport_name": "douglas_lake_airport[dapi]",
+    "location_served": "douglas_lake__british_columbia__canada"
+  },
+  {
+    "iata": "DGH",
+    "icao": "VEDO",
+    "airport_name": "deoghar_airport[dapi]",
+    "location_served": "deoghar__jharkhand__india"
+  },
+  {
+    "iata": "DGK",
+    "icao": "",
+    "airport_name": "dugong_beach_lodge_airstrip[dapi]",
+    "location_served": "dugong_beach_lodge__mozambique"
+  },
+  {
+    "iata": "DGL",
+    "icao": "KDGL",
+    "airport_name": "douglas_municipal_airport",
+    "location_served": "douglas__arizona__united_states"
+  },
+  {
+    "iata": "DGM",
+    "icao": "",
+    "airport_name": "dandugama_seaplane_base[dapi]",
+    "location_served": "colombo__sri_lanka"
+  },
+  {
+    "iata": "DGN",
+    "icao": "KNDY",
+    "airport_name": "naval_surface_warfare_center_dahlgren_division_(faa:_ndy)",
+    "location_served": "dahlgren__virginia__united_states"
+  },
+  {
+    "iata": "DGO",
+    "icao": "MMDO",
+    "airport_name": "general_guadalupe_victoria_international_airport",
+    "location_served": "durango__durango__mexico"
+  },
+  {
+    "iata": "DGP",
+    "icao": "EVDA",
+    "airport_name": "daugavpils_international_airport",
+    "location_served": "daugavpils__latvia"
+  },
+  {
+    "iata": "DGR",
+    "icao": "NZDA",
+    "airport_name": "dargaville_aerodrome",
+    "location_served": "dargaville__new_zealand"
+  },
+  {
+    "iata": "DGT",
+    "icao": "RPVD",
+    "airport_name": "sibulan_airport_(dumaguete_airport)",
+    "location_served": "dumaguete__philippines"
+  },
+  {
+    "iata": "DGU",
+    "icao": "DFOD",
+    "airport_name": "dédougou_airport",
+    "location_served": "dédougou__burkina_faso"
+  },
+  {
+    "iata": "DGW",
+    "icao": "KDGW",
+    "airport_name": "converse_county_airport",
+    "location_served": "douglas__wyoming__united_states"
+  },
+  {
+    "iata": "DHA",
+    "icao": "OEDR",
+    "airport_name": "king_abdulaziz_air_base",
+    "location_served": "dhahran__saudi_arabia"
+  },
+  {
+    "iata": "DHB",
+    "icao": "",
+    "airport_name": "deer_harbor_sea_plane_base[dapi]",
+    "location_served": "deer_harbor__washington__united_states"
+  },
+  {
+    "iata": "DHD",
+    "icao": "YDRH",
+    "airport_name": "durham_downs_airport",
+    "location_served": "durham_downs__queensland__australia"
+  },
+  {
+    "iata": "DHF",
+    "icao": "OMAM",
+    "airport_name": "al_dhafra_air_base",
+    "location_served": "abu_dhabi__united_arab_emirates"
+  },
+  {
+    "iata": "DHI",
+    "icao": "VNDH",
+    "airport_name": "dhangadhi_airport",
+    "location_served": "dhangadhi__nepal"
+  },
+  {
+    "iata": "DHL",
+    "icao": "ODAL",
+    "airport_name": "dhala_airport",
+    "location_served": "dhala__yemen"
+  },
+  {
+    "iata": "DHM",
+    "icao": "VIGG",
+    "airport_name": "gaggal_airport",
+    "location_served": "kangra__himachal_pradesh__india"
+  },
+  {
+    "iata": "DHN",
+    "icao": "KDHN",
+    "airport_name": "dothan_regional_airport",
+    "location_served": "dothan__alabama__united_states"
+  },
+  {
+    "iata": "DHR",
+    "icao": "EHKD",
+    "airport_name": "de_kooy_airfield",
+    "location_served": "den_helder__netherlands"
+  },
+  {
+    "iata": "DHT",
+    "icao": "KDHT",
+    "airport_name": "dalhart_municipal_airport",
+    "location_served": "dalhart__texas__united_states"
+  },
+  {
+    "iata": "DIA",
+    "icao": "OTBD",
+    "airport_name": "doha_international_airport",
+    "location_served": "doha__qatar"
+  },
+  {
+    "iata": "DIB",
+    "icao": "VEMN",
+    "airport_name": "dibrugarh_airport_(mohanbari_airport)",
+    "location_served": "dibrugarh__assam__india"
+  },
+  {
+    "iata": "DIE",
+    "icao": "FMNA",
+    "airport_name": "arrachart_airport",
+    "location_served": "antsiranana__madagascar"
+  },
+  {
+    "iata": "DIG",
+    "icao": "ZPDQ",
+    "airport_name": "diqing_shangri-la_airport",
+    "location_served": "shangri-la__yunnan__china"
+  },
+  {
+    "iata": "DIJ",
+    "icao": "LFSD",
+    "airport_name": "dijon_air_base",
+    "location_served": "dijon__burgundy__france"
+  },
+  {
+    "iata": "DIK",
+    "icao": "KDIK",
+    "airport_name": "dickinson_theodore_roosevelt_regional_airport",
+    "location_served": "dickinson__north_dakota__united_states"
+  },
+  {
+    "iata": "DIL",
+    "icao": "WPDL",
+    "airport_name": "presidente_nicolau_lobato_international_airport",
+    "location_served": "dili__east_timor"
+  },
+  {
+    "iata": "DIM",
+    "icao": "DIDK",
+    "airport_name": "dimbokro_airport",
+    "location_served": "dimbokro__ivory_coast"
+  },
+  {
+    "iata": "DIN",
+    "icao": "VVDB",
+    "airport_name": "dien_bien_phu_airport",
+    "location_served": "dien_bien_phu__vietnam"
+  },
+  {
+    "iata": "DIO",
+    "icao": "PPDM",
+    "airport_name": "diomede_heliport",
+    "location_served": "diomede__alaska__united_states"
+  },
+  {
+    "iata": "DIP",
+    "icao": "DFED",
+    "airport_name": "diapaga_airport",
+    "location_served": "diapaga__burkina_faso"
+  },
+  {
+    "iata": "DIQ",
+    "icao": "SNDV",
+    "airport_name": "divinópolis_airport_(brigadeiro_cabral_airport)",
+    "location_served": "divinópolis__minas_gerais__brazil"
+  },
+  {
+    "iata": "DIR",
+    "icao": "HADR",
+    "airport_name": "aba_tenna_dejazmach_yilma_international_airport",
+    "location_served": "dire_dawa__ethiopia"
+  },
+  {
+    "iata": "DIS",
+    "icao": "FCPL",
+    "airport_name": "dolisie_airport",
+    "location_served": "dolisie__republic_of_the_congo"
+  },
+  {
+    "iata": "DIU",
+    "icao": "",
+    "airport_name": "diu_airport",
+    "location_served": "diu__daman_and_diu__india"
+  },
+  {
+    "iata": "DIV",
+    "icao": "DIDV",
+    "airport_name": "divo_airport",
+    "location_served": "divo__ivory_coast"
+  },
+  {
+    "iata": "DIW",
+    "icao": "",
+    "airport_name": "mawella_lagoon_seaplane_base[dapi]",
+    "location_served": "dickwella__sri_lanka"
+  },
+  {
+    "iata": "DIY",
+    "icao": "LTCC",
+    "airport_name": "diyarbakır_airport",
+    "location_served": "diyarbakır__turkey"
+  },
+  {
+    "iata": "DJA",
+    "icao": "DBBD",
+    "airport_name": "djougou_airport",
+    "location_served": "djougou__benin"
+  },
+  {
+    "iata": "DJB",
+    "icao": "WIPA",
+    "airport_name": "sultan_thaha_airport",
+    "location_served": "jambi__indonesia"
+  },
+  {
+    "iata": "DJE",
+    "icao": "DTTJ",
+    "airport_name": "djerba–zarzis_international_airport",
+    "location_served": "djerba__tunisia"
+  },
+  {
+    "iata": "DJG",
+    "icao": "DAAJ",
+    "airport_name": "tiska_djanet_airport",
+    "location_served": "djanet__algeria"
+  },
+  {
+    "iata": "DJH",
+    "icao": "",
+    "airport_name": "jebel_ali_seaplane_base",
+    "location_served": "dubai__united_arab_emirates"
+  },
+  {
+    "iata": "DJJ",
+    "icao": "WAJJ",
+    "airport_name": "sentani_airport",
+    "location_served": "jayapura__indonesia"
+  },
+  {
+    "iata": "DJM",
+    "icao": "FCBD",
+    "airport_name": "djambala_airport",
+    "location_served": "djambala__republic_of_the_congo"
+  },
+  {
+    "iata": "DJN",
+    "icao": "",
+    "airport_name": "delta_junction_airport_(faa:_ddapidapi)",
+    "location_served": "delta_junction__alaska__united_states"
+  },
+  {
+    "iata": "DJO",
+    "icao": "DIDL",
+    "airport_name": "daloa_airport",
+    "location_served": "daloa__ivory_coast"
+  },
+  {
+    "iata": "DJU",
+    "icao": "BIDV",
+    "airport_name": "djúpivogur_airport",
+    "location_served": "djúpivogur__iceland"
+  },
+  {
+    "iata": "DKA",
+    "icao": "",
+    "airport_name": "katsina_airport[dapi]",
+    "location_served": "katsina__nigeria"
+  },
+  {
+    "iata": "DKI",
+    "icao": "YDKI",
+    "airport_name": "dunk_island_airport",
+    "location_served": "dunk_island__queensland__australia"
+  },
+  {
+    "iata": "DKK",
+    "icao": "KDKK",
+    "airport_name": "chautauqua_county/dunkirk_airport",
+    "location_served": "dunkirk__new_york__united_states"
+  },
+  {
+    "iata": "DKR",
+    "icao": "GOOY",
+    "airport_name": "léopold_sédar_senghor_international_airport",
+    "location_served": "dakar__senegal"
+  },
+  {
+    "iata": "DKS",
+    "icao": "UODD",
+    "airport_name": "dikson_airport",
+    "location_served": "dikson__krasnoyarsk_krai__russia"
+  },
+  {
+    "iata": "DKV",
+    "icao": "YDVR",
+    "airport_name": "docker_river_airport",
+    "location_served": "docker_river__northern_territory__australia"
+  },
+  {
+    "iata": "DLA",
+    "icao": "FKKD",
+    "airport_name": "douala_international_airport",
+    "location_served": "douala__cameroon"
+  },
+  {
+    "iata": "DLB",
+    "icao": "",
+    "airport_name": "dalbertis_airport",
+    "location_served": "dalbertis__papua_new_guinea"
+  },
+  {
+    "iata": "DLC",
+    "icao": "ZYTL",
+    "airport_name": "dalian_zhoushuizi_international_airport",
+    "location_served": "dalian__liaoning__china"
+  },
+  {
+    "iata": "DLE",
+    "icao": "LFGJ",
+    "airport_name": "dole–jura_airport",
+    "location_served": "dole__franche-comté__france"
+  },
+  {
+    "iata": "DLF",
+    "icao": "KDLF",
+    "airport_name": "laughlin_air_force_base",
+    "location_served": "del_rio__texas__united_states"
+  },
+  {
+    "iata": "DLG",
+    "icao": "PADL",
+    "airport_name": "dillingham_airport",
+    "location_served": "dillingham__alaska__united_states"
+  },
+  {
+    "iata": "DLH",
+    "icao": "KDLH",
+    "airport_name": "duluth_international_airport",
+    "location_served": "duluth__minnesota__united_states"
+  },
+  {
+    "iata": "DLI",
+    "icao": "VVDL",
+    "airport_name": "lien_khuong_airport",
+    "location_served": "da_lat__vietnam"
+  },
+  {
+    "iata": "DLK",
+    "icao": "YDLK",
+    "airport_name": "dulkaninna_airport",
+    "location_served": "dulkaninna__south_australia__australia"
+  },
+  {
+    "iata": "DLL",
+    "icao": "KDLC",
+    "airport_name": "dillon_county_airport_(faa:_dlc)",
+    "location_served": "dillon__south_carolina__united_states"
+  },
+  {
+    "iata": "DLM",
+    "icao": "LTBS",
+    "airport_name": "dalaman_airport",
+    "location_served": "dalaman__turkey"
+  },
+  {
+    "iata": "DLN",
+    "icao": "KDLN",
+    "airport_name": "dillon_airport",
+    "location_served": "dillon__montana__united_states"
+  },
+  {
+    "iata": "DLS",
+    "icao": "KDLS",
+    "airport_name": "columbia_gorge_regional_airport_(the_dalles_municipal_airport)",
+    "location_served": "the_dalles__oregon__united_states"
+  },
+  {
+    "iata": "DLU",
+    "icao": "ZPDL",
+    "airport_name": "dali_airport",
+    "location_served": "dali__yunnan__china"
+  },
+  {
+    "iata": "DLV",
+    "icao": "YDLV",
+    "airport_name": "delissaville_airport",
+    "location_served": "delissaville__northern_territory__australia"
+  },
+  {
+    "iata": "DLY",
+    "icao": "NVVD",
+    "airport_name": "dillon's_bay_airport",
+    "location_served": "dillon's_bay__erromango__tafea__vanuatu"
+  },
+  {
+    "iata": "DLZ",
+    "icao": "ZMDZ",
+    "airport_name": "dalanzadgad_airport",
+    "location_served": "dalanzadgad__mongolia"
+  },
+  {
+    "iata": "DMA",
+    "icao": "KDMA",
+    "airport_name": "davis–monthan_air_force_base",
+    "location_served": "tucson__arizona__united_states"
+  },
+  {
+    "iata": "DMB",
+    "icao": "UADD",
+    "airport_name": "taraz_airport_(jambyl_airport)",
+    "location_served": "taraz__kazakhstan"
+  },
+  {
+    "iata": "DMD",
+    "icao": "YDMG",
+    "airport_name": "doomadgee_airport",
+    "location_served": "doomadgee__queensland__australia"
+  },
+  {
+    "iata": "DME",
+    "icao": "UUDD",
+    "airport_name": "domodedovo_international_airport",
+    "location_served": "moscow__russia"
+  },
+  {
+    "iata": "DMK",
+    "icao": "VTBD",
+    "airport_name": "don_mueang_international_airport",
+    "location_served": "bangkok__thailand"
+  },
+  {
+    "iata": "DMM",
+    "icao": "OEDF",
+    "airport_name": "king_fahd_international_airport",
+    "location_served": "dammam__saudi_arabia"
+  },
+  {
+    "iata": "DMN",
+    "icao": "KDMN",
+    "airport_name": "deming_municipal_airport",
+    "location_served": "deming__new_mexico__united_states"
+  },
+  {
+    "iata": "DMO",
+    "icao": "KDMO",
+    "airport_name": "sedalia_regional_airport",
+    "location_served": "sedalia__missouri__united_states"
+  },
+  {
+    "iata": "DMR",
+    "icao": "",
+    "airport_name": "dhamar_airport",
+    "location_served": "dhamar__yemen"
+  },
+  {
+    "iata": "DMT",
+    "icao": "SWDM",
+    "airport_name": "diamantino_airport",
+    "location_served": "diamantino__mato_grosso__brazil"
+  },
+  {
+    "iata": "DMU",
+    "icao": "VEMR",
+    "airport_name": "dimapur_airport",
+    "location_served": "dimapur__nagaland__india"
+  },
+  {
+    "iata": "DNA",
+    "icao": "RODN",
+    "airport_name": "kadena_air_base",
+    "location_served": "kadena__okinawa__japan"
+  },
+  {
+    "iata": "DNB",
+    "icao": "YDBR",
+    "airport_name": "dunbar_airport",
+    "location_served": "dunbar__queensland__australia"
+  },
+  {
+    "iata": "DND",
+    "icao": "EGPN",
+    "airport_name": "dundee_airport",
+    "location_served": "dundee__scotland__united_kingdom"
+  },
+  {
+    "iata": "DNF",
+    "icao": "",
+    "airport_name": "martuba_air_base",
+    "location_served": "derna__libya"
+  },
+  {
+    "iata": "DNG",
+    "icao": "",
+    "airport_name": "doongan_airport[dapi]",
+    "location_served": "doongan__western_australia__australia"
+  },
+  {
+    "iata": "DNH",
+    "icao": "ZLDH",
+    "airport_name": "dunhuang_airport",
+    "location_served": "dunhuang__gansu__china"
+  },
+  {
+    "iata": "DNI",
+    "icao": "HSWD",
+    "airport_name": "wad_medani_airport",
+    "location_served": "wad_madani__sudan"
+  },
+  {
+    "iata": "DNK",
+    "icao": "UKDD",
+    "airport_name": "dnipro_international_airport",
+    "location_served": "dnipro__ukraine"
+  },
+  {
+    "iata": "DNL",
+    "icao": "KDNL",
+    "airport_name": "daniel_field",
+    "location_served": "augusta__georgia__united_states"
+  },
+  {
+    "iata": "DNM",
+    "icao": "",
+    "airport_name": "denham_airport",
+    "location_served": "denham__western_australia__australia"
+  },
+  {
+    "iata": "DNN",
+    "icao": "KDNN",
+    "airport_name": "dalton_municipal_airport",
+    "location_served": "dalton__georgia__united_states"
+  },
+  {
+    "iata": "DNO",
+    "icao": "SWDN",
+    "airport_name": "dianópolis_airport",
+    "location_served": "dianópolis__tocantins__brazil"
+  },
+  {
+    "iata": "DNP",
+    "icao": "VNDG",
+    "airport_name": "tribhuvannagar_airport_(dang_airport)",
+    "location_served": "tribhuwannagar__nepal"
+  },
+  {
+    "iata": "DNQ",
+    "icao": "YDLQ",
+    "airport_name": "deniliquin_airport",
+    "location_served": "deniliquin__new_south_wales__australia"
+  },
+  {
+    "iata": "DNR",
+    "icao": "LFRD",
+    "airport_name": "dinard–pleurtuit–saint-malo_airport",
+    "location_served": "dinard_/_saint-malo__brittany__france"
+  },
+  {
+    "iata": "DNS",
+    "icao": "KDNS",
+    "airport_name": "denison_municipal_airport",
+    "location_served": "denison__iowa__united_states"
+  },
+  {
+    "iata": "DNU",
+    "icao": "AYDN",
+    "airport_name": "dinangat_airport",
+    "location_served": "dinangat__papua_new_guinea"
+  },
+  {
+    "iata": "DNV",
+    "icao": "KDNV",
+    "airport_name": "vermilion_regional_airport",
+    "location_served": "danville__illinois__united_states"
+  },
+  {
+    "iata": "DNX",
+    "icao": "HSGG",
+    "airport_name": "galegu_airport",
+    "location_served": "dinder__sudan"
+  },
+  {
+    "iata": "DNZ",
+    "icao": "LTAY",
+    "airport_name": "denizli_çardak_airport",
+    "location_served": "denizli__turkey"
+  },
+  {
+    "iata": "DOA",
+    "icao": "",
+    "airport_name": "doany_airport",
+    "location_served": "doany__madagascar"
+  },
+  {
+    "iata": "DOB",
+    "icao": "WAPD",
+    "airport_name": "dobo_airport",
+    "location_served": "dobo__indonesia"
+  },
+  {
+    "iata": "DOC",
+    "icao": "",
+    "airport_name": "dornoch_airfield",
+    "location_served": "dornoch__scotland__united_kingdom"
+  },
+  {
+    "iata": "DOD",
+    "icao": "HTDO",
+    "airport_name": "dodoma_airport",
+    "location_served": "dodoma__tanzania"
+  },
+  {
+    "iata": "DOE",
+    "icao": "",
+    "airport_name": "djumu_airstrip",
+    "location_served": "djumu__suriname"
+  },
+  {
+    "iata": "DOG",
+    "icao": "HSDN",
+    "airport_name": "dongola_airport",
+    "location_served": "dongola__sudan"
+  },
+  {
+    "iata": "DOH",
+    "icao": "OTHH",
+    "airport_name": "hamad_international_airport",
+    "location_served": "doha__qatar"
+  },
+  {
+    "iata": "DOI",
+    "icao": "AYDO",
+    "airport_name": "doini_island_airport",
+    "location_served": "doini_island__papua_new_guinea"
+  },
+  {
+    "iata": "DOK",
+    "icao": "UKCC",
+    "airport_name": "donetsk_international_airport",
+    "location_served": "donetsk__ukraine"
+  },
+  {
+    "iata": "DOL",
+    "icao": "LFRG",
+    "airport_name": "deauville_–_saint-gatien_airport",
+    "location_served": "deauville__lower_normandy__france"
+  },
+  {
+    "iata": "DOM",
+    "icao": "TDPD",
+    "airport_name": "douglas–charles_airport",
+    "location_served": "saint_andrew_parish__dominica"
+  },
+  {
+    "iata": "DON",
+    "icao": "",
+    "airport_name": "dos_lagunas_airport",
+    "location_served": "dos_lagunas__guatemala"
+  },
+  {
+    "iata": "DOO",
+    "icao": "AYDR",
+    "airport_name": "dorobisoro_airstrip",
+    "location_served": "dorobisoro__papua_new_guinea"
+  },
+  {
+    "iata": "DOP",
+    "icao": "VNDP",
+    "airport_name": "dolpa_airport",
+    "location_served": "dolpa__nepal"
+  },
+  {
+    "iata": "DOR",
+    "icao": "DFEE",
+    "airport_name": "dori_airport",
+    "location_served": "dori__burkina_faso"
+  },
+  {
+    "iata": "DOS",
+    "icao": "",
+    "airport_name": "dios_airport",
+    "location_served": "dios__papua_new_guinea"
+  },
+  {
+    "iata": "DOU",
+    "icao": "SSDO",
+    "airport_name": "dourados_airport_(francisco_de_matos_pereira_airport)",
+    "location_served": "dourados__mato_grosso_do_sul__brazil"
+  },
+  {
+    "iata": "DOV",
+    "icao": "KDOV",
+    "airport_name": "dover_air_force_base",
+    "location_served": "dover__delaware__united_states"
+  },
+  {
+    "iata": "DOX",
+    "icao": "YDRA",
+    "airport_name": "dongara_airport",
+    "location_served": "dongara__western_australia__australia"
+  },
+  {
+    "iata": "DOY",
+    "icao": "ZSDY",
+    "airport_name": "dongying_shengli_airport[dapi]",
+    "location_served": "dongying__shandong__china"
+  },
+  {
+    "iata": "DPA",
+    "icao": "KDPA",
+    "airport_name": "dupage_airport",
+    "location_served": "west_chicago__illinois__united_states"
+  },
+  {
+    "iata": "DPB",
+    "icao": "SCBI",
+    "airport_name": "pampa_guanaco_airport",
+    "location_served": "camerón__timaukel__tierra_del_fuego_province__magallanes_region__chile"
+  },
+  {
+    "iata": "DPE",
+    "icao": "LFAB",
+    "airport_name": "dieppe_-_saint-aubin_airport",
+    "location_served": "dieppe__upper_normandy__france"
+  },
+  {
+    "iata": "DPG",
+    "icao": "KDPG",
+    "airport_name": "michael_army_airfield",
+    "location_served": "dugway__utah__united_states"
+  },
+  {
+    "iata": "DPL",
+    "icao": "RPMG",
+    "airport_name": "dipolog_airport",
+    "location_served": "dipolog__philippines"
+  },
+  {
+    "iata": "DPO",
+    "icao": "YDPO",
+    "airport_name": "devonport_airport",
+    "location_served": "devonport__tasmania__australia"
+  },
+  {
+    "iata": "DPS",
+    "icao": "WADD",
+    "airport_name": "ngurah_rai_international_airport",
+    "location_served": "denpasar_(bali)__indonesia"
+  },
+  {
+    "iata": "DPT",
+    "icao": "",
+    "airport_name": "deputatsky_airport",
+    "location_served": "deputatsky__yakutia__russia"
+  },
+  {
+    "iata": "DPU",
+    "icao": "",
+    "airport_name": "dumpu_airport",
+    "location_served": "dumpu__papua_new_guinea"
+  },
+  {
+    "iata": "DQA",
+    "icao": "ZYDQ",
+    "airport_name": "daqing_sartu_airport",
+    "location_served": "daqing__heilongjiang__china"
+  },
+  {
+    "iata": "DQM",
+    "icao": "",
+    "airport_name": "duqm_international_airport[dapi]",
+    "location_served": "duqm__oman"
+  },
+  {
+    "iata": "DRA",
+    "icao": "KDRA",
+    "airport_name": "desert_rock_airport",
+    "location_served": "mercury__nevada__united_states"
+  },
+  {
+    "iata": "DRB",
+    "icao": "YDBY",
+    "airport_name": "derby_airport",
+    "location_served": "derby__western_australia__australia"
+  },
+  {
+    "iata": "DRC",
+    "icao": "",
+    "airport_name": "dirico_airport",
+    "location_served": "dirico__angola"
+  },
+  {
+    "iata": "DRD",
+    "icao": "YDOR",
+    "airport_name": "dorunda_airport",
+    "location_served": "dorunda__queensland__australia"
+  }
+]
